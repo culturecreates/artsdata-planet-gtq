@@ -3,13 +3,11 @@ https://grandtheatre.qc.ca
 
 ## Input to Artsdata
 
-This website is crawled by an agent on the Artsdata Huginn platform.
+This website is crawled by an agent on the [Artsdata Huginn platform](https://huginn-staging.herokuapp.com/scenarios/26/diagram).
 
 It also has a taxonomy [gtq-event-type-mapping.ttl](https://github.com/culturecreates/artsdata-planet-gtq/blob/main/gtq-event-type-mapping.ttl) to map strings from the original website to Artsdata event types.
 
-Here is the summary of the GTQ pipeline.
-
-Overview of [Huginn](https://huginn-staging.herokuapp.com/scenarios/26/diagram) agents
+Here is the summary of the GTQ pipeline in Huginn:
 1. Crawl events listed on https://grandtheatre.qc.ca/programmation/
 2. Extract JSON-LD from each webpage
 3. Transform with the following SPARQLs
@@ -34,4 +32,4 @@ https://grandtheatre.qc.ca/programmation/
 
 ## Output from Artsdata
 
-Nothing is imported to GTQ at this time.
+Nothing is outputed from Artsdata for use by GTQ at this time.
