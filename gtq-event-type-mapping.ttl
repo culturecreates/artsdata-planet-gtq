@@ -11,7 +11,8 @@
 gtq:EventTypeScheme 
   skos:prefLabel "Types d'evenements Grand Théâtre du Québec"@fr ;
   rdfs:comment "Disciplines from GTQ website mapped to Artsdata Event Types http://kg.artsdata.ca/resource/ArtsdataEventTypes"@en ;
-  rdf:type skos:ConceptScheme .
+  rdf:type skos:ConceptScheme ;
+  <http://purl.org/vocab/vann/example> gtq:Musique .
 
 gtq:ChansonFrancophone   
   skos:prefLabel "Chanson francophone"@fr ; 
