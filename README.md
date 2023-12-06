@@ -1,4 +1,4 @@
-# Grand Theatre de Québec Website data pipelines
+# Grand Théâtre de Québec Website data pipelines
 https://grandtheatre.qc.ca
 
 ## Input to Artsdata
