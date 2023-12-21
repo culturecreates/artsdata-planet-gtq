@@ -9,7 +9,7 @@
 # Import into graph http://db.artsdata.ca/repositories/artsdata/rdf-graphs/grandtheatre-qc-ca-event-type-mapping
 
 gtq:EventTypeScheme 
-  skos:prefLabel "Types d'evenements Grand Théâtre du Québec"@fr ;
+  skos:prefLabel "Types d'evenements Grand Théâtre de Québec"@fr ;
   rdfs:comment "Disciplines from GTQ website mapped to Artsdata Event Types http://kg.artsdata.ca/resource/ArtsdataEventTypes"@en ;
   rdf:type skos:ConceptScheme ;
   <http://purl.org/vocab/vann/example> gtq:Musique .
