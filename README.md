@@ -5,7 +5,7 @@ https://grandtheatre.qc.ca
 
 This repo contains a manually created taxonomy [gtq-event-type-mapping.ttl](https://github.com/culturecreates/artsdata-planet-gtq/blob/main/gtq-event-type-mapping.ttl) to map strings from the original grandtheatre.qc.ca website to Artsdata event types. To push the taxonomy to Artsdata you can manually run the Github workflow in this repo.
 
-Check for missing event types using this [query](https://s.zazuko.com/jcBvdx).
+Check for missing event type mapping using this [query](https://s.zazuko.com/jcBvdx). If there is no closeMatch then one should be added in [gtq-event-type-mapping.ttl](https://github.com/culturecreates/artsdata-planet-gtq/blob/main/gtq-event-type-mapping.ttl) and pushed to Artsdata using the automatic workflow in this repo.
 
 
 ## Input to Artsdata
