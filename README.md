@@ -1,11 +1,17 @@
 # Grand Théâtre de Québec Website data pipelines
 https://grandtheatre.qc.ca
 
+## Mapping to Artsdata event types
+
+This repo contains a manually created taxonomy [gtq-event-type-mapping.ttl](https://github.com/culturecreates/artsdata-planet-gtq/blob/main/gtq-event-type-mapping.ttl) to map strings from the original grandtheatre.qc.ca website to Artsdata event types. To push the taxonomy to Artsdata you can manually run the Github workflow in this repo.
+
+Check for missing event types using this [query](https://s.zazuko.com/jcBvdx).
+
+
 ## Input to Artsdata
 
 This website is crawled by an agent on the [Artsdata Huginn platform](https://huginn-staging.herokuapp.com/scenarios/26/diagram).
 
-It also has a taxonomy [gtq-event-type-mapping.ttl](https://github.com/culturecreates/artsdata-planet-gtq/blob/main/gtq-event-type-mapping.ttl) to map strings from the original website to Artsdata event types. To push the taxonomy to Artsdata use the Github workflow in this repo.
 
 Here is the summary of the GTQ pipeline in Huginn:
 1. Crawl events listed on https://grandtheatre.qc.ca/programmation/
