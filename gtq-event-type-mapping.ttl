@@ -162,3 +162,45 @@ gtq:Théâtre
   skos:closeMatch adr:TheatrePerformance ; 
   skos:inScheme gtq:EventTypeScheme ;
   rdf:type skos:Concept  .
+
+# Variétés
+gtq:Variétés
+  skos:prefLabel "Variétés"@fr ; 
+  skos:relatedMatch adr:VarietyShow ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+# Expérience immersive
+gtq:ExpérienceImmersive
+  skos:prefLabel "Expérience immersive"@fr ; 
+  skos:relatedMatch adr:ExhibitionEvent ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+# Danse hip-hop
+gtq:DanseHipHop
+  skos:prefLabel "Danse hip-hop"@fr ; 
+  skos:relatedMatch adr:DancePerformance ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+# Folk
+gtq:Folk
+  skos:prefLabel "Folk"@fr ; 
+  skos:relatedMatch adr:MusicPerformance ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+# Rap
+gtq:Rap
+  skos:prefLabel "Rap"@fr ; 
+  skos:relatedMatch adr:MusicPerformance ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+# Ciné-concert
+gtq:CinéConcert
+  skos:prefLabel "Ciné-concert"@fr ; 
+  skos:relatedMatch adr:ScreeningEvent ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
