@@ -204,3 +204,19 @@ gtq:CinéConcert
   skos:relatedMatch adr:ScreeningEvent ; 
   skos:inScheme gtq:EventTypeScheme ;
   rdf:type skos:Concept  .
+
+# Added 24-OCT-2024
+
+# Électro
+gtq:Électro
+  skos:prefLabel "Électro"@fr ; 
+  skos:relatedMatch adr:MusicPerformance ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+# Spectacle des fêtes
+gtq:Électro
+  skos:prefLabel "Spectacle des fêtes"@fr ; 
+  skos:relatedMatch adr:PerformingArtsEvent ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
