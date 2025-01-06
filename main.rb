@@ -76,6 +76,17 @@ events.each do |event|
   end
 end
 
+sparql_paths = [
+  "./sparql/create_eventseries.sparql",
+  "./sparql/copy_subevent_data_to_eventseries.sparql"
+]
+
+sparql_paths.each do |sparql_path|
+  puts "Executing #{sparql_path}"
+  file = File.read(sparql_path)
+  events_graph.query(SPARQL.parse(file, update: true))
+end
+
 # Save the updated events graph
 File.open("output/grandtheatrequebec-events-with-concept.jsonld", 'w') do |file|
   file.puts(events_graph.dump(:jsonld))

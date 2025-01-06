@@ -49,7 +49,7 @@ jobs:
       - name: Import data using artsdata pipeline action
         uses: culturecreates/artsdata-pipeline-action@v2
         with:
-          artifact: "grandtheatrequebec-ca"
+          artifact: "derived-grandtheatrequebec-ca"
           publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
           downloadUrl: "https://raw.githubusercontent.com/culturecreates/artsdata-planet-gtq/refs/heads/main/output/grandtheatrequebec-events-with-concept.jsonld"
         
