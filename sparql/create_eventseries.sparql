@@ -9,7 +9,7 @@ where {
         select ?page (count(?event) as ?count) ?eventSeries
         where {
             ?event a schema:Event ; schema:url ?page .
-            bind(URI(concat(str(?page),"#EventSeries")) as ?eventSeries)
+            BIND(URI(REPLACE(concat(str(?page),"#EventSeries"), "www.", "")) as ?eventSeries)
         }
         group by ?page ?eventSeries
         HAVING(?count > 1)
