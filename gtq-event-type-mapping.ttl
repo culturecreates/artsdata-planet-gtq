@@ -220,3 +220,13 @@ gtq:Électro
   skos:relatedMatch adr:PerformingArtsEvent ; 
   skos:inScheme gtq:EventTypeScheme ;
   rdf:type skos:Concept  .
+
+# Cirque
+gtq:Cirque
+  skos:prefLabel "Cirque"@fr ; 
+  skos:relatedMatch adr:CircusPerformance ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+
+
