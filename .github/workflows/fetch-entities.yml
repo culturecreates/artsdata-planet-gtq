@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Fetch data using artsdata pipeline action
-        uses: culturecreates/artsdata-pipeline-action@v2
+        uses: culturecreates/artsdata-pipeline-action@v3
         with:
           mode: "fetch"
-          downloadFile: "grandtheatrequebec-events.jsonld"
+          downloadFile: "output/grandtheatrequebec-events.jsonld"
           page-url: "https://grandtheatre.qc.ca/programmation/"
           entity-identifier: "article.show a"
           token: "${{ secrets.GITHUB_TOKEN }}"
@@ -53,7 +53,7 @@ jobs:
     needs: add-concepts-and-perform-sparql-transformations
     steps:
       - name: Import data using artsdata pipeline action
-        uses: culturecreates/artsdata-pipeline-action@v2
+        uses: culturecreates/artsdata-pipeline-action@v3
         with:
           artifact: "derived-grandtheatre-qc-ca"
           publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
