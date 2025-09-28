@@ -215,7 +215,7 @@ gtq:Électro
   rdf:type skos:Concept  .
 
 # Spectacle des fêtes
-gtq:Électro
+gtq:Fêtes
   skos:prefLabel "Spectacle des fêtes"@fr ; 
   skos:relatedMatch adr:PerformingArtsEvent ; 
   skos:inScheme gtq:EventTypeScheme ;
@@ -224,9 +224,31 @@ gtq:Électro
 # Cirque
 gtq:Cirque
   skos:prefLabel "Cirque"@fr ; 
-  skos:relatedMatch adr:CircusPerformance ; 
+  skos:closeMatch adr:CircusPerformance ; 
   skos:inScheme gtq:EventTypeScheme ;
   rdf:type skos:Concept  .
 
+# Added 28-SEP-2025
+gtq:Blues
+  skos:prefLabel "Blues"@fr ; 
+  skos:relatedMatch adr:MusicPerformance ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
 
+gtq:Magie
+  skos:prefLabel "Magie"@fr ; 
+  skos:relatedMatch adr:Event ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
 
+gtq:Projection
+  skos:prefLabel "Magie"@fr ; 
+  skos:closeMatch adr:ScreeningEvent ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
+
+gtq:Vernissage   
+  skos:prefLabel "Vernissage avec prestation"@fr ; 
+  skos:relatedMatch adr:Event ; 
+  skos:inScheme gtq:EventTypeScheme ;
+  rdf:type skos:Concept  .
