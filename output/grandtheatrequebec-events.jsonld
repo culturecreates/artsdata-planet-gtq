@@ -1,22 +1,22 @@
 [
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/",
+    "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/",
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "/programmation/sue-foley/"
+        "@value": "/programmation/dialogues-carmelites/"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Sue Foley"
+        "@value": "Dialogues des Carmélites de Francis Poulenc"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "fr",
-        "@value": "Voyez Sue Foley au Grand Théâtre de Québec le 3 juillet prochain! Billets en vente maintenant."
+        "@value": "Soyez des nôtres pour « Dialogues des Carmélites de Francis Poulenc » au Grand Théâtre de Québec!"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -27,7 +27,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/"
+        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/"
       }
     ]
   },
@@ -207,359 +207,6 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/sue-foley-2026-07-04-00-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T04:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599_GTQ_SueFoley.png"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/1a3e24201dd1d8fd"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/sue-foley"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-07-04T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/sue-foley/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Nommée aux GRAMMY®, la guitariste et chanteuse blues canadienne Sue Foley et son groupe livrent un blues texan énergique et flamboyant. Celle qui possède une voix redoutable et un charisme irrésistible vibre sur scène avec autant d’aisance que de fougue.Une présentation de District 7 Productions« Et quelle énergie !... Un groove savoureux, tout droit venu des tripes et du cœur. Continuez à rocker ! » — Billy Gibbons, ZZ Top« Sue Foley a une façon bien à elle de faire exploser le blues depuis la scène. » — Americana Highways"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sue Foley"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599_GTQ_SueFoley.png",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599_GTQ_SueFoley.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599_GTQ_SueFoley.png"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@language": "fr",
-        "@value": "79596"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@language": "fr",
-        "@value": "599 px"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "428x599_GTQ_SueFoley"
-      }
-    ],
-    "http://schema.org/thumbnail": [
-      {
-        "@language": "fr",
-        "@value": "/uploads/images/428x599_GTQ_SueFoley.max-200x200.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@language": "fr",
-        "@value": "428 px"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/grandtheatre"
-      },
-      {
-        "@id": "https://twitter.com/GrandTheatreQc"
-      },
-      {
-        "@id": "https://www.instagram.com/grandtheatreqc/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q3114610"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/1a3e24201dd1d8fd",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzAyNjE3MDE%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "62.25"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/sue-foley",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sue Foley"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/4bd639da-7550-463d-ad13-510b2119828b",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/grandtheatre"
-      },
-      {
-        "@id": "https://twitter.com/GrandTheatreQc"
-      },
-      {
-        "@id": "https://www.instagram.com/grandtheatreqc/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q3114610"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/90ca7617-5695-4bed-9e10-c60dc9388d14",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/about": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
-      }
-    ],
-    "http://schema.org/dateCreated": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2019-07-17"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/sue-foley/"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/",
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "/programmation/dialogues-carmelites/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Dialogues des Carmélites de Francis Poulenc"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Soyez des nôtres pour « Dialogues des Carmélites de Francis Poulenc » au Grand Théâtre de Québec!"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/"
-      }
-    ]
-  },
-  {
     "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/dialogues-carmelites-2026-07-28-23-30",
     "@type": [
       "http://schema.org/Event"
@@ -731,6 +378,64 @@
       {
         "@language": "fr",
         "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/grandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/GrandTheatreQc"
+      },
+      {
+        "@id": "https://www.instagram.com/grandtheatreqc/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q3114610"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
       }
     ]
   },
@@ -2658,7 +2363,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9ac87385-ec3f-4942-a0d0-d3a8aebf16a7",
+    "@id": "https://grandtheatre.qc.ca/temporary/509106b8-b1a7-44cc-a573-ffcca8f28367",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2721,7 +2426,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ebe2cdc6-e793-4583-83ea-84e9b0d00475",
+    "@id": "https://grandtheatre.qc.ca/temporary/1b0ca855-b531-4076-9445-8a60b722dacc",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -2975,7 +2680,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://grandtheatre.qc.ca/genid/ebeb556f7a815855"
+        "@id": "https://grandtheatre.qc.ca/genid/7b6efccc9d9fb689"
       }
     ],
     "http://schema.org/organizer": [
@@ -3028,7 +2733,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/ebeb556f7a815855",
+    "@id": "https://grandtheatre.qc.ca/genid/7b6efccc9d9fb689",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3040,7 +2745,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "OutOfStock"
+        "@value": "InStock"
       }
     ],
     "http://schema.org/price": [
@@ -3057,7 +2762,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f22e7608-fb8a-47a3-883e-0fdc2929e42b",
+    "@id": "https://grandtheatre.qc.ca/temporary/2d4e6279-0956-409a-bf70-9a36760f67f6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3120,7 +2825,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a1585193-61f4-4be4-8a48-ed0629568f6f",
+    "@id": "https://grandtheatre.qc.ca/temporary/a44ecdc9-8324-4746-b370-c18a34fe978f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -7192,7 +6897,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/99782474-2972-464f-87fb-ca062ba4b554",
+    "@id": "https://grandtheatre.qc.ca/temporary/4d9bf7d6-d9ed-485b-8297-57a46c5267cd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7255,7 +6960,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/77a64e10-49dc-4e08-836e-4bd3df80df33",
+    "@id": "https://grandtheatre.qc.ca/temporary/842001f6-c437-470f-ba76-c62fd5b618ad",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -7551,7 +7256,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/39730973-b595-4ce7-9165-f8bdb93c2315",
+    "@id": "https://grandtheatre.qc.ca/temporary/b3411abe-71da-459b-a590-04b705d526ec",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7614,7 +7319,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f68322d0-43eb-4161-8244-df3d7663d851",
+    "@id": "https://grandtheatre.qc.ca/temporary/478acdb2-cd6a-48ef-82ea-1b642a59f5fa",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -7846,7 +7551,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0c236053-8a51-443b-81f5-03e7762e9bbc",
+    "@id": "https://grandtheatre.qc.ca/temporary/64623012-6f0d-4921-bfcb-80cf7069556f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7909,7 +7614,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c47b3907-4094-43b4-ba66-f1cb16e63ee4",
+    "@id": "https://grandtheatre.qc.ca/temporary/e1db96b4-bc81-4c35-9a25-ce5b22205ec9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -8173,7 +7878,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/175632e2-150a-4928-9e76-37733035a591",
+    "@id": "https://grandtheatre.qc.ca/temporary/1e114cc5-2879-4a2a-8d0a-a69241f054a0",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8236,7 +7941,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d2cffc37-fb73-4f31-92d0-0260d6960dc3",
+    "@id": "https://grandtheatre.qc.ca/temporary/49fd225e-5a46-4b25-833e-5bb76bbe97ab",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -10452,7 +10157,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/72352bb6-9468-42dd-b57e-d374e6d9fc41",
+    "@id": "https://grandtheatre.qc.ca/temporary/cdd682fd-774a-46f4-bf8d-c8a052021bf8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -10515,7 +10220,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7f2aa5ef-84c4-4702-9340-8fae63869785",
+    "@id": "https://grandtheatre.qc.ca/temporary/09117ced-cba8-4745-b69d-8b82c66d4c54",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -14767,7 +14472,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f70f3640-4550-455b-975f-3408427a9613",
+    "@id": "https://grandtheatre.qc.ca/temporary/f2a7e5b2-393e-430a-85c3-a6e57ade928d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14830,7 +14535,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bdab93dd-da5f-41eb-9965-f5902da477a3",
+    "@id": "https://grandtheatre.qc.ca/temporary/bd81cc4f-97d2-40ce-9d0f-591315658a14",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16634,7 +16339,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/34ed465d-1329-4263-a7df-acd51c978243",
+    "@id": "https://grandtheatre.qc.ca/temporary/fbe2c77f-4a76-4497-b957-f5cd6d136022",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -16697,7 +16402,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/332f594d-9807-45d7-8954-6a99f5704cd1",
+    "@id": "https://grandtheatre.qc.ca/temporary/1b86c59e-1479-406a-a610-40f77beae529",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17020,7 +16725,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bd2bc420-560c-46bb-ab32-2ddd0b63336d",
+    "@id": "https://grandtheatre.qc.ca/temporary/c17fd8af-4ae1-4e4d-b368-cf26eeb994cb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17083,7 +16788,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/26ee1e97-5ba8-4d4a-ae10-a216249495df",
+    "@id": "https://grandtheatre.qc.ca/temporary/b4bc9fc4-727a-4d1e-8fb9-866a289d2645",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17539,7 +17244,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b58429dd-1bb3-4967-a254-94c455923f7a",
+    "@id": "https://grandtheatre.qc.ca/temporary/9e63ed99-418a-4c30-9b4b-dcd637e604c2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17602,7 +17307,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c42da0f4-9df6-4ad9-b65e-66ef1bd3d7eb",
+    "@id": "https://grandtheatre.qc.ca/temporary/a4469674-70d6-4350-9581-c0cf15fadf91",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -18506,7 +18211,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/61922a39-0f17-4f05-b5a5-ecaa82086dfc",
+    "@id": "https://grandtheatre.qc.ca/temporary/edcb8659-da6f-4669-8e97-c985561af45f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18569,7 +18274,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e4f488b0-a787-4106-9e9c-f3bbb65f6558",
+    "@id": "https://grandtheatre.qc.ca/temporary/f506c956-f4b0-4fd8-b6c1-88bc8060ff2b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -19025,7 +18730,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e25704e0-dfcf-4716-b97d-e3dac43bae6a",
+    "@id": "https://grandtheatre.qc.ca/temporary/ec8af558-6ea7-4033-ad5a-fdbda18ce699",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19088,7 +18793,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f0bf17c8-dff1-401e-bd4b-8ff2b9e32496",
+    "@id": "https://grandtheatre.qc.ca/temporary/274182af-9511-4092-b290-d6503261b3d9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -19384,7 +19089,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/decfcb95-fc33-4a32-88b3-2b415304c545",
+    "@id": "https://grandtheatre.qc.ca/temporary/ad6da52e-6576-4363-98db-fbc51ecbca51",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19447,7 +19152,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/587a854e-5b93-4fcd-b873-c6e3c12791df",
+    "@id": "https://grandtheatre.qc.ca/temporary/6d32a6c6-fde4-4036-9352-506fe305a8ea",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20207,7 +19912,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d084b1d1-7644-40f0-9ede-5f47d322a05a",
+    "@id": "https://grandtheatre.qc.ca/temporary/1b3b068c-7aa0-4b60-a7ea-a81b0a401cf5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20270,7 +19975,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/020d2111-a78d-4068-b0a0-eec61b5dc807",
+    "@id": "https://grandtheatre.qc.ca/temporary/4c67dc6d-3fc0-449a-8556-f6d53684dbb1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20726,7 +20431,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a52a0311-8906-49d1-80ca-a157f25cb515",
+    "@id": "https://grandtheatre.qc.ca/temporary/462d07a1-ab92-443c-8359-7bcde390c74f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20789,7 +20494,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7ad92a07-3847-4c85-9bce-0f043ae93517",
+    "@id": "https://grandtheatre.qc.ca/temporary/bbe6dede-8912-483d-9d15-31a42044baf3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -21421,7 +21126,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4ae1caab-3808-496c-803f-f0c05c96d38b",
+    "@id": "https://grandtheatre.qc.ca/temporary/840a069f-537a-4f3b-83e9-4cf402ab6e9e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21484,7 +21189,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/69c63ea3-d0bf-4d3c-8563-92bb714eef35",
+    "@id": "https://grandtheatre.qc.ca/temporary/66ef3682-e750-4809-bab0-20d136ea262d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -21780,7 +21485,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b504b1fe-9ab8-4f67-b35b-fe2b985d22d3",
+    "@id": "https://grandtheatre.qc.ca/temporary/8563367d-4249-45bd-8900-fb4714d1b276",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21843,7 +21548,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/02244923-5de1-437c-99d8-41fae2992949",
+    "@id": "https://grandtheatre.qc.ca/temporary/2e6fe0ec-2107-4453-8fcb-aa0aab555785",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -22563,7 +22268,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cc944a48-510a-46b4-b84a-a2c0bd377dd0",
+    "@id": "https://grandtheatre.qc.ca/temporary/350a3f68-c9e9-444d-8896-b375b042179d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -22626,7 +22331,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5604ca2e-1aee-41d3-889d-72601c011fe8",
+    "@id": "https://grandtheatre.qc.ca/temporary/efd523fb-f68c-4aba-b300-4d3ff3b4e10d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -22985,7 +22690,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d4bdd7e2-fc6d-47f0-acff-1de6c4bd248a",
+    "@id": "https://grandtheatre.qc.ca/temporary/85b679b1-26e0-4b07-bdca-6d12a7c7a3bf",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23048,7 +22753,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/879c0766-5791-42eb-9ac5-d2a7e7fc2414",
+    "@id": "https://grandtheatre.qc.ca/temporary/2f5079e3-7cd2-4ca3-872f-0173aaed10fe",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23448,7 +23153,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d15d3283-f2d9-477c-9ed2-ca125559386d",
+    "@id": "https://grandtheatre.qc.ca/temporary/c7fe1eac-c831-431f-86be-08c0d1fe284b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23511,7 +23216,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a1092680-2e27-4d69-bfc0-0d781ef767e5",
+    "@id": "https://grandtheatre.qc.ca/temporary/c829aa77-e85e-4865-a06b-8e0d778a1f18",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23743,7 +23448,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7a7442f5-01de-4686-8cd4-b7bbeab5813d",
+    "@id": "https://grandtheatre.qc.ca/temporary/e768a211-4d7e-4cf1-a1b5-708a26881d72",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23806,7 +23511,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1d303ef2-ebd9-4ce1-87ab-e905c6a08ad7",
+    "@id": "https://grandtheatre.qc.ca/temporary/2d5242dc-b356-495a-b923-f39a7f983e65",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24070,7 +23775,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/035529cb-0e15-4752-9e0b-9c833f09f446",
+    "@id": "https://grandtheatre.qc.ca/temporary/aa2e0dff-f0a1-480b-912f-f8e547f9b736",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24133,7 +23838,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/89921f03-9990-4259-bf41-f5c060c40c62",
+    "@id": "https://grandtheatre.qc.ca/temporary/ce4f574e-f739-448f-a9ff-dab1b8afe5e9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24365,7 +24070,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c093f087-9741-49c1-b5a7-acadebf20c92",
+    "@id": "https://grandtheatre.qc.ca/temporary/acc3b0fc-8e06-4add-9a89-6690acb828e8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24428,7 +24133,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4c18b105-5a12-4aa4-ba04-9b2b771a9068",
+    "@id": "https://grandtheatre.qc.ca/temporary/7f4893c4-4ad5-4f6e-bff3-8f2b4887f784",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24692,7 +24397,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/dd1ef255-80b8-4b8c-9cf1-6d085c3a523f",
+    "@id": "https://grandtheatre.qc.ca/temporary/907da86b-9cbd-41fd-8d6c-a15145c66801",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24755,7 +24460,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/05d95e78-6290-43d9-98ea-fbf78d320892",
+    "@id": "https://grandtheatre.qc.ca/temporary/9002b289-db0e-40e5-b519-5fb4e4df15d8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24987,7 +24692,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/048c0b7a-f98d-46ba-9bd8-4f58bf2cde48",
+    "@id": "https://grandtheatre.qc.ca/temporary/23b9d4dc-3788-4e51-8412-751e03e4b2bd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -25050,7 +24755,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/22e9723a-8f0a-41f7-9909-205359c06893",
+    "@id": "https://grandtheatre.qc.ca/temporary/8a02c286-431e-4877-82ba-705d2b6e7db2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -25282,7 +24987,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4a2d036a-a67d-498f-baf4-0683a0d9c3fa",
+    "@id": "https://grandtheatre.qc.ca/temporary/38eff76b-bef6-443d-8457-e790396f4910",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -25345,7 +25050,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6c0ae963-82cd-453b-8cf7-d0240a72bdc1",
+    "@id": "https://grandtheatre.qc.ca/temporary/d5415232-f2ec-49d3-95b1-be51fcf4ca90",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -26913,7 +26618,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/978c2e6e-dc42-4e78-b666-ed3f8d5d1268",
+    "@id": "https://grandtheatre.qc.ca/temporary/17c1d867-6133-4261-ab1e-e0d5badd18d2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -26976,7 +26681,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7e2d0bc5-f026-4313-834c-d47d988cc6f1",
+    "@id": "https://grandtheatre.qc.ca/temporary/e7a9e02f-faed-4221-92ff-2fae063431e4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -27004,6 +26709,365 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://grandtheatre.qc.ca/programmation/orphee-eurydic/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/everybody-knows-leonard-cohen/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Everybody Knows - Leonard Cohen 10th Anniversary"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Soyez des nôtres pour ce première tournée hommage à Leonard Cohen. Billets en vente maintenant."
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/everybody-knows-leonard-cohen-2026-11-03-01-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-03T05:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/EverybodyKnows_428_599.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/cc5b3eb4909a91ea"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/9df41d535db1b30d"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/ecdbd0278bf6981a"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/everybody-knows-leonard-cohen-10th-anniversary"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-03T01:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "La famille de Leonard Cohen annonce la première tournée hommage officielle — dix ans après son décèsDix ans après sa disparition, les chansons de Leonard Cohen retrouvent la scène avec « Everybody Knows ». Interprétée par son fils, Adam Cohen, et pour la toute première fois, par son petit-fils, « Everybody Knows » est la première tournée hommage officielle produite par sa famille depuis la célébration commémorative de 2017 au Centre Bell de Montréal, où Lana Del Rey, Feist, Damien Rice, Courtney Love et The Lumineers s'étaient réunis pour lui rendre hommage.Créée et dirigée par Adam Cohen, cette production marie les chansons les plus marquantes de Leonard Cohen à une sélection d'archives photographiques et cinématographiques soigneusement choisies. La tournée débutera au Canada en novembre 2026 avant de se poursuivre en Europe au début de 2027. Adam partagera la scène avec son fils — le petit-fils de Leonard — et d'autres invités spéciaux qui seront annoncés à l'approche des représentations. La conception visuelle est signée Moment Factory, le studio montréalais à l'origine de productions scéniques pour Billie Eilish, Olivia Rodrigo et Madonna.« Mon père était profondément reconnaissant envers son public de faire vivre ses chansons. C'est exactement ce que nous souhaitons continuer à faire, et je n'aurais jamais imaginé le faire aux côtés de mon fils. Je doute que mon père l'ait imaginé, lui non plus. » — Adam CohenUne présentation du Grand Théâtre de Québec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Adam Cohen"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/EverybodyKnows_428_599.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/EverybodyKnows_428_599.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/EverybodyKnows_428_599.jpg"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "285778"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "EverybodyKnows_428_599"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/EverybodyKnows_428_599.max-200x200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/cc5b3eb4909a91ea",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNjE4MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "73.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/9df41d535db1b30d",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNjE4MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "115.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/ecdbd0278bf6981a",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNjE4MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "93.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/everybody-knows-leonard-cohen-10th-anniversary",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Everybody Knows Leonard Cohen : 10th Anniversary Concert Celebration"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/e2a3d145-d4b8-4a96-bed5-88e8e2b6875d",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/grandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/GrandTheatreQc"
+      },
+      {
+        "@id": "https://www.instagram.com/grandtheatreqc/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q3114610"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/2da9c00b-dc89-4443-9fd8-519dfba99738",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/everybody-knows-leonard-cohen/"
       }
     ],
     "http://schema.org/keywords": [
@@ -27208,7 +27272,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9003e0be-110d-4eeb-8710-88eabe830322",
+    "@id": "https://grandtheatre.qc.ca/temporary/b6c89453-be6f-4a01-b644-88cbab51b0bd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -27271,7 +27335,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/db89cd8b-1124-4577-8328-916ca5a122f5",
+    "@id": "https://grandtheatre.qc.ca/temporary/83e979a5-9c2d-4c08-aa2d-28da75952db6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -31431,7 +31495,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0e4ff011-1083-411b-be9a-702ec2d6eb77",
+    "@id": "https://grandtheatre.qc.ca/temporary/614a18e1-127f-49b2-947e-3a4907a6c21b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31494,7 +31558,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8acbf3c6-ca9e-483d-b6da-690f84112a84",
+    "@id": "https://grandtheatre.qc.ca/temporary/ee645f5f-96f8-4ad8-8059-3a0e3a20f388",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -31822,7 +31886,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/70536288-df4f-4e4f-afff-c4a38535a5de",
+    "@id": "https://grandtheatre.qc.ca/temporary/d6bc8db0-25b6-4adf-a47f-40a5640fc8e0",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31885,7 +31949,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a8bd8517-9823-41a8-9e6e-bf782f7481fb",
+    "@id": "https://grandtheatre.qc.ca/temporary/85bd9b50-d82d-4738-8215-37204003a4ae",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -32181,7 +32245,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/306453f5-28b0-4b53-aa7e-7bb0f0b8d9d1",
+    "@id": "https://grandtheatre.qc.ca/temporary/1fdf6a71-9767-4111-97d6-9a76d00b8b0a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32244,7 +32308,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/18d92f2e-4998-4082-b639-a5abd388f136",
+    "@id": "https://grandtheatre.qc.ca/temporary/e3ad4448-52fb-4e37-9923-1d9a8c3931ab",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -33148,7 +33212,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7882ed46-0491-46cb-b1f8-edad9e34811a",
+    "@id": "https://grandtheatre.qc.ca/temporary/0b6735ce-8d5d-4b3b-9ad3-0e3b1117b13c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33211,7 +33275,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a08dd4ec-2b58-4b4a-a518-6fd1fe85d7f7",
+    "@id": "https://grandtheatre.qc.ca/temporary/4c24a414-f242-4c24-a767-59835f7fd8e3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -33507,7 +33571,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/927bdcab-a95d-4dbd-90ac-2ffb37605e8e",
+    "@id": "https://grandtheatre.qc.ca/temporary/d843e0a3-1504-4fd6-b6f7-0a4297bd6781",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33570,7 +33634,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7f890308-b355-4e67-8339-75537e8e929d",
+    "@id": "https://grandtheatre.qc.ca/temporary/caa7e6cd-d289-4715-801c-1e367e091aca",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34474,7 +34538,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/905520ca-1121-4317-bcb4-84e968fa43ec",
+    "@id": "https://grandtheatre.qc.ca/temporary/ee954e55-7a98-4ea5-b5b6-9e460d9b69e8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -34537,7 +34601,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0f6d33f5-7592-4f44-8991-f6658b92cdbc",
+    "@id": "https://grandtheatre.qc.ca/temporary/7f9cbf68-38b4-43ab-9901-dfbd3d1a1bb7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34801,7 +34865,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b903378c-7283-4ac2-8ca4-06b42ad8e153",
+    "@id": "https://grandtheatre.qc.ca/temporary/f6cc2dfd-466c-4fc6-ae20-8a3501a897fd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -34864,7 +34928,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/88060002-d74e-4728-9d38-e0ecbe998561",
+    "@id": "https://grandtheatre.qc.ca/temporary/0c6aa631-b535-4634-b618-e27156cc4172",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35192,7 +35256,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/38dc85e7-72bd-4b27-b8da-839ec4804410",
+    "@id": "https://grandtheatre.qc.ca/temporary/c8a5062e-b71c-4ecf-b482-b67539ca0acb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -35255,7 +35319,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/edafff6a-ac85-4ed5-acd9-027b994d0d51",
+    "@id": "https://grandtheatre.qc.ca/temporary/5001404d-d1c2-48ed-aa61-eab80fddc036",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -36494,7 +36558,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9607081e-1ddf-4c0a-95a6-629fe27aeccb",
+    "@id": "https://grandtheatre.qc.ca/temporary/7781fb11-c47b-433a-a952-2e5d37f85528",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -36557,7 +36621,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bbcd0ad3-dedc-4364-a003-6d9896a5f442",
+    "@id": "https://grandtheatre.qc.ca/temporary/73a21134-6b1d-4f79-9342-ce1c98356b4a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -36789,7 +36853,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4704760d-19f2-4380-96c6-3501c2aa4196",
+    "@id": "https://grandtheatre.qc.ca/temporary/d2e759ff-e16d-4a70-b4c4-1310c3891b0e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -36852,7 +36916,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f589da32-698c-4e3a-b8b3-6b58f4588ae5",
+    "@id": "https://grandtheatre.qc.ca/temporary/b4a1ebcc-4167-4d7f-a899-e786cbb6d364",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -38500,7 +38564,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6f6de7fe-d641-41db-90f1-d78ba8117b44",
+    "@id": "https://grandtheatre.qc.ca/temporary/f80be79b-4c28-4c0a-ada4-77d7eb0b2e88",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -38563,7 +38627,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0d9feee7-1003-4275-9843-60995fd21d12",
+    "@id": "https://grandtheatre.qc.ca/temporary/bee8bcf1-6bcc-4aff-99b7-06fa5e922c11",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -38827,7 +38891,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b6bd23ec-1bf1-43f9-afc0-097cf8b9cd66",
+    "@id": "https://grandtheatre.qc.ca/temporary/2b141b96-1f6c-491e-9788-2abefbe8d2d1",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -38890,7 +38954,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/172db195-eea7-4d8a-b5c9-6fc30f7e7d42",
+    "@id": "https://grandtheatre.qc.ca/temporary/fcdb25b7-46e2-4f6d-bbd1-b97a886ab85a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39117,7 +39181,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0e5a7e5d-0230-4abf-98e2-eabc5616f6e0",
+    "@id": "https://grandtheatre.qc.ca/temporary/f3ccb156-eca2-457b-abed-2de0da346431",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -39180,7 +39244,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1164ad12-48ae-4d1e-8584-59b6c3f6a49b",
+    "@id": "https://grandtheatre.qc.ca/temporary/12efa0f9-a85f-43be-8654-ce164d8f643f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -40628,7 +40692,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/685438ed-d324-4bf6-8c71-3cd00498b3ff",
+    "@id": "https://grandtheatre.qc.ca/temporary/f4a1cec6-b930-4339-bd82-4f401f18e0d9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -40691,7 +40755,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/68b76d1d-f8b4-4eec-9041-898b8ed28ca7",
+    "@id": "https://grandtheatre.qc.ca/temporary/55155480-8408-4f44-862c-207b63518110",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -40923,7 +40987,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2fcb1667-26fd-49f6-ac79-dae7b790759b",
+    "@id": "https://grandtheatre.qc.ca/temporary/69096cf7-c219-4ee5-8cc3-c4f9acb09c94",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -40986,7 +41050,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/51fc149b-b0df-425d-b31e-257a811342b1",
+    "@id": "https://grandtheatre.qc.ca/temporary/7ab1dd92-862e-459d-9c7b-c6c627311833",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41234,7 +41298,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e2b6ff62-aca5-4127-81d7-ff245847fe7a",
+    "@id": "https://grandtheatre.qc.ca/temporary/2cda24dd-5159-43fb-8140-50a91f4ecb8b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41297,7 +41361,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/41b180e1-ca6a-4ddd-b8df-a087dc57f612",
+    "@id": "https://grandtheatre.qc.ca/temporary/36c010f5-fb6a-4685-b6fb-e3a5a48b5a09",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41697,7 +41761,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/951f5b2e-3752-4a06-ae1e-ce3f524aae1d",
+    "@id": "https://grandtheatre.qc.ca/temporary/0370aa26-7471-433f-93dc-81e18652589b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41760,7 +41824,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1e307528-2b21-45d4-be4a-03164f1ffc01",
+    "@id": "https://grandtheatre.qc.ca/temporary/171cc2fd-3d8b-4a33-bcf9-2313454f9889",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -42024,7 +42088,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8eb7302b-fd94-463c-bde6-4082191c211c",
+    "@id": "https://grandtheatre.qc.ca/temporary/dba66493-88c3-465e-bcd9-09fe7892570c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -42087,7 +42151,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4d4a3b06-1a26-4d85-8089-db711014dc9a",
+    "@id": "https://grandtheatre.qc.ca/temporary/4796506f-6a4d-413b-94ec-13e1df6a55aa",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -42351,7 +42415,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2b64c9a6-4dfe-440b-975d-2e2881073ba6",
+    "@id": "https://grandtheatre.qc.ca/temporary/e6b9622b-c674-4efb-9c42-2ce05089848b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -42414,7 +42478,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c97a4b91-7d54-4394-9740-edb180dfd750",
+    "@id": "https://grandtheatre.qc.ca/temporary/a3171250-88db-445b-b5a9-2dbc59aba546",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -42678,7 +42742,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6d5be55c-5c7f-4227-bbbf-cc459621cb1e",
+    "@id": "https://grandtheatre.qc.ca/temporary/f0715c79-dff1-4941-82fa-4a48ec538334",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -42741,7 +42805,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b2dda693-ca11-4ba0-b4b9-29a44e6d05c4",
+    "@id": "https://grandtheatre.qc.ca/temporary/5c67125f-eff3-4d67-8c6c-b70c21808010",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -44453,7 +44517,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ea6c6669-4184-476b-96af-d247c5888ac8",
+    "@id": "https://grandtheatre.qc.ca/temporary/21b0b239-1726-4c81-ae37-772237c61deb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -44516,7 +44580,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/36ba8e2e-24bb-4ea2-b6b5-01d9caeca6b5",
+    "@id": "https://grandtheatre.qc.ca/temporary/c9a88ded-264e-40c6-a9a3-868f1500db7a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -44812,7 +44876,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/db610188-1521-43a1-9e86-f32c19495a61",
+    "@id": "https://grandtheatre.qc.ca/temporary/4e79b521-fd76-49a6-8caf-75d06dbdbda6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -44875,7 +44939,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/947f3097-40c3-43c4-9afa-329104700947",
+    "@id": "https://grandtheatre.qc.ca/temporary/f2c99541-8cb1-477c-8b81-409911b41b81",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -45135,7 +45199,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b6b9ef4d-cd41-417a-a716-111f0a1cbff8",
+    "@id": "https://grandtheatre.qc.ca/temporary/968f8606-59b8-4a6c-858f-0ce301e9293b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -45198,7 +45262,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b3b9dc6f-6c10-4a68-8627-828a85073595",
+    "@id": "https://grandtheatre.qc.ca/temporary/c5ce662b-221f-4590-9771-3e05c128af4c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -46502,7 +46566,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/44145376-b1cd-4b70-b5ec-ec4cbf0df82c",
+    "@id": "https://grandtheatre.qc.ca/temporary/43b56f5f-f97b-40f4-8194-4b909ee5fb81",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -46565,7 +46629,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6866db2c-aa93-4841-aa74-3c4c403b7138",
+    "@id": "https://grandtheatre.qc.ca/temporary/01fd2b23-31cb-40c3-9f88-4293b9b19d0e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -46829,7 +46893,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/02621a8b-2ecb-4bab-bf45-953fc8acaa90",
+    "@id": "https://grandtheatre.qc.ca/temporary/cc16f562-8b95-4fea-89e2-9133b85f1c93",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -46892,7 +46956,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1e1887c4-83e6-4eca-9109-58671528fd50",
+    "@id": "https://grandtheatre.qc.ca/temporary/211fc2f3-d154-4600-8721-89ce2bc9bf29",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -47124,7 +47188,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3459c0d7-ad93-471c-ae6a-1274cd3ba7a9",
+    "@id": "https://grandtheatre.qc.ca/temporary/bf6d2073-212a-4f80-8607-1efb2b82da93",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47187,7 +47251,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e2e55623-e0bf-4ff1-943a-d27145a03b78",
+    "@id": "https://grandtheatre.qc.ca/temporary/e9bfe5dd-4b2c-41ac-9659-70ce77232490",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -47419,7 +47483,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4543a998-f2a1-4428-8109-7d8f24073da5",
+    "@id": "https://grandtheatre.qc.ca/temporary/5c1b2c25-94cf-453d-aa2b-e6c35d203f8f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47482,7 +47546,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f4455cc6-3e14-4655-a820-c61de4d4abb1",
+    "@id": "https://grandtheatre.qc.ca/temporary/fa504ebc-5da3-4da0-9313-465426589724",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -47882,7 +47946,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f6922639-1c6c-4bea-8ea6-8f441a62d81f",
+    "@id": "https://grandtheatre.qc.ca/temporary/8ed314a3-57f1-4976-82ac-8850e78eb909",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47945,7 +48009,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a2753749-5947-4342-b455-c060d3aa4557",
+    "@id": "https://grandtheatre.qc.ca/temporary/c940bac1-b5da-4a39-bce2-fc6721566882",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -48633,7 +48697,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c513cd1f-fa6a-45c0-bdf0-880f068ea566",
+    "@id": "https://grandtheatre.qc.ca/temporary/611fc703-5c25-41f8-b0b1-55be83ecbbb3",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -48696,7 +48760,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/515d8926-9636-4812-9493-02f01876f457",
+    "@id": "https://grandtheatre.qc.ca/temporary/f03751df-e338-45a2-8aab-16030c2ede4f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -49054,7 +49118,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fdeb7e9e-7a61-4967-9d31-f4e574c9d22f",
+    "@id": "https://grandtheatre.qc.ca/temporary/853fdc01-ac1e-486a-8004-e01ef9bbbdd7",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -49117,7 +49181,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c9177bae-ef27-4f83-a5f2-26c6ffd13bfc",
+    "@id": "https://grandtheatre.qc.ca/temporary/690eb1ea-26b7-47ca-877c-538ff97f0905",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -49477,7 +49541,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cf420307-8263-43a1-a16c-87a36a175101",
+    "@id": "https://grandtheatre.qc.ca/temporary/44ee4d36-50eb-4b50-a736-10b5219b15c9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -49540,7 +49604,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b26772cf-0bb3-47c1-a292-b7f9c43e6ac5",
+    "@id": "https://grandtheatre.qc.ca/temporary/574087d8-6b5c-4b7f-916e-f4d1391de657",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -50388,7 +50452,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/163ab45b-d537-4022-9e99-8e40d639cc58",
+    "@id": "https://grandtheatre.qc.ca/temporary/e61982c5-b47d-4eea-9b94-4984003b6164",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -50451,7 +50515,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/efc68159-bee4-466e-81cf-05d6010c2ecf",
+    "@id": "https://grandtheatre.qc.ca/temporary/13096363-4df2-4688-92a4-afc6fd57934a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -50979,7 +51043,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8d86fb91-1eea-40ff-988e-a3be7454f982",
+    "@id": "https://grandtheatre.qc.ca/temporary/28aaecc7-4577-48c8-b9de-74b0aea93270",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -51042,7 +51106,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/631b1dc3-1eb9-42f1-82ca-200b446e10f9",
+    "@id": "https://grandtheatre.qc.ca/temporary/f010b3ed-ad33-4f90-aba0-0599e119b2da",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51402,7 +51466,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/96f66292-ebcf-44d9-af54-58cd41f1b3d6",
+    "@id": "https://grandtheatre.qc.ca/temporary/1e7323c3-f5c5-41a0-b5ef-c1c169927aa2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -51465,7 +51529,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/08756056-5baa-4a16-9a1f-6f318f395ef1",
+    "@id": "https://grandtheatre.qc.ca/temporary/715683bb-d450-46e9-abb6-068183af9d11",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51697,7 +51761,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/18b06448-0838-4a68-b127-7a5689bd81b7",
+    "@id": "https://grandtheatre.qc.ca/temporary/a874dc5b-0990-4cc8-b344-320e638b01f8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -51760,7 +51824,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3ff7c678-ee5b-41f6-8840-1a0b0838800e",
+    "@id": "https://grandtheatre.qc.ca/temporary/d30c2501-c1aa-4491-8fb7-ad51470289b1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -55920,7 +55984,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b920dfa9-8d33-4130-8b50-5ff0187dc8f4",
+    "@id": "https://grandtheatre.qc.ca/temporary/99e465d0-a8fc-4cde-93d4-928bacbd4e4d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -55983,7 +56047,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/23d3a76d-ef7d-4484-ad6e-0d98d75d497d",
+    "@id": "https://grandtheatre.qc.ca/temporary/50cb1950-1038-42c9-b162-4c19f59076d5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -57695,7 +57759,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/515dfe0f-82e1-4759-aa14-0192a9489ecf",
+    "@id": "https://grandtheatre.qc.ca/temporary/b4814210-a163-4191-a0ea-2001026c0cdc",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -57758,7 +57822,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/564f694d-8e54-43e2-a125-2d81f4fc6735",
+    "@id": "https://grandtheatre.qc.ca/temporary/40a29d68-2f98-4b5d-916d-ec49e88c8708",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -58054,7 +58118,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7a7d1213-b6ce-439f-80d2-e52012a753d0",
+    "@id": "https://grandtheatre.qc.ca/temporary/27619e4a-7355-42b1-a0fb-21d74577aa9d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -58117,7 +58181,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/303deac7-a222-4702-ac60-c9329306366c",
+    "@id": "https://grandtheatre.qc.ca/temporary/338d6c59-6fa2-4bc5-9aa3-9e01c8a6404b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -58861,7 +58925,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e19757e9-8b03-4518-b163-71d8290ce38c",
+    "@id": "https://grandtheatre.qc.ca/temporary/c02af23b-8a91-4a32-b30e-ac960d4ddf30",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -58924,7 +58988,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c86b393d-37e5-4f9f-9129-21292820129b",
+    "@id": "https://grandtheatre.qc.ca/temporary/2b46ad25-eb43-43f3-b1ac-6de763ac513b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -59252,7 +59316,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0a8440e5-1749-48d7-9302-7067b95e45a6",
+    "@id": "https://grandtheatre.qc.ca/temporary/fb6a1f6e-0c9d-4b1b-a827-4bd6d5448af3",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -59315,7 +59379,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7d07b2fd-bb96-4ae9-b660-833564f35141",
+    "@id": "https://grandtheatre.qc.ca/temporary/c5633e7b-01e6-4234-89a8-317656ecb753",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -59579,7 +59643,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0b8d8743-ad3f-4832-89df-774c9855a010",
+    "@id": "https://grandtheatre.qc.ca/temporary/d6944d29-4b47-41ad-a401-16defc70fdd5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -59642,7 +59706,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d1c451b2-7cbc-4756-b721-ef03ce76839c",
+    "@id": "https://grandtheatre.qc.ca/temporary/c2791849-b7d4-4e98-967e-1dd5ccd63c82",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -60546,7 +60610,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9bd2395b-9c53-4394-b03c-85821dcdf89e",
+    "@id": "https://grandtheatre.qc.ca/temporary/df088633-3bcb-475e-981b-c065747248cd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60609,7 +60673,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/61ab4fd1-4c05-413b-a4f6-c0519f6cf97c",
+    "@id": "https://grandtheatre.qc.ca/temporary/c01eac59-24b3-47e8-bff3-9bbee745d873",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -60841,7 +60905,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4289cfeb-8f67-44b4-9bc2-76f68708dd67",
+    "@id": "https://grandtheatre.qc.ca/temporary/c4afb9ca-5ce0-49d2-95e3-9084f29fdfb4",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60904,7 +60968,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c741f3da-a715-4a09-91ea-ba7a779c6600",
+    "@id": "https://grandtheatre.qc.ca/temporary/deac31b0-1120-45b0-92c0-f8e3ef17551d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -62562,7 +62626,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a3c168f9-ff4f-43ee-a0f7-f235e55a91e0",
+    "@id": "https://grandtheatre.qc.ca/temporary/4fbd9d11-5926-4ee2-912b-fa92f3e443f5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -62625,7 +62689,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f5ecfb53-4c9e-4e83-af56-bfbc7a6d3a05",
+    "@id": "https://grandtheatre.qc.ca/temporary/e3224679-620a-4af6-bc1f-b124e68113e7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -66797,7 +66861,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ee197ff4-e77b-4059-a4d1-46f2578ab8af",
+    "@id": "https://grandtheatre.qc.ca/temporary/ec78af10-0bd3-46b2-b9ef-5a86212db11b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -66860,7 +66924,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c91abcf0-f8dd-4cd0-8188-b44542915c55",
+    "@id": "https://grandtheatre.qc.ca/temporary/952086de-00de-412b-96ec-1d39d306863c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -67188,7 +67252,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b793a004-a50d-47b7-99f4-5a66fe8c0729",
+    "@id": "https://grandtheatre.qc.ca/temporary/6b4cd0ca-4e60-4bdf-abaa-b3d8c9f9a224",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -67251,7 +67315,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/110fc7fd-4a65-423b-9a70-e8eed2b90a74",
+    "@id": "https://grandtheatre.qc.ca/temporary/e4f6bca9-8dc1-4849-a350-14b83ccc3ba8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -67810,7 +67874,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/84baab7e-3659-4ff2-ac4f-364445e6002f",
+    "@id": "https://grandtheatre.qc.ca/temporary/9e37df88-1c83-4043-afae-c38be079e75e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -67873,7 +67937,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cb41d123-7799-4954-a8f5-cacef3850cfd",
+    "@id": "https://grandtheatre.qc.ca/temporary/2e0222b5-49e8-48d4-a457-3671fe3b7c56",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -68777,7 +68841,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/246d43cd-8053-48a2-bf5e-bc50e2d76aa6",
+    "@id": "https://grandtheatre.qc.ca/temporary/93f16e2e-4f9e-4bd3-86e6-de3d94404c49",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -68840,7 +68904,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/022e669e-d2e3-44bb-83d4-968b7deca432",
+    "@id": "https://grandtheatre.qc.ca/temporary/09c94629-5387-4619-bfd5-b2ca268541fb",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69136,7 +69200,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/74833aa7-0ffa-4448-ad5f-a21364dda81b",
+    "@id": "https://grandtheatre.qc.ca/temporary/7bf56d89-58f4-4a89-a823-aa3c9d318ace",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -69199,7 +69263,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2c168184-1f73-44b0-a739-ecb63717fa7f",
+    "@id": "https://grandtheatre.qc.ca/temporary/b17715ef-2088-4e62-8362-b6a29b95e81a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69495,7 +69559,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2f4e25e9-a686-4736-b70e-9a5392c1bb61",
+    "@id": "https://grandtheatre.qc.ca/temporary/74bc5b3a-3388-4c88-a275-0e63e0ce1b2c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -69558,7 +69622,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/30e8f5a7-d790-48af-a31a-e2c1bd5e0788",
+    "@id": "https://grandtheatre.qc.ca/temporary/b719abd1-31f5-4e5a-ba81-35471330db6e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69854,7 +69918,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fdd4567e-dd3f-4b6f-bf33-210e63126844",
+    "@id": "https://grandtheatre.qc.ca/temporary/94556bb7-3651-4a87-9588-2d4fe44a9b06",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -69917,7 +69981,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/01c16fd4-0945-4924-83a8-5d690936fe35",
+    "@id": "https://grandtheatre.qc.ca/temporary/abe01c30-3a9f-4399-b02b-4e5e18b52aba",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70245,7 +70309,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8eb08f91-b26c-4f98-a3bd-6d7ea4626eb9",
+    "@id": "https://grandtheatre.qc.ca/temporary/0e3fd6d2-ed53-4eb1-87a9-f88316167fc2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -70308,7 +70372,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/112fb045-ee4e-434a-9e9b-2fb9990b198f",
+    "@id": "https://grandtheatre.qc.ca/temporary/6d263f98-e31c-4fae-a1da-625d7cf7d93b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70700,7 +70764,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a3b61dbf-49fe-4384-a781-64886f6c6e02",
+    "@id": "https://grandtheatre.qc.ca/temporary/a50866d9-3377-4ec9-9e18-73d43b107396",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -70763,7 +70827,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7319567a-4eee-4f45-b3e0-4a8908e3ec52",
+    "@id": "https://grandtheatre.qc.ca/temporary/a8482412-3fad-4bef-b783-fc06f84f3c60",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -71059,7 +71123,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/563af0e4-1fde-4ec9-ac13-8d162fc7275b",
+    "@id": "https://grandtheatre.qc.ca/temporary/83f0a74f-2a0b-4e39-b63c-ad23911cb277",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71122,7 +71186,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bc0713f8-5e4d-434a-871f-bebdaabb4233",
+    "@id": "https://grandtheatre.qc.ca/temporary/e906719a-78f4-4dcc-9bfb-4bdb34ddd013",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -71354,7 +71418,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/abda3eb4-0d00-4237-b459-4decff007516",
+    "@id": "https://grandtheatre.qc.ca/temporary/c990fae8-ba5e-4dd0-8bde-d390272c8fb9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71417,7 +71481,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/84765ef0-6033-4629-a1c4-a21b0f13c183",
+    "@id": "https://grandtheatre.qc.ca/temporary/bed76ada-a14c-46ee-90ab-59581adee1ca",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72321,7 +72385,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e0d4f7c6-7a5c-44f5-89b2-08cb9424c380",
+    "@id": "https://grandtheatre.qc.ca/temporary/ff18d3a3-415c-4f6f-b74f-ad344ed6c9d7",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -72384,7 +72448,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e2c52887-dc8d-43de-b6be-cb0f35061008",
+    "@id": "https://grandtheatre.qc.ca/temporary/5c996f41-3f2a-4346-8322-1c97d9d9f902",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72616,7 +72680,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/95aad27a-49ba-4e13-a492-8b37bdc89624",
+    "@id": "https://grandtheatre.qc.ca/temporary/61b838db-4753-4639-9c81-eb093e58d58b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -72679,7 +72743,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/18c5255f-2244-404f-9f6f-576ca6c00340",
+    "@id": "https://grandtheatre.qc.ca/temporary/307c3e9b-7779-4af6-9ce6-0a1d3f409f7c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72957,7 +73021,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6211024c-be9a-444e-a728-1b7eaa26d16b",
+    "@id": "https://grandtheatre.qc.ca/temporary/4fa6179c-6dfe-453b-acfb-5580cdb20b62",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -73020,7 +73084,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/11340ea0-5b59-4142-871f-8d01ee1e7253",
+    "@id": "https://grandtheatre.qc.ca/temporary/580480dc-264a-4275-8ab2-05511917ffd0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -73284,7 +73348,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6f7ffbf8-e9e5-4ca7-a1ce-b150dbded825",
+    "@id": "https://grandtheatre.qc.ca/temporary/de3e5229-63b3-4676-ad97-8353e9f573d8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -73347,7 +73411,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/eade67da-e511-4a2b-88b1-1bd6be7388c1",
+    "@id": "https://grandtheatre.qc.ca/temporary/d10cd78b-e765-4f14-9c61-dc77b782685a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -77507,7 +77571,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a1d7de91-8325-469c-968b-7c794f24b49c",
+    "@id": "https://grandtheatre.qc.ca/temporary/da1f9e82-93bc-456c-acb1-4ca01f1be4eb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -77570,7 +77634,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c1bcd4c0-b2f6-488b-9a91-11e3b7f95e81",
+    "@id": "https://grandtheatre.qc.ca/temporary/3cab2865-7eec-4dbd-a322-bbcc8cd20e2d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78474,7 +78538,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b3aea84a-d1f0-4ce9-b36a-1aaf21e2ac5d",
+    "@id": "https://grandtheatre.qc.ca/temporary/b0bdaac2-7af7-4e51-8d74-30a148da6986",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -78537,7 +78601,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0e825f9b-9941-496c-905b-73345afb5f82",
+    "@id": "https://grandtheatre.qc.ca/temporary/e4ac89f7-a0e4-4ac2-ab00-af5531b5dc9c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78833,7 +78897,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/71f862c6-c751-47dc-9c44-10bfccc12ab1",
+    "@id": "https://grandtheatre.qc.ca/temporary/01e049bd-2064-4c9d-ba90-0ee645620811",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -78896,7 +78960,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6608d970-c7ac-4a1f-a67b-773488e8224c",
+    "@id": "https://grandtheatre.qc.ca/temporary/10e10a31-1d8b-4cc4-a852-43c592d15cba",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -80608,7 +80672,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/692196bd-ca96-4487-a318-757ddd8f5618",
+    "@id": "https://grandtheatre.qc.ca/temporary/0f9ec1c6-8ded-446d-b427-42b2ff8852ea",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -80671,7 +80735,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d6703564-99f2-454f-bca1-4e08d224b23f",
+    "@id": "https://grandtheatre.qc.ca/temporary/04b7dcb9-ec75-4157-baad-8482885cfc4e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -81135,7 +81199,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b5fcb91d-d7dc-4ebf-9881-3d008a838eb8",
+    "@id": "https://grandtheatre.qc.ca/temporary/45dd4149-35ad-4077-8ddb-2919a6a8e295",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -81198,7 +81262,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ce66cbef-100c-4fc2-8022-318efb359298",
+    "@id": "https://grandtheatre.qc.ca/temporary/747916e3-3155-4d63-884a-540add572af7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -81440,7 +81504,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/93a0e145-d78e-4594-86e1-addc84eb82fe",
+    "@id": "https://grandtheatre.qc.ca/temporary/f01425ee-6c9b-4352-9e9a-5c0352a5f96a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -81503,7 +81567,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c54c5778-379b-4bcd-9fc4-eccc8c876d83",
+    "@id": "https://grandtheatre.qc.ca/temporary/69d3ffc8-630b-4fca-90c7-9cf1b6812754",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -83195,7 +83259,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4adf439d-5a23-413a-af78-655a12a2d817",
+    "@id": "https://grandtheatre.qc.ca/temporary/a08ae6b6-3668-4668-ad2c-58f253a87e17",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -83258,7 +83322,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fbef2c41-0707-468a-aee4-e359a3150e74",
+    "@id": "https://grandtheatre.qc.ca/temporary/925cf848-d37d-4b6d-bb3e-89d1a06b5286",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -83794,7 +83858,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/34e3a0e0-85d9-4e92-9a18-397730ab36ef",
+    "@id": "https://grandtheatre.qc.ca/temporary/cfd088a3-c172-4b7c-8fbe-b30370c242d8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -83857,7 +83921,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/87910977-7cb8-48d6-bddc-0aab75e5b748",
+    "@id": "https://grandtheatre.qc.ca/temporary/2314a125-cea1-45e2-887d-4835a924c463",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -85505,7 +85569,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d2841ae4-3f67-487b-b269-9808816043c8",
+    "@id": "https://grandtheatre.qc.ca/temporary/9ebe6d79-f838-4c25-9379-204d59abaff3",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -85568,7 +85632,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/50cd10b0-13b0-41a4-8ea0-dfdbaf35727b",
+    "@id": "https://grandtheatre.qc.ca/temporary/93f920b3-7696-45f9-964b-a1010bddbee3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -85832,7 +85896,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2cd7c195-07d4-46de-b35c-d335f9387a97",
+    "@id": "https://grandtheatre.qc.ca/temporary/852de5b8-1524-4cba-a567-554453caffd8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -85895,7 +85959,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7ca50548-e2fe-4cad-acb2-43af18e99c07",
+    "@id": "https://grandtheatre.qc.ca/temporary/38ccdaf7-696b-4a00-8b57-6a915ad2250f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -86191,7 +86255,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/93ce1989-620b-4a50-a8bf-8659dbe91907",
+    "@id": "https://grandtheatre.qc.ca/temporary/dd22ed10-a67a-458f-8cff-9391651cc21a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -86254,7 +86318,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/587a61f3-30a2-4f4f-94f2-29cf2b631806",
+    "@id": "https://grandtheatre.qc.ca/temporary/40b13dbf-2e10-49a2-a327-0b63c5be9142",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -87054,7 +87118,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4cc3b4de-fe4d-48e6-8ae1-51fcaf1d88ce",
+    "@id": "https://grandtheatre.qc.ca/temporary/2812ddc3-bbf8-42cb-9497-06c41f7e0342",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -87117,7 +87181,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/01812761-0246-4e9c-a65e-bb196d26dc18",
+    "@id": "https://grandtheatre.qc.ca/temporary/c515d465-3511-4d17-804e-918d1f75d482",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -87381,7 +87445,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/59162f3a-2edf-4a60-b415-26438f773bf7",
+    "@id": "https://grandtheatre.qc.ca/temporary/296b6fa9-9079-488c-9327-9746de7773ed",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -87444,7 +87508,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/879f18a3-a3d6-4b65-9874-1e5584b80024",
+    "@id": "https://grandtheatre.qc.ca/temporary/0db4cfff-8e1f-4611-8d5f-e192f171d0c6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -88416,7 +88480,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5c251813-19d7-445d-86ef-d59dcb871185",
+    "@id": "https://grandtheatre.qc.ca/temporary/1cdfbfb2-f322-43ae-b35c-bbdd143e3c24",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -88479,7 +88543,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/00e10a1b-9769-495d-b2de-2d61d2aa7a7c",
+    "@id": "https://grandtheatre.qc.ca/temporary/2520fcc8-c515-4817-b9b1-414692df49be",
     "@type": [
       "http://schema.org/WebSite"
     ],
