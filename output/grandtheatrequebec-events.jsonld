@@ -2487,7 +2487,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4348e710-34b2-4129-85fc-217a7fbaea07",
+    "@id": "https://grandtheatre.qc.ca/temporary/ebe1e7d8-6a1a-4882-b0f7-052981553446",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2550,7 +2550,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/90c967b8-006e-4fbc-8534-454fb11f6b90",
+    "@id": "https://grandtheatre.qc.ca/temporary/4b915ec5-f2ad-4b2f-8026-5a3c7918f689",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -2804,7 +2804,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://grandtheatre.qc.ca/genid/7b6efccc9d9fb689"
+        "@id": "https://grandtheatre.qc.ca/genid/ebeb556f7a815855"
       }
     ],
     "http://schema.org/organizer": [
@@ -2857,7 +2857,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/7b6efccc9d9fb689",
+    "@id": "https://grandtheatre.qc.ca/genid/ebeb556f7a815855",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2869,7 +2869,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "InStock"
+        "@value": "OutOfStock"
       }
     ],
     "http://schema.org/price": [
@@ -2886,7 +2886,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4b4b41a5-5847-489c-93ff-40470b6324a6",
+    "@id": "https://grandtheatre.qc.ca/temporary/6e595a08-e3ff-420d-bcff-9863936d0f01",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2949,7 +2949,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/493a507c-88b6-4e50-96d8-423c320e04e9",
+    "@id": "https://grandtheatre.qc.ca/temporary/009f3557-0d54-4de3-9961-ea70ab7ea74a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -3085,7 +3085,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -3375,7 +3375,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -3607,7 +3607,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -3839,7 +3839,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -4071,7 +4071,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -4303,7 +4303,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -4535,7 +4535,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -4767,7 +4767,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -4999,7 +4999,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -5231,7 +5231,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -5463,7 +5463,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -5695,7 +5695,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -5927,7 +5927,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -6159,7 +6159,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -6391,7 +6391,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -6623,7 +6623,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -6855,7 +6855,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose. Les artistes de la distribution seront annoncés prochainement.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
+        "@value": "Du 7 au 22 août 2026Après avoir conquis plus de 130 millions de spectateurs dans 53 pays, la comédie musicale légendaire Les Misérables arrive au Québec dans une production d’envergure à couper le souffle, avec toute la grandeur et l’émotion qui en ont fait un chef-d’œuvre intemporel.Inspiré du roman de Victor Hugo, le spectacle nous transporte dans la France du XIXe siècle. Les Misérables raconte l’histoire bouleversante de Jean Valjean, un ancien prisonnier traqué sans relâche par l’impitoyable inspecteur Javert. Sur son chemin, il croise Fantine, une ouvrière brisée par la misère, à qui il promet de veiller sur sa fille, la petite Cosette.Alors que la révolte gronde dans les rues de Paris, de jeunes révolutionnaires se soulèvent et les destins s’entrelacent dans un tourbillon d’émotions et de courage. Les Misérables nous plonge au cœur d’une fresque humaine puissante, remplie d’amour, de sacrifice et d’espoir — portée par des chansons emblématiques comme J’avais rêvé, À la volonté du peuple, Mon histoire et Le Grand jour.Ce spectacle-événement promet une expérience théâtrale grandiose.Après un triomphe à Paris, la comédie musicale légendaire d’Alain Boublil et Claude-Michel Schönberg, qui a remporté le Molière du Meilleur spectacle musical, est présenté au Québec par Juste pour rire, en collaboration avec le Théâtre du Châtelet et SPJL Productions – Stéphane Letellier-Rampon, en accord avec Cameron Mackintosh.Un phénomène mondial. Une musique inoubliable. Une histoire légendaire.Metteur en scène: Ladislas Chollat"
       }
     ],
     "http://schema.org/name": [
@@ -7021,7 +7021,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/63f9d963-c4df-4bd9-9a5f-152c925944a3",
+    "@id": "https://grandtheatre.qc.ca/temporary/911967a4-a281-411c-baee-0eba1ffac583",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7084,7 +7084,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/851cbc06-704c-46c8-b0ca-1cdd12d70a5d",
+    "@id": "https://grandtheatre.qc.ca/temporary/8ce5b712-2755-4882-8ba9-b3f6cb5299d6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -7380,7 +7380,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/dbd32bc0-b5c8-4852-aa9d-d37a56f9b5ba",
+    "@id": "https://grandtheatre.qc.ca/temporary/dad40505-3e6d-445a-a25e-8c5d09b52bbd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7443,7 +7443,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cd31e211-3764-49ee-a3a2-63ad9678d0e4",
+    "@id": "https://grandtheatre.qc.ca/temporary/2c01e95c-d982-4e93-93e2-7321c4b159fd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -7675,7 +7675,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5a88d225-2e93-4c26-b809-765e36996469",
+    "@id": "https://grandtheatre.qc.ca/temporary/b59c5b36-dc8c-466b-a29c-24af7803725c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7738,7 +7738,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/834c5428-1b98-40de-8b9e-796678e01e1e",
+    "@id": "https://grandtheatre.qc.ca/temporary/71521228-58bf-49b1-a178-ee49a61f6e24",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -8002,7 +8002,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/491f5dd6-4ae4-49ed-b28a-4fb128fe06cc",
+    "@id": "https://grandtheatre.qc.ca/temporary/1e37808f-1335-4e3f-907f-92f21dfeb317",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8065,7 +8065,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ebf15ba1-3b1b-497b-809f-313ba875b6a0",
+    "@id": "https://grandtheatre.qc.ca/temporary/d49c8511-81e6-4a73-914d-54e8a4e8d047",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -10281,7 +10281,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1a389f0a-2da3-46d6-83c2-286fffdd7bdf",
+    "@id": "https://grandtheatre.qc.ca/temporary/cb859746-7c5b-413a-867e-5751bc6b3464",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -10344,7 +10344,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7fe23cd9-e3ab-4d0e-acf4-cbc44a588a5f",
+    "@id": "https://grandtheatre.qc.ca/temporary/dc574c6a-90b5-448b-8632-267c4b2a051e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -14596,7 +14596,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5a2bc627-c1df-4e7d-8162-04b9438214f7",
+    "@id": "https://grandtheatre.qc.ca/temporary/a5f70d42-ef9b-4b2f-8ecf-a4954039f4a9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14659,7 +14659,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/970de342-90df-4fdb-bc82-59f549e47645",
+    "@id": "https://grandtheatre.qc.ca/temporary/dc183a04-6651-46dc-96fc-b111098173c8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16463,7 +16463,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f24c9109-40cb-4f1a-9829-73fc0646a6a3",
+    "@id": "https://grandtheatre.qc.ca/temporary/4a6ccc7d-7e90-408d-b699-8f9738b88bc9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -16526,7 +16526,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6bf11864-7035-4588-b079-2d30f3da15b3",
+    "@id": "https://grandtheatre.qc.ca/temporary/3163befc-06c9-4fb9-87ac-7a3492d2a4e3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16849,7 +16849,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8c3dd651-3300-4a32-9a55-b11018c6a198",
+    "@id": "https://grandtheatre.qc.ca/temporary/afecfc09-b5dc-4a9a-b102-40854ad4a70a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -16912,7 +16912,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/117b476e-835c-4cc9-abec-fa6595e4c0fc",
+    "@id": "https://grandtheatre.qc.ca/temporary/74b230ee-a0a6-42e3-8e13-66351ba42182",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17368,7 +17368,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f605e094-ab1f-49ea-8dc1-4dd4f94c8608",
+    "@id": "https://grandtheatre.qc.ca/temporary/53a179f3-f8a8-4344-96db-64068c0f083e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17431,7 +17431,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d1e77182-abe8-42a3-b3b1-619b12aa98e7",
+    "@id": "https://grandtheatre.qc.ca/temporary/0c20408c-96cb-4d00-8f62-0cf360a63aca",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -18335,7 +18335,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/42afa189-d961-4869-85c4-b285039d39df",
+    "@id": "https://grandtheatre.qc.ca/temporary/ee954d04-4f1b-41f7-91c4-fdb2773b4d95",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18398,7 +18398,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/01cb364d-1be1-4d69-b78e-ca3538917645",
+    "@id": "https://grandtheatre.qc.ca/temporary/257d76e1-3e8e-4e61-846f-32191045104b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -18854,7 +18854,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/728d3ab6-721f-47c6-8a4b-0630f5b5b5ed",
+    "@id": "https://grandtheatre.qc.ca/temporary/3902c9c1-259e-4a3b-9d1d-584bd7d6d2d3",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18917,7 +18917,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2d193f1b-64e5-4963-b177-372e2a938372",
+    "@id": "https://grandtheatre.qc.ca/temporary/7b9426e3-0d58-4644-ab3f-57983ca53739",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -19213,7 +19213,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/dc1750d6-c315-4cc4-9698-f51071604391",
+    "@id": "https://grandtheatre.qc.ca/temporary/1efbf4b3-a9f4-4f25-808d-aa1e37598847",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19276,7 +19276,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2ad7fe11-f6c6-4cbd-9570-aa1b131c8ddf",
+    "@id": "https://grandtheatre.qc.ca/temporary/fd31455e-f47b-4d64-bdb8-e8e909c3b466",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20036,7 +20036,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9f4171ae-442c-48fb-be41-2908ddd325e8",
+    "@id": "https://grandtheatre.qc.ca/temporary/dba9c9fe-df2f-47ed-acbe-b3349e474e75",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20099,7 +20099,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/960196dc-c314-418c-85a0-8128a6349eb9",
+    "@id": "https://grandtheatre.qc.ca/temporary/702bf688-bf01-4fe6-a552-072c58dc7c1f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20555,7 +20555,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/16530167-c50f-425f-919e-055c3bdff651",
+    "@id": "https://grandtheatre.qc.ca/temporary/45301b20-71e0-4d33-849f-8702478995b5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20618,7 +20618,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f12745bb-5a34-48a8-a355-69ca707a7dde",
+    "@id": "https://grandtheatre.qc.ca/temporary/502d16b2-8d8b-4e49-8f45-98da3c4945d4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -21250,7 +21250,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8a079262-17dc-46da-ae93-6fdf5ef5481f",
+    "@id": "https://grandtheatre.qc.ca/temporary/883b2ecc-d3a0-41f3-8cb9-7110966cf675",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21313,7 +21313,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c2c6564c-4ec0-46ae-af67-c5d1ae4ec5b8",
+    "@id": "https://grandtheatre.qc.ca/temporary/74b50a7f-fd06-4034-a190-a5d46285fcd0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -21609,7 +21609,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ed815710-2afc-4ce8-9c7e-3f86c900cc3a",
+    "@id": "https://grandtheatre.qc.ca/temporary/af843aa0-7695-4b87-b927-a81d07f5ba01",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21672,7 +21672,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/aec2c743-e646-4310-9037-8805b0a1fc9f",
+    "@id": "https://grandtheatre.qc.ca/temporary/2dfe91df-e53b-4d11-873b-0d6eae679391",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -22392,7 +22392,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a0d07098-a537-4f35-869c-981c38132939",
+    "@id": "https://grandtheatre.qc.ca/temporary/4d7f6e87-c2d9-4197-b819-e0b59f6f61e9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -22455,7 +22455,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/48813776-fc3c-4512-90b7-5911ac69182b",
+    "@id": "https://grandtheatre.qc.ca/temporary/dfea863e-857d-4d54-ae0c-b4f854430e76",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -22814,7 +22814,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/337c0ea5-8995-4892-afb9-2bd7e2fb2486",
+    "@id": "https://grandtheatre.qc.ca/temporary/3376dbdb-0bda-460d-aa0e-32bdf6285df0",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -22877,7 +22877,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b24134f8-07c6-4d9c-9c1f-2e9d94bb9dee",
+    "@id": "https://grandtheatre.qc.ca/temporary/0290cb62-89f9-41ee-867f-4f11684aeaa1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23277,7 +23277,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1ffd703d-5964-47a4-a432-1691ccf1de27",
+    "@id": "https://grandtheatre.qc.ca/temporary/38f3f460-ab52-4469-8693-0b97cd59c643",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23340,7 +23340,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/84719d93-9aab-4b0e-b857-d059c7f565d6",
+    "@id": "https://grandtheatre.qc.ca/temporary/e410fc0a-bf0e-457b-be0b-2fd16fb30d8a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23572,7 +23572,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6b12d91d-6a5e-4848-a15a-0fbc77a06a65",
+    "@id": "https://grandtheatre.qc.ca/temporary/98dcb69b-b4ef-445c-9776-561c4f85de91",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23635,7 +23635,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/94c13d64-8e7f-4c7f-9596-72dde31dedc2",
+    "@id": "https://grandtheatre.qc.ca/temporary/8a1d7f76-460c-4fdd-8191-94c8cbb228f3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23899,7 +23899,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1b069bb8-f754-41aa-9525-2d017ae90e90",
+    "@id": "https://grandtheatre.qc.ca/temporary/efed7539-570d-4ad6-8125-25de90935c74",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23962,7 +23962,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e0b5479d-cd47-407a-96ea-37156b750343",
+    "@id": "https://grandtheatre.qc.ca/temporary/d485b886-dcd4-45c0-b92f-22925067a510",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24194,7 +24194,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7f139b7d-f805-4be3-9409-00af9aa2c1c8",
+    "@id": "https://grandtheatre.qc.ca/temporary/6a469ed8-a81a-4976-9e3b-fad113b89184",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24257,7 +24257,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/66dcf236-c5a9-4cc3-8bbe-1c6f84968908",
+    "@id": "https://grandtheatre.qc.ca/temporary/b12ba48f-da93-44a9-b4d9-2fd186178107",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24521,7 +24521,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3710a1eb-e20d-4f3f-8215-37c955247324",
+    "@id": "https://grandtheatre.qc.ca/temporary/c8e45dfd-19a6-4549-b02f-e038a2dd2988",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24584,7 +24584,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3ea8ad9e-a183-4092-99b0-047dbce0c25d",
+    "@id": "https://grandtheatre.qc.ca/temporary/be2815ce-8ec3-4b17-9307-f23458bc1f5e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24816,7 +24816,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/40920651-16c2-435e-9c96-59dfb8ac7c6c",
+    "@id": "https://grandtheatre.qc.ca/temporary/39786736-0a61-4d77-9143-22a72c89cb9c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24879,7 +24879,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/788426a3-2fa1-4588-979c-aff6196ef421",
+    "@id": "https://grandtheatre.qc.ca/temporary/6e51ebda-c4d2-47e6-8436-1d6a96e4a414",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -25111,7 +25111,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9de44891-617e-4b54-8b39-3d0411b6a7ee",
+    "@id": "https://grandtheatre.qc.ca/temporary/6e9fd371-e729-45fd-9401-099d2618c26e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -25174,7 +25174,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0f00f7fe-8703-4625-92ad-95a8d0fe32fb",
+    "@id": "https://grandtheatre.qc.ca/temporary/4bc4e487-92ac-4832-92f0-785c789bd784",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -25202,6 +25202,628 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://grandtheatre.qc.ca/programmation/coco-belliveau-cocologie/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/paul-piche-seul-sur-scene/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Paul Piché - Seul sur scène"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Voyez Paul Piché au Grand Théâtre de Québec le 22 octobre prochain! Billets en vente maintenant."
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/paul-piche-seul-sur-scene-2026-10-23-00-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-23T04:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/PP_428x599.png"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/8f6f6b4877ba10f9"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/paul-piche"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-23T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Faisant cavalier seul sur scène pour revisiter ses grands succès, Paul Piché offre un spectacle festif et rassembleur qui s’adresse à toutes les générations! Pour le plus grand plaisir du public, l’auteur-compositeur-interprète célébrera son œuvre dans ce rendez-vous permettant une proximité unique et ponctuera son concert de titres immortels tels que Heureux d’un printemps, Y’a pas grand-chose dans l’ciel à soir, L’escalier, Un château de sable, J’appelle… Des chansons qui n’ont pas pris une ride et dont la parole s’inscrit toujours dans l’actualité et ne cesse de trouver résonance.Une présentation du Grand Théâtre de Québec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Seul sur scène"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/PP_428x599.png",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/PP_428x599.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/PP_428x599.png"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "661361"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "PP_428x599"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/PP_428x599.max-200x200.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/8f6f6b4877ba10f9",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzEyNzA3MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "59.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/paul-piche",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Paul Piché"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/1ad802aa-de7e-45c3-b9a2-2c1e3b7e6505",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/grandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/GrandTheatreQc"
+      },
+      {
+        "@id": "https://www.instagram.com/grandtheatreqc/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q3114610"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/ead6380b-68da-49e3-9e90-928c9d50fb17",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/paul-piche-seul-sur-scene/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/jorane-naie-pas-peur/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Jorane - N'aie pas peur"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Retrouvez Jorane en concert au Grand Théâtre de Québec le 23octobre prochain. Billets en vente maintenant."
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/jorane-naie-pas-peur-2026-10-24-00-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-24T04:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Jorane-Credit-Frederique-Berube_XQP5Zw4.png"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/2809189b5cdee746"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a02fec2908e68eaf"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/jorane"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-24T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Prévente en coursPour être informé de nos prochaines préventes, inscrivez-vous à l'infolettre.Pensé comme une traversée sensible, le nouveau spectacle N’aie pas peur de Jorane déploie un univers musical où se rencontrent textures organiques et pulsations électro. Le violoncelle, les voix et les paysages sonores immersifs qui font la signature de Jorane prolongent l’univers de son précédent spectacle chorégraphique Noli Timere, actuellement en tournée mondiale, et composent un espace de respiration, de chute et d’élévation. Vivez cet appel intime au courage, à l’entraide et à la transformation.Une présentation du Grand Théâtre de Québec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "N’aie pas peur"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Jorane-Credit-Frederique-Berube_XQP5Zw4.png",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Jorane-Credit-Frederique-Berube_XQP5Zw4.png"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Jorane-Credit-Frederique-Berube_XQP5Zw4.png"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "145359"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "428x599-Jorane-Credit-Frederique-Berube"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/428x599-Jorane-Credit-Frederique-Berube_XQP5.max-200x200.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/2809189b5cdee746",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzEyNjM3MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/a02fec2908e68eaf",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzEyNjM3MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "40.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/jorane",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jorane"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/831d6d9c-68dd-4ddb-9c17-b9cea24da0ef",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/grandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/GrandTheatreQc"
+      },
+      {
+        "@id": "https://www.instagram.com/grandtheatreqc/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q3114610"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/c38da887-47ac-4c13-a39e-aa11865a524a",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/jorane-naie-pas-peur/"
       }
     ],
     "http://schema.org/keywords": [
@@ -26786,7 +27408,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bcd7110c-889a-4dfc-a2e3-90ed23ffb3da",
+    "@id": "https://grandtheatre.qc.ca/temporary/5a99412b-8310-4f21-872e-9e5b86248e1f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -26849,7 +27471,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0d0489f3-e633-4d17-81ec-eb21c0e603b5",
+    "@id": "https://grandtheatre.qc.ca/temporary/219e6eb1-d0fa-40cf-866b-96f55549a59a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -27145,7 +27767,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6e384945-e45d-4fbf-90cb-f56ec91848bf",
+    "@id": "https://grandtheatre.qc.ca/temporary/4c1b00ad-e5db-4348-858a-7d5541608082",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -27208,7 +27830,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6302f203-30c8-46b3-88da-0422b8a41eda",
+    "@id": "https://grandtheatre.qc.ca/temporary/3ef82b4e-859a-4c06-af92-8ca637db2576",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -27440,7 +28062,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/53ba8279-5536-4118-8e28-f8c8b3297762",
+    "@id": "https://grandtheatre.qc.ca/temporary/ae8d1e74-274e-4883-843e-78165280fde4",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -27503,7 +28125,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0506f747-2f25-49d5-88ee-4383cb50b7e0",
+    "@id": "https://grandtheatre.qc.ca/temporary/6f5e8bb9-3ab5-472d-9df4-37d30fe8c0c9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -31663,7 +32285,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ace21644-c226-42e3-9339-69d594967ddc",
+    "@id": "https://grandtheatre.qc.ca/temporary/707774fc-e57b-45ef-8a77-65e1681a2360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31726,7 +32348,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/19002b50-bd34-462f-8cd8-f6125033975f",
+    "@id": "https://grandtheatre.qc.ca/temporary/6845e3b6-ecbe-4860-8ab7-81a58ba061b4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -32054,7 +32676,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/77dce8b8-a988-4e65-a4d8-600a52d3aa04",
+    "@id": "https://grandtheatre.qc.ca/temporary/856d28ed-f53e-4246-b4f9-7e3f3f1722d6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32117,7 +32739,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/74146508-f004-4d20-9beb-0953a183c7d5",
+    "@id": "https://grandtheatre.qc.ca/temporary/a5616e0d-9735-4927-be5e-1cae1bdb6a7a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -32413,7 +33035,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7548aed8-37a1-4ed5-b5fd-76a9df64584e",
+    "@id": "https://grandtheatre.qc.ca/temporary/f70ac74e-a951-4c39-8def-5988389b6ea6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32476,7 +33098,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b2d649e3-6157-4a79-98e2-088eb4e8ffae",
+    "@id": "https://grandtheatre.qc.ca/temporary/41260128-7632-4bb7-be8a-40e22c07a60e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -33380,7 +34002,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4ededa4b-b427-42b8-8c68-3f9254b61929",
+    "@id": "https://grandtheatre.qc.ca/temporary/1a49d03f-1fd5-4d61-9f5c-e27e5167c804",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33443,7 +34065,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3bb4c844-ce84-4a2c-9aa6-6c0c57ac1a37",
+    "@id": "https://grandtheatre.qc.ca/temporary/39bc083c-8ea3-483c-8af4-8f49a3e9836e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -33739,7 +34361,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4270b1e7-1d29-4b63-b70a-2fe4a38b843c",
+    "@id": "https://grandtheatre.qc.ca/temporary/7e8c430f-8fda-4aad-a781-b34571616b1d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33802,7 +34424,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2c5439c0-f7f3-4799-92d3-f1ba4d9ceedf",
+    "@id": "https://grandtheatre.qc.ca/temporary/b2fcd508-64ef-4878-9f27-dd83ecf875f4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34706,7 +35328,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2a9d63d0-c136-41ec-b89a-1e007de0cae4",
+    "@id": "https://grandtheatre.qc.ca/temporary/dfd7178a-4824-4994-adb8-372549a59c12",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -34769,7 +35391,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/25789154-941f-40e5-92d9-d8d0d3de763f",
+    "@id": "https://grandtheatre.qc.ca/temporary/648a84f7-0c81-45cc-af62-43c11371d33f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35033,7 +35655,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/310fcbef-d710-4890-8594-55e6b993104c",
+    "@id": "https://grandtheatre.qc.ca/temporary/4f1a7ec6-0e97-48e0-aafd-3b1425f95ad8",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -35096,7 +35718,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a621f4ea-6ce5-4af5-b11f-a29267ef3d0f",
+    "@id": "https://grandtheatre.qc.ca/temporary/352c7485-aed4-48d6-bf0d-76eff60cb041",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35424,7 +36046,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b37aa7ed-1445-4167-bb98-39742127fb02",
+    "@id": "https://grandtheatre.qc.ca/temporary/54280268-ac97-420e-9e21-b1ef65dbb182",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -35487,7 +36109,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/956d0d8d-6ae3-4cac-8bb9-e8a0dabf7672",
+    "@id": "https://grandtheatre.qc.ca/temporary/d3c0f7e2-df91-4114-b502-e124862d2d6a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -36726,7 +37348,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/33755c1d-6bdd-4ad4-aee1-c9a2cc10e88c",
+    "@id": "https://grandtheatre.qc.ca/temporary/7f294f3a-fa76-428d-b170-0df565d8dfb0",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -36789,7 +37411,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/09381560-13c6-4355-877f-058114b36f29",
+    "@id": "https://grandtheatre.qc.ca/temporary/a5beb726-4285-4bc1-a2ab-a440766f3330",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -37021,7 +37643,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c1344a24-b72a-4f36-9187-acb904f7eff2",
+    "@id": "https://grandtheatre.qc.ca/temporary/7b09dae6-2411-4ba7-be80-2acd59b0211c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -37084,7 +37706,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a82d3357-6cb2-468f-a339-8799b970883f",
+    "@id": "https://grandtheatre.qc.ca/temporary/e1ea0753-1359-4945-9702-01b0c7843353",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -38732,7 +39354,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1906f3e2-bd3e-485a-a20a-d694614ab3b2",
+    "@id": "https://grandtheatre.qc.ca/temporary/51fcd9d4-3880-4f95-b87b-0f4a3727cbc7",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -38795,7 +39417,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f6c3d6af-253c-4099-ad16-2ac841518adf",
+    "@id": "https://grandtheatre.qc.ca/temporary/424a00bf-3ac4-4fa2-a856-a105e0f2678d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39059,7 +39681,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fcd28f85-56bd-42d8-918a-06d39bc71ae1",
+    "@id": "https://grandtheatre.qc.ca/temporary/6e33e81d-a4db-4c8d-8403-4b284ed52c3c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -39122,7 +39744,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f2a25fe5-1e80-4f30-aa15-f2a4f4bdda97",
+    "@id": "https://grandtheatre.qc.ca/temporary/6d07b147-0021-4a93-bd32-bbe5af698726",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39349,7 +39971,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c5ac8d22-84af-4c30-82aa-70e372008106",
+    "@id": "https://grandtheatre.qc.ca/temporary/8ae5f0e5-db4f-4be7-99dd-895e932963d9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -39412,7 +40034,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2b0b181c-adad-4f0d-b8df-65b26004311c",
+    "@id": "https://grandtheatre.qc.ca/temporary/4af3b3f5-5eb1-42bf-abb2-ddcd730e6c97",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -40860,7 +41482,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c49e966b-eac9-4b70-b4b1-ead94534407b",
+    "@id": "https://grandtheatre.qc.ca/temporary/ee08d29d-0719-408d-9713-58261b042ff6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -40923,7 +41545,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e8f5ac4c-b25a-44d1-a220-748514312009",
+    "@id": "https://grandtheatre.qc.ca/temporary/80252f54-0229-49db-9386-c80c614e99b0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41155,7 +41777,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e4b6dd2e-291e-49eb-adf1-c57728bfc532",
+    "@id": "https://grandtheatre.qc.ca/temporary/19a730c4-daa1-41d8-8fde-68c8302a0e14",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41218,7 +41840,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9dc4f2f9-725d-4c6a-9883-99dd0227dc66",
+    "@id": "https://grandtheatre.qc.ca/temporary/25d8de07-475f-4ff4-b27f-c0cbea3c7a18",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41466,7 +42088,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/71fe9196-8846-457a-b8f1-9b34aee40e2d",
+    "@id": "https://grandtheatre.qc.ca/temporary/fd1523ab-3605-449d-890a-01b8d17aba8a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41529,7 +42151,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6cb6f7c2-a8b2-4a5f-b91e-3ce1b4cb7f66",
+    "@id": "https://grandtheatre.qc.ca/temporary/7c8ff732-e5ab-4967-b68d-4e30edf06e53",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41929,7 +42551,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5864dbb0-df33-4ee3-b46a-3c24c00bed24",
+    "@id": "https://grandtheatre.qc.ca/temporary/71a19fa8-f1e5-4cbd-872f-c00239fccbb4",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41992,7 +42614,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2df2e888-e638-4a53-8903-6e55730e4c2e",
+    "@id": "https://grandtheatre.qc.ca/temporary/c4d6b276-3414-4353-aff3-c54a7003a548",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -42119,7 +42741,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Cette production rend hommage à la mythique chanteuse égyptienne Oum Kalthoum (1904-1975) et à son interprétation inoubliable des quatrains du poète persan Omar Khayyam (1048-1131). Créée devant une salle comble à la Philharmonie de Hambourg, elle réunit l’ensemble Constantinople et la chanteuse Ghalia Benali, complice artistique de longue date, dans une relecture sensible de cet héritage où dialoguent traditions persanes et arabes, musique ancienne et création contemporaine.Les célèbres chants d’Oum Kalthoum inspirés de la poésie de Khayyam sont revisités et mis en musique par Kiya Tabassian. Des œuvres de Johann Sebastian Bach, Marin Marais et Dimitrie Cantemir viennent compléter ce parcours musical dans des arrangements originaux conçus pour l’ensemble Constantinople et Ghalia Benali pour qui Oum Kalthoum demeure une source d’inspiration majeure : « Enfant, elle était la voix de Dieu. Sa voix touchait l’âme, pas seulement les oreilles. » À travers cet hommage profondément personnel, elle fait revivre l’esprit de la grande diva tout en lui offrant une résonance nouvelle.Un concert où poésie, mémoire et création se rejoignent pour célébrer l’œuvre intemporelle d’Omar Khayyam et l’héritage incomparable d’Oum Kalthoum.Une coprésentation de Constantinople et du Grand Théâtre de QuébecConsulter les autres concerts de la série Musique du mondeDistribution:Kiya Tabassian : sétar &amp; chantGhalia Benali : chantDidem Basar : kanunCharbel Rouhana : oudTanya LaPerrière : viola d’amore &amp; violon baroqueJavier Núñez : orgue positiveNeva Özgen : kemençeEtienne Lafrance : contrebassePatrick Graham : percussionHamin Honari : percussion"
+        "@value": "Cette production rend hommage à la mythique chanteuse égyptienne Oum Kalthoum (1904-1975) et à son interprétation inoubliable des quatrains du poète persan Omar Khayyam (1048-1131). Créée devant une salle comble à la Philharmonie de Hambourg, elle réunit l’ensemble Constantinople et la chanteuse Ghalia Benali, complice artistique de longue date, dans une relecture sensible de cet héritage où dialoguent traditions persanes et arabes, musique ancienne et création contemporaine.Les célèbres chants d’Oum Kalthoum inspirés de la poésie de Khayyam sont revisités et mis en musique par Kiya Tabassian. Des œuvres de Johann Sebastian Bach, Marin Marais et Dimitrie Cantemir viennent compléter ce parcours musical dans des arrangements originaux conçus pour l’ensemble Constantinople et Ghalia Benali pour qui Oum Kalthoum demeure une source d’inspiration majeure : « Enfant, elle était la voix de Dieu. Sa voix touchait l’âme, pas seulement les oreilles. » À travers cet hommage profondément personnel, elle fait revivre l’esprit de la grande diva tout en lui offrant une résonance nouvelle.Un concert où poésie, mémoire et création se rejoignent pour célébrer l’œuvre intemporelle d’Omar Khayyam et l’héritage incomparable d’Oum Kalthoum.Une coprésentation de Constantinople et du Grand Théâtre de QuébecConsulter les autres concerts de la série Musique du mondeDistribution:Kiya Tabassian, sétar, voix et direction artistiqueGhalia Benali, voix Didem Basar, qanunAbdul-Wahab Kayyali, oudNeva Özgen, kemencheAmanda Keesmaat, violon baroqueTanya LaPerrière, viole d’amourJavier Núñez, orgue positifPatrick Graham, percussionHamin Honari, percussion"
       }
     ],
     "http://schema.org/name": [
@@ -42256,7 +42878,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d27862f1-92e9-43f6-9908-d85f4e9ff715",
+    "@id": "https://grandtheatre.qc.ca/temporary/180cbe4b-d8ee-4533-adf6-6efcf9e37387",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -42319,7 +42941,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f2c87f2e-4f7e-41b8-82e9-bcb032f5eb2a",
+    "@id": "https://grandtheatre.qc.ca/temporary/bae729d2-adab-4bed-9f79-defc4a99cafe",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -42583,7 +43205,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b1522664-8b11-4d80-b6f2-b697164c562f",
+    "@id": "https://grandtheatre.qc.ca/temporary/14f4ce57-ae39-4f3d-a76a-627742d543fc",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -42646,7 +43268,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5d989ef6-7ec9-4b7c-a6e9-cb792a99ecd4",
+    "@id": "https://grandtheatre.qc.ca/temporary/531dfd01-c196-4f11-902c-ccaf3e098742",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -42773,7 +43395,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Il y a des interprètes dont le talent fait l’unanimité et Kim Richardson en fait partie. On ne peut que se réjouir que cette artiste pose sa voix chaleureuse sur les plus beaux classiques du temps des fêtes tels Winter Wonderland, Merry Christmas Baby, C’est l’hiver et Amazing Grace, par exemples, dans le concert Mon Noël.‌Accompagnée de sept merveilleux musiciens – John Sadowy, Karl Surprenant, Joanna Peters et le Quatuor Esca – Kim Richardson offre une occasion unique de partager des moments fort et de savourer SA magie de Noël. Une soirée scintillante et inoubliable vous attend!‌À propos de Kim RichardsonRécipiendaire de trois prix Juno, Kim Richardson a une feuille de route impressionnante. Celle qui a chanté devant Nelson Mandela et la reine Elizabeth a prêté sa voix à plus de 550 albums. Elle a partagé la scène avec Céline Dion, Barry White, Stevie Wonder, Ginette Reno, Diane Dufresne, Lara Fabian, Richard Séguin, Bruno Pelletier, Roch Voisine, Jonathan Roy, et bien d’autres. Très appréciée des artistes, sa participation régulière à la populaire émission En direct de l’univers lui a aussi permis de conquérir le cœur du public.Une présentation de Juste pour divertir"
+        "@value": "Il y a des interprètes dont le talent fait l’unanimité et Kim Richardson en fait partie. On ne peut que se réjouir que cette artiste pose sa voix chaleureuse sur les plus beaux classiques du temps des fêtes tels Winter Wonderland, Merry Christmas Baby, C’est l’hiver et Amazing Grace, par exemples, dans le concert Mon Noël.Accompagnée de sept merveilleux musiciens – John Sadowy, Karl Surprenant, Joanna Peters et le Quatuor Esca – Kim Richardson offre une occasion unique de partager des moments fort et de savourer SA magie de Noël. Une soirée scintillante et inoubliable vous attend!‌À propos de Kim RichardsonRécipiendaire de trois prix Juno, Kim Richardson a une feuille de route impressionnante. Celle qui a chanté devant Nelson Mandela et la reine Elizabeth a prêté sa voix à plus de 550 albums. Elle a partagé la scène avec Céline Dion, Barry White, Stevie Wonder, Ginette Reno, Diane Dufresne, Lara Fabian, Richard Séguin, Bruno Pelletier, Roch Voisine, Jonathan Roy, et bien d’autres. Très appréciée des artistes, sa participation régulière à la populaire émission En direct de l’univers lui a aussi permis de conquérir le cœur du public.Une présentation de Juste pour divertir"
       }
     ],
     "http://schema.org/name": [
@@ -42910,7 +43532,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bbe99edf-8a0d-4e69-91bb-6663e2f27ec3",
+    "@id": "https://grandtheatre.qc.ca/temporary/f8217ab3-547f-474a-8921-a52f4ffed0b2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -42973,7 +43595,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0e1ae899-c5af-4434-8196-0aa0b3da920b",
+    "@id": "https://grandtheatre.qc.ca/temporary/efb53c22-ab4d-4ceb-a6bd-bea3efe3cfa0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -44685,7 +45307,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e072b955-13fd-47d5-9aad-8baf03a63950",
+    "@id": "https://grandtheatre.qc.ca/temporary/501c0f7c-b920-4a5e-95d8-4e00235a20c9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -44748,7 +45370,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/73195cc9-6dfd-4fac-8dc8-a1bc4176a24e",
+    "@id": "https://grandtheatre.qc.ca/temporary/bd6fe301-0d1d-4d3c-8207-34b792e38e6e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -45044,7 +45666,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4156c40a-999e-4de3-ae5e-7797ca41ea2e",
+    "@id": "https://grandtheatre.qc.ca/temporary/211266ad-4f66-47bc-9cfe-b652f9347abd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -45107,7 +45729,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6c17cf0d-139e-4285-912a-f1f74a803724",
+    "@id": "https://grandtheatre.qc.ca/temporary/64e1734f-2cee-4caa-a16c-ca5902a5322e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -45135,6 +45757,329 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://grandtheatre.qc.ca/programmation/jf-pauze/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/maude-landry-trop-cool/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Maude Landry - Trop cool"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Soyez des nôtres pour le spectacle de Maude Landry au Grand Théâtre de Québec. Billets en vente maintenant!"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/maude-landry-trop-cool-2026-12-12-01-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12T05:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f68d31d3810b2fe6"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/maude-landry"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-12T01:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Dans un monde où il faut se démarquer tout en suivant les tendances, Maude Landry se demande pourquoi elle n’a jamais fait partie de la gang des cools. C’est ce qui la rend attachante. Décontractée et pince-sans-rire, elle pose son regard taquin sur elle-même et sur la société, en passant délibérément par quatre chemins. Un spectacle moderne et assumé, pendant lequel on se dit parfois « C’est niaiseux!... Mais fallait y penser ». Maude vous invite dans un périple au cœur de ses réflexions, ses doutes et ses déboires, pour que vous sortiez de la salle en disant « C’était trop cool! ».Une présentation de Encore Spectacle"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Trop cool"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "25994"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "428x599-Maude-Landry"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/428x599-Maude-Landry.max-200x200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/f68d31d3810b2fe6",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzAyNjEyMDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "43.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/maude-landry",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://maudelandry.com/"
+      },
+      {
+        "@id": "https://www.facebook.com/Maude-Landry-696418837152448/"
+      },
+      {
+        "@id": "https://www.instagram.com/maudelandry__/?hl=fr"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Maude_Landry"
+      },
+      {
+        "@id": "https://isni.org/isni/0000000502774322"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://maudelandry.com/"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@language": "fr",
+        "@value": "0000 0005 0277 4322"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Maude Landry"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/4d269cc9-88cc-431a-a608-51a0c39c0b60",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/grandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/GrandTheatreQc"
+      },
+      {
+        "@id": "https://www.instagram.com/grandtheatreqc/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q3114610"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/7dbb5850-625a-4a4d-9a2c-c5f4d24e757c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
       }
     ],
     "http://schema.org/keywords": [
@@ -46411,7 +47356,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c31435c6-6875-4974-9192-2d9a169b95f6",
+    "@id": "https://grandtheatre.qc.ca/temporary/c7891356-c9de-423d-a8e2-91f803862df3",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -46474,7 +47419,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e320e809-01d7-411a-9fa5-8474409dd716",
+    "@id": "https://grandtheatre.qc.ca/temporary/707c1239-a4da-4eea-957a-0b1bbefc5379",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -46502,329 +47447,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://grandtheatre.qc.ca/programmation/au-nom-du-pere/"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/",
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "/programmation/maude-landry-trop-cool/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Maude Landry - Trop cool"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Soyez des nôtres pour le spectacle de Maude Landry au Grand Théâtre de Québec. Billets en vente maintenant!"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/maude-landry-trop-cool-2026-12-12-01-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-12T05:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f68d31d3810b2fe6"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/maude-landry"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-12-12T01:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Dans un monde où il faut se démarquer tout en suivant les tendances, Maude Landry se demande pourquoi elle n’a jamais fait partie de la gang des cools. C’est ce qui la rend attachante. Décontractée et pince-sans-rire, elle pose son regard taquin sur elle-même et sur la société, en passant délibérément par quatre chemins. Un spectacle moderne et assumé, pendant lequel on se dit parfois « C’est niaiseux!... Mais fallait y penser ». Maude vous invite dans un périple au cœur de ses réflexions, ses doutes et ses déboires, pour que vous sortiez de la salle en disant « C’était trop cool! ».Une présentation de Encore Spectacle"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Trop cool"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Maude-Landry.jpg"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@language": "fr",
-        "@value": "25994"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@language": "fr",
-        "@value": "599 px"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "428x599-Maude-Landry"
-      }
-    ],
-    "http://schema.org/thumbnail": [
-      {
-        "@language": "fr",
-        "@value": "/uploads/images/428x599-Maude-Landry.max-200x200.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@language": "fr",
-        "@value": "428 px"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/f68d31d3810b2fe6",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzAyNjEyMDE%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "43.25"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/maude-landry",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://maudelandry.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/Maude-Landry-696418837152448/"
-      },
-      {
-        "@id": "https://www.instagram.com/maudelandry__/?hl=fr"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Maude_Landry"
-      },
-      {
-        "@id": "https://isni.org/isni/0000000502774322"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://maudelandry.com/"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@language": "fr",
-        "@value": "0000 0005 0277 4322"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Maude Landry"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/8525f772-6023-4cb4-ac7b-eeb6713a2c27",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/grandtheatre"
-      },
-      {
-        "@id": "https://twitter.com/GrandTheatreQc"
-      },
-      {
-        "@id": "https://www.instagram.com/grandtheatreqc/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q3114610"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/ca5ae94b-18c0-4fa2-9546-39f051a2e853",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/about": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
-      }
-    ],
-    "http://schema.org/dateCreated": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2019-07-17"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/maude-landry-trop-cool/"
       }
     ],
     "http://schema.org/keywords": [
@@ -47061,7 +47683,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/56eff0e4-5d0a-4d6c-8439-6dd10a8d3a5a",
+    "@id": "https://grandtheatre.qc.ca/temporary/28757e06-19bf-4cf4-9207-516ed8ac4cfe",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47124,7 +47746,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/687758a4-0c9f-4b98-a4ef-150dfb7cba66",
+    "@id": "https://grandtheatre.qc.ca/temporary/48e7a158-dd46-4789-a1f1-06d43d26a6d5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -47356,7 +47978,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9b08f1e1-f7b1-4091-82af-e841d99b498c",
+    "@id": "https://grandtheatre.qc.ca/temporary/517b2aa3-5fcb-4385-be80-dce2f6e75b1f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47419,7 +48041,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3bce38e6-76cd-4716-8025-b12be5aafdc7",
+    "@id": "https://grandtheatre.qc.ca/temporary/76bc9437-e4ff-4edd-9676-3c174f2d6995",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -47651,7 +48273,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/47700eef-8c51-44d6-90b2-6b32b45fd8eb",
+    "@id": "https://grandtheatre.qc.ca/temporary/2ff12995-bbf2-4dd8-8fe9-6bfa0a9e1863",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47714,7 +48336,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/32d2c3ad-8dae-42e5-b4ee-6d7bd8490e57",
+    "@id": "https://grandtheatre.qc.ca/temporary/bc893e29-f36d-4b67-b0ab-c23b5633a0e2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -48114,7 +48736,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/342a4c2b-0e4a-4ad8-88ea-2da1fd393229",
+    "@id": "https://grandtheatre.qc.ca/temporary/1c29920a-7f04-4e6f-afda-eecbcd89ce5b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -48177,7 +48799,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/47e8f022-2df8-41d4-97b3-48be4c7093cd",
+    "@id": "https://grandtheatre.qc.ca/temporary/36be6122-1938-4947-b208-d1873956c6d8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -48865,7 +49487,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/39d4714d-4833-4359-b896-35d5365ceba3",
+    "@id": "https://grandtheatre.qc.ca/temporary/8b3228eb-353d-4870-b5a1-0042a439f9b6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -48928,7 +49550,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/18c4d138-723a-440f-9533-49c9e27bb8a0",
+    "@id": "https://grandtheatre.qc.ca/temporary/70b1170a-9efb-496b-90f1-76da393988de",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -49286,7 +49908,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/759e466c-fd81-46c6-99af-2834b0b94d1c",
+    "@id": "https://grandtheatre.qc.ca/temporary/3755b70d-7b00-4c5e-9748-13e669ff04c2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -49349,7 +49971,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a0e92a09-a356-4ea3-ac69-3ba7d0856e8b",
+    "@id": "https://grandtheatre.qc.ca/temporary/aa10bd6c-f3b9-429c-a219-df3300414ace",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -49709,7 +50331,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e4b29800-2fba-42c2-b831-053b75165ac5",
+    "@id": "https://grandtheatre.qc.ca/temporary/7e60fc72-824d-49a5-9126-82c23b1bd727",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -49772,7 +50394,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f1269da0-bd2e-49a6-b14e-6f47745020cd",
+    "@id": "https://grandtheatre.qc.ca/temporary/9776d95e-bdcb-4d77-b4e7-f0a202fe489a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -50620,7 +51242,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e36bd03e-b19b-49d4-a0fe-633d36560ba2",
+    "@id": "https://grandtheatre.qc.ca/temporary/81c83604-7b19-4b1e-8a77-9244c20391ee",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -50683,7 +51305,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a1d00a45-d414-4443-879a-fc2a427eb51d",
+    "@id": "https://grandtheatre.qc.ca/temporary/cc39eae9-f5ee-4891-807e-74aac05f2db2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51211,7 +51833,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c54fec34-dbb0-45ba-9c0d-cd24afa12fd8",
+    "@id": "https://grandtheatre.qc.ca/temporary/870238b7-3dac-4783-aee4-d387b692a07f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -51274,7 +51896,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/73522b68-154b-4e52-b08f-52f6f5803c1e",
+    "@id": "https://grandtheatre.qc.ca/temporary/363ff44d-ad97-4cb7-9f86-11f962628fd0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51714,7 +52336,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/648de4f2-5600-46e7-9996-59e2545c6fbf",
+    "@id": "https://grandtheatre.qc.ca/temporary/9cf4fefd-06cd-4598-bf33-5d2e66ecff0d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -51777,7 +52399,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b16dddb3-c4fb-4d5b-9e72-59c7c236dd3d",
+    "@id": "https://grandtheatre.qc.ca/temporary/1b876712-d618-4f8c-b46b-08b883ca6b6c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -52137,7 +52759,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5d18786e-6aea-4a42-b30e-45834b0aa746",
+    "@id": "https://grandtheatre.qc.ca/temporary/c7d6c5b4-bcf7-438a-8f5a-f0bc656b0878",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -52200,7 +52822,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ae841c93-a8e6-4427-95b1-56339270e749",
+    "@id": "https://grandtheatre.qc.ca/temporary/36b135d3-d49e-4183-a6e4-c0a16b77afad",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -52432,7 +53054,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7ed871cb-196b-4c2d-8e15-d0821c76078d",
+    "@id": "https://grandtheatre.qc.ca/temporary/cd6d597e-d031-4ec3-94c1-7d2e7cd6544a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -52495,7 +53117,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8433a487-0f67-4ca9-ab2c-79091f804901",
+    "@id": "https://grandtheatre.qc.ca/temporary/1c4acd17-64e9-42c8-9380-6a8d01ab6bb9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -56655,7 +57277,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d9270ce6-61e0-461b-95d3-af11c5ac0c52",
+    "@id": "https://grandtheatre.qc.ca/temporary/e9961787-96b4-496c-a45d-2d8e7a1871ea",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -56718,7 +57340,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3871a5e3-8ddb-4ce2-a3a3-4e6ef5475c4b",
+    "@id": "https://grandtheatre.qc.ca/temporary/6d581d2a-c713-45df-89a4-916dffd4887b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -58430,7 +59052,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/965a2116-a3e5-43cf-9520-480f67aed192",
+    "@id": "https://grandtheatre.qc.ca/temporary/99d1789c-6c85-4209-bb18-0857e1ae5734",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -58493,7 +59115,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cfe4978e-ce77-4010-808e-dc4548aa5e90",
+    "@id": "https://grandtheatre.qc.ca/temporary/8211b316-5cb6-44c9-83cb-8c5a0a2cfb26",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -58789,7 +59411,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ea257116-39ef-4ecb-b56f-30d420bcffa8",
+    "@id": "https://grandtheatre.qc.ca/temporary/8cf32509-7471-4e75-a0b6-ae254b61c833",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -58852,7 +59474,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5035cf74-92ee-47e7-a6a4-0f62585593d8",
+    "@id": "https://grandtheatre.qc.ca/temporary/5a69cae6-b622-44d5-9799-753eaef23fd9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -59596,7 +60218,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8a1271dc-1ecc-4732-b875-116266d4019f",
+    "@id": "https://grandtheatre.qc.ca/temporary/d19c50f1-bcbc-43ce-9186-ae3ad79c21af",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -59659,7 +60281,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/14c9f2af-778c-44f3-9ab1-6fde8c34d7e6",
+    "@id": "https://grandtheatre.qc.ca/temporary/d6503111-83ca-4c9f-8a2a-8e969ff1282f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -59987,7 +60609,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d33e50c7-4003-4a5b-ad2f-502bc3e125cb",
+    "@id": "https://grandtheatre.qc.ca/temporary/68e15d02-c905-4c0b-9f3f-830dd5167142",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60050,7 +60672,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/598fbf43-c467-4060-a52b-2a8f15619fba",
+    "@id": "https://grandtheatre.qc.ca/temporary/9301affd-b8d6-40ce-89eb-c4dfcd2b5106",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -60314,7 +60936,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/36480da8-3282-4c3d-9370-6de776ee0727",
+    "@id": "https://grandtheatre.qc.ca/temporary/8229b2ff-6ddb-4f1f-bb08-785155902df0",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60377,7 +60999,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/de388343-c9c6-4f34-a782-270280e6b67c",
+    "@id": "https://grandtheatre.qc.ca/temporary/ef129de6-46a4-45b0-934f-5d6e092f57d0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -61281,7 +61903,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d88c195f-6c5b-4f3a-bb20-40eab857d699",
+    "@id": "https://grandtheatre.qc.ca/temporary/a5d6dd48-434f-43af-9640-e87cd90bff35",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -61344,7 +61966,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d6742217-bbcd-46bf-a990-c428f8973db9",
+    "@id": "https://grandtheatre.qc.ca/temporary/644c22b6-2225-4e11-a4bc-76e5840ee8c6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -61576,7 +62198,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/659d0659-9990-4678-8d56-fd92ba140f06",
+    "@id": "https://grandtheatre.qc.ca/temporary/b3833cab-8424-4757-9557-ec6847230f29",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -61639,7 +62261,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1887cb9c-dd6a-46ce-9418-fa21013d6490",
+    "@id": "https://grandtheatre.qc.ca/temporary/b2dedc57-b492-44db-a5a7-2d22433961ad",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -63297,7 +63919,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ead4491a-dac1-4316-a2f2-5a40e0d79b9e",
+    "@id": "https://grandtheatre.qc.ca/temporary/8495c990-5ba2-4a4c-bca2-6bf35dc9ec84",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -63360,7 +63982,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1f4766e6-3d27-4c74-a123-60f4133d3973",
+    "@id": "https://grandtheatre.qc.ca/temporary/0a761037-1ba4-4211-8377-0c1751e5a55c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -67532,7 +68154,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/69a7055f-17c6-4ee9-846b-c2e1e9565607",
+    "@id": "https://grandtheatre.qc.ca/temporary/4c4e6e49-658b-4794-8472-fb2699872038",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -67595,7 +68217,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f179b43f-917a-4281-bf42-62b9722ab801",
+    "@id": "https://grandtheatre.qc.ca/temporary/5de06b38-085c-4109-a23e-85bf01afd73d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -67923,7 +68545,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/235d1edb-c206-478b-bd90-8c3b0e7cdb91",
+    "@id": "https://grandtheatre.qc.ca/temporary/9b8fc6db-87e7-4c1e-abe8-54945d37f2b4",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -67986,7 +68608,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/981c6dc9-5348-43e0-b1b8-554e4572c6ec",
+    "@id": "https://grandtheatre.qc.ca/temporary/7f6017b0-cf87-41a2-af18-e4a9bfe71a5e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -68545,7 +69167,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ecd5bd5f-969e-4908-ac9a-4ebbac1b5a2b",
+    "@id": "https://grandtheatre.qc.ca/temporary/d3bb6386-6335-4417-94ea-2e2756d47984",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -68608,7 +69230,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/aaf55475-280a-4b3c-9eb5-fc0af3c69d8e",
+    "@id": "https://grandtheatre.qc.ca/temporary/045dc3b5-ded7-4500-82f0-989be52421be",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69512,7 +70134,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d6706935-3f85-4ec2-8bb7-5815a5783753",
+    "@id": "https://grandtheatre.qc.ca/temporary/b333679f-49c2-421f-a438-bd1439b567b1",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -69575,7 +70197,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7fdac776-584d-4078-a22d-b95063bfc2b3",
+    "@id": "https://grandtheatre.qc.ca/temporary/cd042cb1-bdb5-4728-b8c6-661bff51887f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69871,7 +70493,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/358fd9c3-9d7b-481d-8135-4d69fbfe9897",
+    "@id": "https://grandtheatre.qc.ca/temporary/3bf851ca-4426-4b0c-8d00-fa52d52b9c8d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -69934,7 +70556,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/eb16f829-0341-4e89-9634-785d64722da0",
+    "@id": "https://grandtheatre.qc.ca/temporary/42674f59-6fec-4cd5-b214-d06c29650045",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70230,7 +70852,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a916dd7f-005e-40e5-ac28-e659cfd7624e",
+    "@id": "https://grandtheatre.qc.ca/temporary/d631755a-cf85-4747-b726-369944ef7dd9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -70293,7 +70915,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/862410bf-ab9d-4322-a0de-b06fd01e748d",
+    "@id": "https://grandtheatre.qc.ca/temporary/b6f3ec12-8ec8-4608-85d2-eb87fb019712",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70589,7 +71211,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e759c2b5-6085-45ac-b122-584cde2009c1",
+    "@id": "https://grandtheatre.qc.ca/temporary/1c6d51cd-0d0c-41bf-a3d1-1eec12cc72fb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -70652,7 +71274,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f9287ebd-dd54-4013-9acf-10c8435bbd5a",
+    "@id": "https://grandtheatre.qc.ca/temporary/fb1eb63a-df53-4c70-aabf-83e49a9b18ad",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70980,7 +71602,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/78735fb2-2aed-4a20-8d7f-7ba1dab41682",
+    "@id": "https://grandtheatre.qc.ca/temporary/524b404c-b707-49f3-8cb9-6e643cd6bb33",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71043,7 +71665,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1967b87e-73a1-4d91-a7a5-9e17a16ac00a",
+    "@id": "https://grandtheatre.qc.ca/temporary/bf9e4846-e2ad-4a20-93c8-a20514d4d297",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -71435,7 +72057,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/82d72665-ec56-4b44-9a2b-9e9f342b5715",
+    "@id": "https://grandtheatre.qc.ca/temporary/b0e61c9d-0042-4707-b031-3819103c6f67",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71498,7 +72120,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3888cfd3-16d5-4552-bc20-ce5d22cfb7d0",
+    "@id": "https://grandtheatre.qc.ca/temporary/e83def55-a3f0-40f2-9965-8213d31da682",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -71794,7 +72416,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/94fe80df-3fb0-4abb-88be-df581123ec0b",
+    "@id": "https://grandtheatre.qc.ca/temporary/3d6ee124-2d0b-45f6-a408-62112bb68958",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71857,7 +72479,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/70e7c674-589f-4d9a-85b5-8bb06b428876",
+    "@id": "https://grandtheatre.qc.ca/temporary/f423f828-f781-4c51-b050-bb51f36bba54",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72089,7 +72711,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c1f931b9-b98c-4e01-b512-711784a15be1",
+    "@id": "https://grandtheatre.qc.ca/temporary/aa212fb6-89e2-433a-befb-d3550d8482fe",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -72152,7 +72774,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/362952cb-4431-40c9-95c4-455f987bd309",
+    "@id": "https://grandtheatre.qc.ca/temporary/8175cc43-af24-4abf-8bec-aa435cdf7a18",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -73056,7 +73678,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fe01d6f2-19e5-498e-a9f7-264000b05048",
+    "@id": "https://grandtheatre.qc.ca/temporary/a52e26bc-d441-463a-8ef9-c9679da49ad5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -73119,7 +73741,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4559b9cf-240a-418f-86bf-e364a0509c65",
+    "@id": "https://grandtheatre.qc.ca/temporary/26b16ec5-3822-42e2-a9a4-58deac706dcd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -73351,7 +73973,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2f1d4cf3-f006-4d83-8163-3556059e0fe5",
+    "@id": "https://grandtheatre.qc.ca/temporary/b2ce669b-593b-4eb7-b038-a2f5f42ede22",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -73414,7 +74036,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1c79506f-bc99-44b3-ab6e-9bf522642bcd",
+    "@id": "https://grandtheatre.qc.ca/temporary/46d4fecb-86c9-4841-8b76-2863b5256f3a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -73692,7 +74314,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/73b6cbde-de6c-4c59-9ae6-42fad305ec0a",
+    "@id": "https://grandtheatre.qc.ca/temporary/31a8cdf8-84c0-46c7-a312-854ed27ddbeb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -73755,7 +74377,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/75d97945-7a05-412e-aa91-1137de7d9d13",
+    "@id": "https://grandtheatre.qc.ca/temporary/2e63d950-9694-46d9-9226-4ee6afb834ca",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -74019,7 +74641,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cc1cc01d-1583-40e3-a14a-1c9c8b298ebc",
+    "@id": "https://grandtheatre.qc.ca/temporary/2358aeea-4e08-45e8-9878-5c66270a7280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -74082,7 +74704,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e5dddcaa-4fb6-4370-a9b1-f6aa31d1f710",
+    "@id": "https://grandtheatre.qc.ca/temporary/29aedc71-ca79-4cbe-964b-fe0819fa9f36",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78242,7 +78864,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7aa5c7d1-02a6-49e4-9dfb-285512edd7c2",
+    "@id": "https://grandtheatre.qc.ca/temporary/f7f35157-e686-4d2f-a1a2-e6ad1be720cb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -78305,7 +78927,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/08233921-d100-4f47-b91a-5141abd46e0f",
+    "@id": "https://grandtheatre.qc.ca/temporary/e4cd0934-3f91-4a53-af48-8e5cd0395afa",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -79209,7 +79831,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b0e28afb-7d4a-492b-91e6-3d02c0d31298",
+    "@id": "https://grandtheatre.qc.ca/temporary/f41796ee-e8e1-4c1e-a7a8-a907f2b8513f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -79272,7 +79894,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2f7d179d-c6f6-49be-b68a-72c770f270fe",
+    "@id": "https://grandtheatre.qc.ca/temporary/f0b5353e-0cc5-452b-873d-ce1109b0b36e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -79568,7 +80190,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/466e40f6-490e-4e27-a25a-72781a7b569a",
+    "@id": "https://grandtheatre.qc.ca/temporary/c60d9723-b06d-4abb-ae00-55f084c6970c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -79631,7 +80253,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f1ce119f-8a61-4564-a228-841e75108b11",
+    "@id": "https://grandtheatre.qc.ca/temporary/0ddc46f7-7ea8-431e-8938-9fecd5a21087",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -81343,7 +81965,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e5f58824-4f63-4109-b808-1ade43f05314",
+    "@id": "https://grandtheatre.qc.ca/temporary/678ade25-b91b-4744-ae85-d8a22b841b52",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -81406,7 +82028,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1653ab76-d5f6-4647-866f-63529b808e46",
+    "@id": "https://grandtheatre.qc.ca/temporary/376b6e7c-cc6d-4622-b6ad-ecb36109bf9e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -81536,7 +82158,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Avec Édith Cochrane, Martin Héroux, Erich Preach, Marie-Ève Trudel, David-Alexandre Després et Philippe RacineLes six artistes évolueront dans un chaos contrôlé qui donne corps à la couleur, au rythme et à l’architecture unique de l’écriture de François Pérusse.*Notez que François Pérusse ne sera pas sur scène.Boulevard PérusseAprès de nombreuses années à faire rire la francophonie avec ses albums culte (plus de 2 millions de ventes) et ses œuvres à la radio et à la télé, François Pérusse signe ici sa toute première pièce de théâtre originale dans la plus pure tradition du Boulevard.L’intrigue de Boulevard Pérusse tourne autour d’une famille québécoise, fondatrice d’une entreprise multinationale qui invente et fabrique pratiquement tout, de façon totalement écologique. Mais arrive un problème… une de ses usines est prise en contrôle dans un pays gouverné par un dictateur. Branle-bas entre la compagnie et le ministre québécois du Commerce! La famille reçoit même la visite d’un employé de cette usine… qui a fui son pays pour dénoncer la situation aux patrons. Des gens sont en danger là-bas, il faut agir vite.L’histoire tient la route. Mais… elle est écrite par François Pérusse! On peut donc s’attendre à des portes qui claquent, des jeux de mots tordus, des débordements dans le scénario et les dialogues, des personnages surgis de nulle part, etc. Et pour couronner le tout, l’un des protagonistes n’est pas humain et c’est la voix de Pérusse qui l’incarne.Inédite, cette pièce de théâtre est une véritable extension scénique du « style Pérusse » : bruits ambiants qui jalonnent son univers, situations loufoques et absurdes, dialogues éclatés et dérapages parfaitement assumés. C’est drôle, imprévisible et résolument unique!Note : Pour les intéressés : le théâtre de Boulevard est né au XVIIIe siècle et se veut un genre consacré au divertissement et caractérisé par la représentation de comédies d’intrigue et de vaudevilles. À titre d’exemple, les films de Louis de Funès, Le dîner de cons, etc.Une présentation du Grand Théâtre de Québec"
+        "@value": "Avec Édith Cochrane, Martin Héroux, Erich Preach, Marie-Ève Trudel, David-Alexandre Després et Philippe RacineLes six artistes évolueront dans un chaos contrôlé qui donne corps à la couleur, au rythme et à l’architecture unique de l’écriture de François Pérusse.*Notez que François Pérusse ne sera pas sur scène.Boulevard PérusseAprès de nombreuses années à faire rire la francophonie avec ses albums culte (plus de 2 millions de ventes) et ses œuvres à la radio et à la télé, François Pérusse signe ici sa toute première pièce de théâtre originale dans la plus pure tradition du Boulevard.L’intrigue de Boulevard Pérusse tourne autour d’une famille québécoise, fondatrice d’une entreprise multinationale qui invente et fabrique pratiquement tout, de façon totalement écologique. Mais arrive un problème… une de ses usines est prise en contrôle dans un pays gouverné par un dictateur. Branle-bas entre la compagnie et le ministre québécois du Commerce! La famille reçoit même la visite d’un employé de cette usine… qui a fui son pays pour dénoncer la situation aux patrons. Des gens sont en danger là-bas, il faut agir vite.L’histoire tient la route. Mais… elle est écrite par François Pérusse! On peut donc s’attendre à des portes qui claquent, des jeux de mots tordus, des débordements dans le scénario et les dialogues, des personnages surgis de nulle part, etc. Et pour couronner le tout, l’un des protagonistes n’est pas humain et c’est la voix de Pérusse qui l’incarne.Inédite, cette pièce de théâtre est une véritable extension scénique du « style Pérusse » : bruits ambiants qui jalonnent son univers, situations loufoques et absurdes, dialogues éclatés et dérapages parfaitement assumés. C’est drôle, imprévisible et résolument unique!Note : Pour les intéressés : le théâtre de Boulevard est né au XVIIIe siècle et se veut un genre consacré au divertissement et caractérisé par la représentation de comédies d’intrigue et de vaudevilles. À titre d’exemple, les films de Louis de Funès, Le dîner de cons, etc.Une présentation du Grand Théâtre de QuébecLire la chronique : Dans la tête de François Pérusse"
       }
     ],
     "http://schema.org/name": [
@@ -81762,7 +82384,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Avec Édith Cochrane, Martin Héroux, Erich Preach, Marie-Ève Trudel, David-Alexandre Després et Philippe RacineLes six artistes évolueront dans un chaos contrôlé qui donne corps à la couleur, au rythme et à l’architecture unique de l’écriture de François Pérusse.*Notez que François Pérusse ne sera pas sur scène.Boulevard PérusseAprès de nombreuses années à faire rire la francophonie avec ses albums culte (plus de 2 millions de ventes) et ses œuvres à la radio et à la télé, François Pérusse signe ici sa toute première pièce de théâtre originale dans la plus pure tradition du Boulevard.L’intrigue de Boulevard Pérusse tourne autour d’une famille québécoise, fondatrice d’une entreprise multinationale qui invente et fabrique pratiquement tout, de façon totalement écologique. Mais arrive un problème… une de ses usines est prise en contrôle dans un pays gouverné par un dictateur. Branle-bas entre la compagnie et le ministre québécois du Commerce! La famille reçoit même la visite d’un employé de cette usine… qui a fui son pays pour dénoncer la situation aux patrons. Des gens sont en danger là-bas, il faut agir vite.L’histoire tient la route. Mais… elle est écrite par François Pérusse! On peut donc s’attendre à des portes qui claquent, des jeux de mots tordus, des débordements dans le scénario et les dialogues, des personnages surgis de nulle part, etc. Et pour couronner le tout, l’un des protagonistes n’est pas humain et c’est la voix de Pérusse qui l’incarne.Inédite, cette pièce de théâtre est une véritable extension scénique du « style Pérusse » : bruits ambiants qui jalonnent son univers, situations loufoques et absurdes, dialogues éclatés et dérapages parfaitement assumés. C’est drôle, imprévisible et résolument unique!Note : Pour les intéressés : le théâtre de Boulevard est né au XVIIIe siècle et se veut un genre consacré au divertissement et caractérisé par la représentation de comédies d’intrigue et de vaudevilles. À titre d’exemple, les films de Louis de Funès, Le dîner de cons, etc.Une présentation du Grand Théâtre de Québec"
+        "@value": "Avec Édith Cochrane, Martin Héroux, Erich Preach, Marie-Ève Trudel, David-Alexandre Després et Philippe RacineLes six artistes évolueront dans un chaos contrôlé qui donne corps à la couleur, au rythme et à l’architecture unique de l’écriture de François Pérusse.*Notez que François Pérusse ne sera pas sur scène.Boulevard PérusseAprès de nombreuses années à faire rire la francophonie avec ses albums culte (plus de 2 millions de ventes) et ses œuvres à la radio et à la télé, François Pérusse signe ici sa toute première pièce de théâtre originale dans la plus pure tradition du Boulevard.L’intrigue de Boulevard Pérusse tourne autour d’une famille québécoise, fondatrice d’une entreprise multinationale qui invente et fabrique pratiquement tout, de façon totalement écologique. Mais arrive un problème… une de ses usines est prise en contrôle dans un pays gouverné par un dictateur. Branle-bas entre la compagnie et le ministre québécois du Commerce! La famille reçoit même la visite d’un employé de cette usine… qui a fui son pays pour dénoncer la situation aux patrons. Des gens sont en danger là-bas, il faut agir vite.L’histoire tient la route. Mais… elle est écrite par François Pérusse! On peut donc s’attendre à des portes qui claquent, des jeux de mots tordus, des débordements dans le scénario et les dialogues, des personnages surgis de nulle part, etc. Et pour couronner le tout, l’un des protagonistes n’est pas humain et c’est la voix de Pérusse qui l’incarne.Inédite, cette pièce de théâtre est une véritable extension scénique du « style Pérusse » : bruits ambiants qui jalonnent son univers, situations loufoques et absurdes, dialogues éclatés et dérapages parfaitement assumés. C’est drôle, imprévisible et résolument unique!Note : Pour les intéressés : le théâtre de Boulevard est né au XVIIIe siècle et se veut un genre consacré au divertissement et caractérisé par la représentation de comédies d’intrigue et de vaudevilles. À titre d’exemple, les films de Louis de Funès, Le dîner de cons, etc.Une présentation du Grand Théâtre de QuébecLire la chronique : Dans la tête de François Pérusse"
       }
     ],
     "http://schema.org/name": [
@@ -81870,7 +82492,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/eadb571a-7d70-4189-b4c4-595a2ab6ba2a",
+    "@id": "https://grandtheatre.qc.ca/temporary/692c2525-0279-4186-97e7-8386502c81d4",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -81933,7 +82555,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a2c8cd9b-d7a3-4b9e-826f-d4d5c3666bac",
+    "@id": "https://grandtheatre.qc.ca/temporary/941452e2-fc87-4324-b642-5afd64dbb517",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -82175,7 +82797,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/08d518f9-4c84-4810-893f-dfcf26835fbf",
+    "@id": "https://grandtheatre.qc.ca/temporary/422608c6-4fe2-4b0f-ad68-f8c953f73997",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -82238,7 +82860,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/888106b7-df8d-4f3e-ac5d-37c6946291ef",
+    "@id": "https://grandtheatre.qc.ca/temporary/6f13d287-c6c8-4ac5-9d81-e3b36835ab9a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -83850,7 +84472,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ebce954a-32dc-4e80-9ff8-29140f5119e4",
+    "@id": "https://grandtheatre.qc.ca/temporary/0dae80f5-aa71-49fb-9ef3-08e20fa89398",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -83913,7 +84535,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/54f1fca5-23cf-4e7f-93a5-5a7505ef9290",
+    "@id": "https://grandtheatre.qc.ca/temporary/109936b0-87e5-4fcd-8ccf-3a90b1a3cb07",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -84449,7 +85071,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/52feb237-7262-4761-a2ae-0420eba6ae16",
+    "@id": "https://grandtheatre.qc.ca/temporary/f94664ec-42ad-46ab-b34e-dba86a0f022e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -84512,7 +85134,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5c8e9275-72c7-44fa-bdda-10bd62bd8a9c",
+    "@id": "https://grandtheatre.qc.ca/temporary/64134763-eee8-4dbe-84d4-f3baca5c1b50",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -86160,7 +86782,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/51aa96f8-8c37-4ad0-85d2-8039209976be",
+    "@id": "https://grandtheatre.qc.ca/temporary/d79c4b70-6a76-4651-92fe-52aafdf75569",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -86223,7 +86845,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4ad57882-f79b-4c79-841d-de68364db27a",
+    "@id": "https://grandtheatre.qc.ca/temporary/4fe10f10-5f03-49ed-9bb4-340b5a083f66",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -86487,7 +87109,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0029307a-85f6-4c87-bbe0-afd11b6e5533",
+    "@id": "https://grandtheatre.qc.ca/temporary/8daccb93-1526-4e35-b499-58c51d484788",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -86550,7 +87172,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b36fde6a-95da-4fa3-9e7a-860a67662ec5",
+    "@id": "https://grandtheatre.qc.ca/temporary/08ad96fc-89a4-48c7-9c12-45e9df684b5b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -86846,7 +87468,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5b7f14ef-21ee-438b-8eab-c9e8913526b4",
+    "@id": "https://grandtheatre.qc.ca/temporary/fafb46bf-5aab-4856-9c67-d21262ec280a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -86909,7 +87531,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c5ce383f-ee84-41da-9b5a-2de4577de876",
+    "@id": "https://grandtheatre.qc.ca/temporary/2f57d3c5-5cfc-4398-b63e-b1f46b22d8a6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -87709,7 +88331,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6df46277-d74a-49df-868a-9eecb6f9de8d",
+    "@id": "https://grandtheatre.qc.ca/temporary/81586c26-35b1-4f1b-a6da-783b8c2d0cd3",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -87772,7 +88394,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/71881f34-ece3-450b-b2f0-32befcc7c7af",
+    "@id": "https://grandtheatre.qc.ca/temporary/c47da71c-c04c-4bde-87f0-38214cee4673",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -87896,7 +88518,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "PRÉVENTE EN COURS. MISE EN VENTE : 17 JUILLET 10HPour être informés en premier de nos prochaines préventes, abonnez-vous!Zac Bulle, 8 ans et demi, s'est fait connaître grâce à ses vidéos virales où il partage ses plus grandes passions : la mayo, ses aventures quotidiennes, les montages farfelus… ou encore la mayo. Vous pourrez enfin le voir sur scène dans son tout premier One Petit Gars Show, en tournée à travers le Québec.Avec Mon super spectacle :), Zac enchaîne ses meilleures bêtises pour vous impressionner : blagues, dessins, chansons, tours de magie et autres trouvailles étranges, tout droit sorties de sa tête de gamin. Espérons seulement que son papa Jacques ne viendra pas tout gâcher…Imaginez : au lieu de quelques secondes de Zac sur votre portable, vous aurez droit à plusieurs minutes (environ 75!!!) de son univers à la fois tout mimi et complètement absurde. Préparez-vous à vivre un moment déjanté, imprévisible, hilarant… et très stupide.Une présentation du Grand Théâtre de Québec"
+        "@value": "Zac Bulle, 8 ans et demi, s'est fait connaître grâce à ses vidéos virales où il partage ses plus grandes passions : la mayo, ses aventures quotidiennes, les montages farfelus… ou encore la mayo. Vous pourrez enfin le voir sur scène dans son tout premier One Petit Gars Show, en tournée à travers le Québec.Avec Mon super spectacle :), Zac enchaîne ses meilleures bêtises pour vous impressionner : blagues, dessins, chansons, tours de magie et autres trouvailles étranges, tout droit sorties de sa tête de gamin. Espérons seulement que son papa Jacques ne viendra pas tout gâcher…Imaginez : au lieu de quelques secondes de Zac sur votre portable, vous aurez droit à plusieurs minutes (environ 75!!!) de son univers à la fois tout mimi et complètement absurde. Préparez-vous à vivre un moment déjanté, imprévisible, hilarant… et très stupide.Une présentation du Grand Théâtre de Québec"
       }
     ],
     "http://schema.org/name": [
@@ -87912,7 +88534,7 @@
     ],
     "http://schema.org/eventStatus": [
       {
-        "@id": "http://schema.org/EventCancelled"
+        "@id": "http://schema.org/EventScheduled"
       }
     ]
   },
@@ -88004,7 +88626,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7006447b-fa31-4005-9cf6-302b6686db27",
+    "@id": "https://grandtheatre.qc.ca/temporary/25de0619-90ce-4056-bca8-b925b523e2e6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -88067,7 +88689,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c6f052bf-a2d2-420e-9d9b-97bf532c23d8",
+    "@id": "https://grandtheatre.qc.ca/temporary/71e936e7-af3b-49a5-954b-5713cfe21238",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -88331,7 +88953,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/739ea1e0-8d50-4495-b0e5-46e0a5111717",
+    "@id": "https://grandtheatre.qc.ca/temporary/bbfd143a-fb19-4cab-b4dd-44b2b01bfa1a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -88394,7 +89016,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1db482f3-f5f8-4f86-a240-4ffdcf0ade66",
+    "@id": "https://grandtheatre.qc.ca/temporary/da494d56-05af-479f-94d3-4058a595512d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -89366,7 +89988,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ef71ed4c-187d-49cb-86f9-8f18c254b59d",
+    "@id": "https://grandtheatre.qc.ca/temporary/93294dcb-1e9b-4ca2-83d4-7b663528a75a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -89429,7 +90051,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8f7eb070-0211-4708-94b0-9eb54f4e4576",
+    "@id": "https://grandtheatre.qc.ca/temporary/e1b8e26f-7fbd-43ef-9c64-e2a5d9d2a6c5",
     "@type": [
       "http://schema.org/WebSite"
     ],
