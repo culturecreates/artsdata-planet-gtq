@@ -10,7 +10,7 @@ Check for missing event type mapping using this [all keywords](https://s.zazuko.
 
 ## Input to Artsdata
 
-This website is crawled by an agent on the [Artsdata Huginn platform](https://huginn-staging.herokuapp.com/scenarios/26/diagram).
+This website is crawled by an agent on the [Artsdata platform](https://github.com/culturecreates/artsdata-planet-gtq).
 
 
 Here is the summary of the GTQ pipeline in Huginn:
@@ -31,7 +31,7 @@ Here is the summary of the GTQ pipeline in Huginn:
 
 
 ### Compare event images between original website and Artsdata
-https://api.artsdata.ca/events?source=http://kg.artsdata.ca/culture-creates/huginn/derived-grandtheatre-qc-ca
+https://api.artsdata.ca/events?source=http://kg.artsdata.ca/culture-creates/artsdata-planet-gtq/derived-grandtheatre-qc-ca
 
 https://grandtheatre.qc.ca/programmation/
 
