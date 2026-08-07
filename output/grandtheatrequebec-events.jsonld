@@ -1,22 +1,22 @@
 [
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/",
+    "@id": "https://grandtheatre.qc.ca/programmation/les-miserables/",
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "/programmation/dialogues-carmelites/"
+        "@value": "/programmation/les-miserables/"
       }
     ],
     "http://ogp.me/ns#title": [
       {
         "@language": "fr",
-        "@value": "Dialogues des Carmélites de Francis Poulenc"
+        "@value": "Les Misérables - La comédie musicale"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "fr",
-        "@value": "Soyez des nôtres pour « Dialogues des Carmélites de Francis Poulenc » au Grand Théâtre de Québec!"
+        "@value": "Voyez la comédie musicale : Les Misérables au Grand Théâtre de Québec! Réservez vite vos places!"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -27,7 +27,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/"
+        "@id": "https://grandtheatre.qc.ca/programmation/les-miserables/"
       }
     ]
   },
@@ -207,1170 +207,6 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/dialogues-carmelites-2026-08-01-18-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-01T22:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/DDC-428X599-Billeterie2.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/3e9a62b1723dad88"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/9b496f810ef85d30"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/27760bd27443bd6d"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/27823ffd010cff32"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/c56c86cce3eab0de"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f1c3180e25611dd3"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/29ffad748d8e7311"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/7d767685082856e5"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/7f2bc8f12efa85f1"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/8edf56f619d32e67"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/opera-de-quebec"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/dialogues-carmelites-francis-poulenc"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-01T18:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/dialogues-carmelites/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Opéra en trois actesMusique : Francis PoulencSur un texte de Georges BernanosInspiré d’un fait réel survenu pendant la Révolution française, Dialogues des Carmélites de Francis Poulenc est l’un des sommets de l’opéra français. À travers le destin de Blanche de La Force, jeune femme confrontée à la peur, au doute et à l’exigence du choix, l’œuvre aborde avec une force rare des questions qui nous touchent encore de près : la liberté intérieure, la conscience individuelle, la foi, le courage, et la manière de rester debout face à l’oppression politique.Cette production bouleversante d’Olivier Py, présentée sur de grandes scènes à travers le monde, prend ici vie avec une distribution réunissant des artistes québécois qui brillent aujourd’hui sur les scènes internationales. Une œuvre profondément humaine, dont la portée spirituelle, politique et intime résonne avec une acuité particulière dans le monde d’aujourd’hui.Une coproduction du Théâtre des Champs Élysées - Paris, du Théâtre Royal de la Monnaie - Bruxelles et du Festival d’opéra de QuébecCRÉDITSMusique : Francis PoulencSur un texte de Georges BernanosDirection musicale : Jean-Marie ZeitouniMise en scène : Olivier PyReprise de la mise en scène : Daniel IzzoScénographie et costumes : Pierre-André WeitzLumières : Bertrand KillyHélène Guilmette, soprano — Blanche de la ForceSylvie Brunet-Grupposo, mezzo-soprano — Madame de Croissy, prieure du CarmelJulie Boulianne, mezzo-soprano — Mère Marie de l'IncarnationGuylaine Girard, soprano — Madame Lidoine, la nouvelle prieureFlorie Valiquette, soprano — Sœur Constance de Saint DenisPatrick Bolleire, basse — Le Marquis de la ForceFrédéric Antoun, ténor — Le Chevalier de la ForceRachèle Tremblay, mezzo-soprano — Mère Jeanne de l'Enfant JésusHugo Laporte, baryton — Le geôlier / Monsieur Javelinot / ThierryMarie-Andrée Mathieu, mezzo-soprano — Sœur MathildeFrançois Piolino, ténor — L’aumônier du CarmelEmmanuel Hasler, ténor — Le premier commissaireMarc-André Caron, baryton — Le second commissaireMaxence Lasserre-Engberts, baryton — OfficierChœur de l'Opéra de QuébecOrchestre symphonique de Québec"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Festival d’opéra de Québec"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/uploads/original_images/DDC-428X599-Billeterie2.jpg",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/DDC-428X599-Billeterie2.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/DDC-428X599-Billeterie2.jpg"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@language": "fr",
-        "@value": "37442"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@language": "fr",
-        "@value": "599 px"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "DDC-428X599-Billeterie2"
-      }
-    ],
-    "http://schema.org/thumbnail": [
-      {
-        "@language": "fr",
-        "@value": "/uploads/images/DDC-428X599-Billeterie2.max-200x200.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@language": "fr",
-        "@value": "428 px"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/grandtheatre"
-      },
-      {
-        "@id": "https://twitter.com/GrandTheatreQc"
-      },
-      {
-        "@id": "https://www.instagram.com/grandtheatreqc/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q3114610"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/3e9a62b1723dad88",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "160.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/9b496f810ef85d30",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "155.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/27760bd27443bd6d",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "145.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/27823ffd010cff32",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "130.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/c56c86cce3eab0de",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "105.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/f1c3180e25611dd3",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "100.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/29ffad748d8e7311",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "80.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/7d767685082856e5",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "170.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/7f2bc8f12efa85f1",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "75.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/8edf56f619d32e67",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDcyNjIwMDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/opera-de-quebec",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/459d56590a38387f"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/773x443-faust.jpg"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://operadequebec.com/"
-      },
-      {
-        "@id": "https://www.facebook.com/operadequebec"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Op%C3%A9ra_de_Qu%C3%A9bec"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://operadequebec.com/"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@language": "fr",
-        "@value": "1220, avenue Taché Québec (QC), G1R 3B4"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Opéra de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/dialogues-carmelites-francis-poulenc",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Dialogues des Carmélites de Francis Poulenc"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/459d56590a38387f",
-    "@type": [
-      "http://schema.org/ContactPoint"
-    ],
-    "http://schema.org/availableLanguage": [
-      {
-        "@language": "fr",
-        "@value": "FR"
-      },
-      {
-        "@language": "fr",
-        "@value": "EN"
-      }
-    ],
-    "http://schema.org/areaServed": [
-      {
-        "@language": "fr",
-        "@value": "CA"
-      }
-    ],
-    "http://schema.org/contactType": [
-      {
-        "@language": "fr",
-        "@value": "customer support"
-      }
-    ],
-    "http://schema.org/telephone": [
-      {
-        "@language": "fr",
-        "@value": "418 529-0688"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/uploads/original_images/773x443-faust.jpg",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/773x443-faust.jpg"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://schema.org/Distance",
-        "@value": "443 px"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/773x443-faust.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://schema.org/Distance",
-        "@value": "773 px"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@language": "fr",
-        "@value": "90400"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "773x443-faust"
-      }
-    ],
-    "http://schema.org/thumbnail": [
-      {
-        "@language": "fr",
-        "@value": "/uploads/images/773x443-faust.max-200x200.jpg"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/f59eea29-c3be-4320-8255-a1c45141bf20",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/grandtheatre"
-      },
-      {
-        "@id": "https://twitter.com/GrandTheatreQc"
-      },
-      {
-        "@id": "https://www.instagram.com/grandtheatreqc/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q3114610"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/835a4841-31a5-4663-8c75-88850b9ab600",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/about": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
-      }
-    ],
-    "http://schema.org/dateCreated": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2019-07-17"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/dialogues-carmelites/"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/",
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Jourdan Thibodeaux & Les Rôdailleurs"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Jourdan Thibodeaux & Les Rôdailleurs seront au Grand Théâtre de Québec le 5 août 2026! Soyez des nôtres."
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/jourdan-thibodeaux-et-les-rodailleurs-oc-2026-08-05-00-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-05T04:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Jourdain_Thibodeaux_428x599.png"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/40d04ac9a73b51ed"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/jourdan-thibodeaux-rodailleurs"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-05T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Jourdan Thibodeaux est l’incarnation du mot « authentique ». Tout droit venu des bois marécageux de Cypress Island, en Louisiane, il est l’un des rares jeunes à parler couramment le cajun encore aujourd’hui. Son chant puissant et son violon accompagnent avec brio et sincérité son répertoire de chansons originales en français de Louisiane.Présenté notamment au Jazz Fest de la Nouvelle-Orléans à South by Southwest, à Austin, et au Congrès mondial acadien, l’ensemble Jourdan Thibodeaux et Les Rôdailleurs s’est forgé une réputation à travers les États-Unis en unissant les traditions anciennes et une énergie incomparable. Les Rôdailleurs sont, par ailleurs, les musiciens par excellence de la musique cajun (et nommés aux Grammys!) Joel Savoy, Cedric Watson, Alan Lafleur et Adam Cormier. Rencontrez-les et vibrez au son d’une musique cajun vraie et actuelle!Une présentation du Grand Théâtre de Québec"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jourdan Thibodeaux & Les Rôdailleurs"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/uploads/original_images/Jourdain_Thibodeaux_428x599.png",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Jourdain_Thibodeaux_428x599.png"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Jourdain_Thibodeaux_428x599.png"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@language": "fr",
-        "@value": "472798"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@language": "fr",
-        "@value": "599 px"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jourdain Thibodeaux"
-      }
-    ],
-    "http://schema.org/thumbnail": [
-      {
-        "@language": "fr",
-        "@value": "/uploads/images/Jourdain_Thibodeaux_428x599.max-200x200.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@language": "fr",
-        "@value": "428 px"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/40d04ac9a73b51ed",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzEyNjI3MDI%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "44.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/jourdan-thibodeaux-rodailleurs",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jourdan Thibodeaux & Les Rôdailleurs"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/jourdan-thibodeaux-et-les-rodailleurs-oc-2026-08-06-00-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-06T04:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Jourdain_Thibodeaux_428x599.png"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/7b6efccc9d9fb689"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/jourdan-thibodeaux-rodailleurs"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-08-06T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Jourdan Thibodeaux est l’incarnation du mot « authentique ». Tout droit venu des bois marécageux de Cypress Island, en Louisiane, il est l’un des rares jeunes à parler couramment le cajun encore aujourd’hui. Son chant puissant et son violon accompagnent avec brio et sincérité son répertoire de chansons originales en français de Louisiane.Présenté notamment au Jazz Fest de la Nouvelle-Orléans à South by Southwest, à Austin, et au Congrès mondial acadien, l’ensemble Jourdan Thibodeaux et Les Rôdailleurs s’est forgé une réputation à travers les États-Unis en unissant les traditions anciennes et une énergie incomparable. Les Rôdailleurs sont, par ailleurs, les musiciens par excellence de la musique cajun (et nommés aux Grammys!) Joel Savoy, Cedric Watson, Alan Lafleur et Adam Cormier. Rencontrez-les et vibrez au son d’une musique cajun vraie et actuelle!Une présentation du Grand Théâtre de Québec"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Jourdan Thibodeaux & Les Rôdailleurs"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/7b6efccc9d9fb689",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzEyNjI3MDE%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "44.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/966c91ba-f893-47d6-8ce1-7c0907f877a8",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/grandtheatre"
-      },
-      {
-        "@id": "https://twitter.com/GrandTheatreQc"
-      },
-      {
-        "@id": "https://www.instagram.com/grandtheatreqc/"
-      },
-      {
-        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q3114610"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/temporary/4fdf2eee-5407-44af-80aa-849c945aa980",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/about": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/author": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
-      }
-    ],
-    "http://schema.org/dateCreated": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2019-07-17"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/jourdan-thibodeaux-et-les-rodailleurs-oc/"
-      }
-    ],
-    "http://schema.org/keywords": [
-      {
-        "@language": "fr",
-        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/les-miserables/",
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr",
-        "@value": "/programmation/les-miserables/"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr",
-        "@value": "Les Misérables - La comédie musicale"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr",
-        "@value": "Voyez la comédie musicale : Les Misérables au Grand Théâtre de Québec! Réservez vite vos places!"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr",
-        "@value": "Grand Théatre de Québec"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/les-miserables/"
-      }
-    ]
-  },
-  {
     "@id": "https://grandtheatre.qc.ca/programmation/les-miserables/les-miserables-2026-08-07-23-30",
     "@type": [
       "http://schema.org/Event"
@@ -1500,6 +336,64 @@
       {
         "@language": "fr",
         "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/grandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/GrandTheatreQc"
+      },
+      {
+        "@id": "https://www.instagram.com/grandtheatreqc/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q3114610"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
       }
     ]
   },
@@ -5373,7 +4267,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1b3d5df8-dec2-4491-8622-235de8d5b63b",
+    "@id": "https://grandtheatre.qc.ca/temporary/c2422f33-901c-4eb7-8b25-d11339420105",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5436,7 +4330,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/70ea249e-586f-4915-ba71-eda664349066",
+    "@id": "https://grandtheatre.qc.ca/temporary/886a567b-46a5-4207-bd05-2962f162d740",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -5732,7 +4626,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f159e436-ba98-4d88-a74d-aa3ffe12f6cb",
+    "@id": "https://grandtheatre.qc.ca/temporary/1541cc99-3689-4961-939c-f4e6709c69e9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5795,7 +4689,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f3ad4f17-b19c-4029-b78f-c4aecc454e9f",
+    "@id": "https://grandtheatre.qc.ca/temporary/085b0025-9391-4877-b1cb-caea4d6d4d84",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -6027,7 +4921,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6bcc1a4f-cb3d-432f-8987-caa5430b5d3c",
+    "@id": "https://grandtheatre.qc.ca/temporary/0b3fe2f7-6d61-4bac-9972-89a787e82903",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6090,7 +4984,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2116d474-c521-4ca1-8152-695d2477deec",
+    "@id": "https://grandtheatre.qc.ca/temporary/8848bad1-6cd4-4047-8d97-76a333fa86ea",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -6354,7 +5248,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b0fa0dc3-87f7-4b84-be71-67384146ad25",
+    "@id": "https://grandtheatre.qc.ca/temporary/80c38c0c-e12b-4c68-99ce-a03593af68cc",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6417,7 +5311,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fdb8ff4b-14eb-4676-ac14-bb3ceeda6d27",
+    "@id": "https://grandtheatre.qc.ca/temporary/bc56fd47-c7ae-4b8b-a4e3-b9d9ec2562da",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -6553,7 +5447,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -6843,7 +5737,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -7075,7 +5969,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -7307,7 +6201,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -7539,7 +6433,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -7771,7 +6665,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -8003,7 +6897,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -8235,7 +7129,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -8467,7 +7361,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :DirectionJean-Jacques Pillet – Mise en scène et direction de création | Staging and creative directionAnne Vivien – Direction artistique musicale - Musicor et direction de casting | Artistic direction, musical creation, and casting directionYannick Bocquet – Producteur délégué, direction de production et technique | Associate producer, production and technical directionMartin Tremblay – Producteur exécutif et chef de l'exploitation | Executive producer and chief operating officerMartin Dumont – Vice-Président – Finances | Vice President – FinanceGabriel Marchesseault - Vice-Président, marketing, communication et intelligence d’affaires | Vice President, Marketing, Communications, and Business IntelligenceAnnie Robitaille – Direction principale – Finances | Senior Director – FinanceConception | DesignersCaroline Cloutier – Auteure du livret et dialoguiste | Writer and dialogistFrédérick Baron – Co-auteur du livret et parolier | Co-writer and lyricistSteve Marin – Compositeur | ComposerYvan Cassar – Réalisation, arrangements et direction d’orchestre | Recording, arrangements, and orchestral conductingEmilie Josset | Direction vocale, consultation artistique et production | Vocal direction, artistic consulting, and productionMarilène Bastien – Conception scénographie | Scenography designNormal Studio – Conception vidéo | Video designLaurent Routhier – Conception éclairages | Lighting designLiz Vandal – Conception costumes | Costume designVéronique Giasson – Chorégraphe | ChoreographerAroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nations | Dancer and First Nations dance choreographerStephane Scotto Di Cesare– Conception perruques et coiffures | Wig and hairstyle designVéronique St-Germain – Conception maquillages | Makeup designAlexis Vigneault – Direction photo et tournage vidéo | Photography direction and video productionJulie Measroch – Conception accessoires | Props designSupport à la création | Creative supportMélissa Cardona – Consultante en dramaturgie et dialogues | Dramaturgy and dialogue consultantQuentin Condo – Consultant culturel nation mi'Kmaw | mi'kmaw Nation Cultural ConsultantAndré-Carl Vachon – Consultant historien acadien | Acadian History ConsultantAmélia Mollion – Coordinatrice principale de production | Senior Production CoordinatorJérôme Pfanzer – Coordonnateur de production – album | Production Coordinator – albumKrystel Nadeau – Planificatrice à la Diffusion - spectacles | Booking and Touring PlannerRomane Bocquet – Assistante directeur technique | Assistant Technical DirectorJean-François Tétreault – Dessinateur technique | Technical DraftspersonKarine Perron– Régie générale | General managementSonia Montmigny – Régie de scène | Stage managementJean-François Gosselin – Chef machiniste | Head Stage CarpenterPatrick Paquet – Sonorisateur | Sound EngineerPierre-Yves Laflamme – Moniteur et sans-fil | Monitor and wireless technicianStéphanie Provost – Habilleuse | Wardrobe AssistantAnthony Sauvourel – Accessoiriste | Props MasterPierre Luc Meloche – Chef Rigg et automation | Head Rigger &amp; Automation LeadNicolas Gendron- Chef vidéo et operateur | Video Lead and OperatorDavid Lavallée-Gagné - Opérateur d’éclairage | Lighting OperatorSarah Crombie – Chef électrique | Electric LeadDominique Dubé – Atelier de fabrication de costumes | Costume WorkshopAtelier M costume Inc – Atelier de fabrication de costumes | Costume WorkshopGabrielle Malbeuf – Design de l’affiche | Poster designDariane Sanche – Photographe affiche | Poster photographerGestevValérie Gagné – Directrice marketing et publicité | Marketing and Advertising DirectorMarie-Michelle Gagné – Directrice des communications | Communication DirectorPatricia Houle – Conseillère principale – marketing | Marketing senior advisorMelissa Parent – Conseillère principale – communications | Communication senior advisorKevin Lalancette – Roy &amp; Turner – Relations médias | PRMarizol Urizar-Gagné – Conseillère principale - marketing numérique | Senior Advisor – Digital MarketingDaniela Castan Ruiz – Coordonnatrice - marketing numérique | Digital Marketing CoordinatorAudreyanne Clavet – Gestionnaire de communauté | Community managerLambert Noël Bourbeau – Coordonnateur – marketing | Marketing CoordinatorPatrick Lafond – Directeur principal de production | Senior Production DirectorLucie Doyon – Directrice des opérations | Director of OperationsJulie Mabileau – Coordonnatrice opérations spectacles | Show Operations CoordinatorJonathan Dubuc – Coordonnateur opérations spectacles | Show Operations CoordinatorComptabilité | AccountingMiriam Vasquez - Comptable de production | Production AccountantLili-Kim Cholette - Comptable de production | Production AccountantAffaires juridiques | Legal AffairsMarie-Pierre Simard - Vice-présidente principale et Secrétaire de l’entreprise - Affaires juridiques / Senior Vice President and Corporate Secretary – Legal AffairsFlorence Fortier-Landry – Directrice - Affaires juridiques | Director - Legal AffairsFatma Frikha - Conseillère juridique - Affaires juridiques | Legal Counsel - Legal AffairsSandrine Raymond - Conseillère juridique, Affaires juridiques | Legal Counsel - Legal Affairs"
+        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
       }
     ],
     "http://schema.org/name": [
@@ -8633,7 +7527,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6cd90148-c5ee-4ef5-8b5b-2188daea0d8a",
+    "@id": "https://grandtheatre.qc.ca/temporary/d2699ab4-ea34-479a-bf0a-cde104973ba3",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8696,7 +7590,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/683cf22e-a88c-48d7-a133-b8557460bec9",
+    "@id": "https://grandtheatre.qc.ca/temporary/fc56ceea-d6e3-4498-a7e3-81d90293cd49",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -12948,7 +11842,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1bc8da41-98ba-4d8b-8132-2aaae9b96ce8",
+    "@id": "https://grandtheatre.qc.ca/temporary/89c5c410-1ba3-4287-b502-9a721bdca323",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -13011,7 +11905,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/37ddb95a-ba9e-4f7c-8aa4-9e2297351921",
+    "@id": "https://grandtheatre.qc.ca/temporary/1219415e-08c7-4926-badd-3fd46c5d1698",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -14815,7 +13709,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ab24403f-ba35-49e9-9ae0-f8876b9e4756",
+    "@id": "https://grandtheatre.qc.ca/temporary/265e37aa-b834-45cc-a384-3646be649e53",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -14878,7 +13772,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c876f34e-7b17-4056-bccb-766d741cf971",
+    "@id": "https://grandtheatre.qc.ca/temporary/b4def6ec-00af-4942-9979-878107a8baed",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -15201,7 +14095,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f7efc98f-457e-4f5f-b987-bbbacae5d492",
+    "@id": "https://grandtheatre.qc.ca/temporary/9cf16c60-7795-4a30-9102-3f838300cb67",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -15264,7 +14158,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0cd3bf88-c693-41c2-b16f-9085bd3495a5",
+    "@id": "https://grandtheatre.qc.ca/temporary/3ba39dd4-76c5-4837-87b7-03f4fc2eb3e5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -15720,7 +14614,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e5db8eb0-e8c2-46cc-8642-ca8380a56b2c",
+    "@id": "https://grandtheatre.qc.ca/temporary/6bd035a6-b32a-4622-bfe7-051003a6b47f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -15783,7 +14677,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/22f41f14-5177-469d-bb99-5575e3978e4d",
+    "@id": "https://grandtheatre.qc.ca/temporary/ef01ce75-9867-4ebe-ba3e-0f5925130288",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16687,7 +15581,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/67e5c303-ec6a-48a3-8d56-473e15ebf2a4",
+    "@id": "https://grandtheatre.qc.ca/temporary/e2ebabcc-176a-4b89-8054-ef5c51d108b5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -16750,7 +15644,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0ee079f1-2076-4fdf-bb42-93b6a4ef4e73",
+    "@id": "https://grandtheatre.qc.ca/temporary/a58e2647-c210-477b-a86f-aa054731bcf7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17206,7 +16100,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bdd0bdd7-5bb5-4527-812e-ac80671a4d8a",
+    "@id": "https://grandtheatre.qc.ca/temporary/9086c5ef-1958-45aa-8063-0b9d73ead9ab",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17269,7 +16163,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c786d47f-7100-43ef-837d-ca141446c32d",
+    "@id": "https://grandtheatre.qc.ca/temporary/d2890403-a05c-41e7-be3e-1b17afbf3795",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17565,7 +16459,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/05d3db08-f01a-4eab-a645-511cb5f1389f",
+    "@id": "https://grandtheatre.qc.ca/temporary/0760c2c4-7e1e-4d1b-8ce6-2f888e992abf",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -17628,7 +16522,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fc204a1b-4f62-4dd1-bfb3-4a6a9c33ce4f",
+    "@id": "https://grandtheatre.qc.ca/temporary/41ee3893-838d-48b3-a518-ecc9554e03aa",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -18388,7 +17282,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3eec5495-6c77-428d-8f5c-547537a63ca7",
+    "@id": "https://grandtheatre.qc.ca/temporary/37d5004f-8eb2-4c06-8db6-649dbb963543",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18451,7 +17345,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3709cc8e-a4b2-4689-a378-5eddc62918d5",
+    "@id": "https://grandtheatre.qc.ca/temporary/1fe24929-235d-46e5-b171-48aa89f75712",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -18907,7 +17801,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d1dbb3c2-dc9f-433c-b5ea-d41eb97f95fa",
+    "@id": "https://grandtheatre.qc.ca/temporary/a09b4810-a252-4b8c-a56e-a9e56b3ac9c6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -18970,7 +17864,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/34c84a38-8435-419c-bb16-897518af1a17",
+    "@id": "https://grandtheatre.qc.ca/temporary/bab1d385-ba0f-4515-a7ef-3d3948f907b8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -19602,7 +18496,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8119784a-e1be-4334-ad67-cb002a7b567c",
+    "@id": "https://grandtheatre.qc.ca/temporary/7152302d-72f9-46b3-997b-8ae285a9632d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -19665,7 +18559,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6530271b-b55a-43ce-b1ea-6719968082f2",
+    "@id": "https://grandtheatre.qc.ca/temporary/1ab8b0cc-9b5b-480c-9b87-3a36696e5f1d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -19961,7 +18855,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c010b23b-8e2f-4d9e-9b04-99e303c1f43c",
+    "@id": "https://grandtheatre.qc.ca/temporary/27d557ab-a953-4a1f-91c9-b23899052b50",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20024,7 +18918,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/32e43e21-cb57-4f6c-99fa-cf06103373e8",
+    "@id": "https://grandtheatre.qc.ca/temporary/cfb739a0-9401-45da-9800-7220b831ff18",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20744,7 +19638,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ea45a6a3-8858-49c6-90a0-c7090c271d1b",
+    "@id": "https://grandtheatre.qc.ca/temporary/3671da5a-04e4-4da2-b671-2092621036f9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -20807,7 +19701,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/315dabd0-161a-4150-baf8-72f60f53d9a7",
+    "@id": "https://grandtheatre.qc.ca/temporary/e2a10364-9d3b-4466-a4ca-593d65c65d5f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -21166,7 +20060,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a241bd5d-4c70-46b5-bffb-670535741483",
+    "@id": "https://grandtheatre.qc.ca/temporary/45260eb1-0b60-4409-9be8-d33d3a3241de",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21229,7 +20123,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/23dc5116-3b96-4d27-8afc-d742e6d8a09f",
+    "@id": "https://grandtheatre.qc.ca/temporary/9b1bad90-bfaf-4b6f-9a58-2601c4be69db",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -21629,7 +20523,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b51ba82b-2c19-4074-b3a6-5d38d7acd790",
+    "@id": "https://grandtheatre.qc.ca/temporary/3969e76c-a1bc-422e-a090-5c836c259900",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21692,7 +20586,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b6861d9f-b57d-4add-a768-732b0317e1a6",
+    "@id": "https://grandtheatre.qc.ca/temporary/30ba7bcf-31dc-43f8-a89f-85a530f90336",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -21720,6 +20614,296 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://grandtheatre.qc.ca/programmation/etienne-coppee/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/la-derniere-veillee-des-cyniques/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Sûrette"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Venez découvrir Sûrette au STUDIOTELUS le 15 octobre prochain!"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/la-derniere-veillee-des-cyniques-2026-10-16-00-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-16T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428_x_599_uFUIfoY.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/426d4eb514cc1e20"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/surette"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-16T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Sûrette plonge le public dans la veille de l'apocalypse. Intégrant du rock alternatif, des textures industrielles, des séquences synchronisées et une mise en scène soignée, le spectacle alterne entre déflagrations sonores et moments de vulnérabilité pour offrir une expérience immersive, cinématographique et profondément humaine. Ici, la fin du monde devient surtout un prétexte pour parler de ce que l'on vit : nos peurs, nos remises en question, notre besoin d'appartenir à quelque chose de plus grand que soi. Au fil du spectacle, l'apocalypse cesse d'être une fatalité pour devenir un étrange lieu de rencontre, où le chaos finit paradoxalement par nous rapprocher et nous rassembler.Une coprésentation de Sûrette et du Grand Théâtre de Québec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La dernière veillée des cyniques -  Lancement d'album"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/428_x_599_uFUIfoY.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428_x_599_uFUIfoY.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428_x_599_uFUIfoY.jpg"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "242040"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "428 x 599"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/428_x_599_uFUIfoY.max-200x200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/426d4eb514cc1e20",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "23.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/surette",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sûrette"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/048147f7-ee9a-4616-bec4-d23250fbbe30",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e20ceb357eb7e0cf"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/452e8362953202ee"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/a24f25e2a85e064e"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/grandtheatre"
+      },
+      {
+        "@id": "https://twitter.com/GrandTheatreQc"
+      },
+      {
+        "@id": "https://www.instagram.com/grandtheatreqc/"
+      },
+      {
+        "@id": "https://www.youtube.com/channel/UCcrgPnIkEmTMe7tvJRiUMow"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Qu%C3%A9bec"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q3114610"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Le Grand Théâtre de Québec est un complexe artistique et culturel national situé dans la ville de Québec et comprenant deux salles de spectacle, de théâtre et d'opéra ainsi que plusieurs foyers."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/c464cf45-8143-47eb-9ad2-b0beae83997c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/la-derniere-veillee-des-cyniques/"
       }
     ],
     "http://schema.org/keywords": [
@@ -21924,7 +21108,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/55e27118-e98b-4e70-adae-98facfe46b04",
+    "@id": "https://grandtheatre.qc.ca/temporary/95ba71eb-5cce-4888-9a13-c5a31863be78",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -21987,7 +21171,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/19e795df-7072-4762-889a-056b6392b8f6",
+    "@id": "https://grandtheatre.qc.ca/temporary/48b9facd-ba73-45d9-a47f-47938ad0a7dd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -22251,7 +21435,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/778f039a-8ec4-43f7-9355-de401387124b",
+    "@id": "https://grandtheatre.qc.ca/temporary/016cee71-0531-4bea-9559-fa285bd9f96a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -22314,7 +21498,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/03087360-34c1-4b0d-8fdf-139142f5a6cd",
+    "@id": "https://grandtheatre.qc.ca/temporary/9ad70586-b908-4c61-afb5-8de4735824ba",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -22546,7 +21730,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/defa992e-0c94-4a83-8100-b910df9dec0a",
+    "@id": "https://grandtheatre.qc.ca/temporary/6850fab6-a3c7-4494-a6a9-0d946650939b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -22609,7 +21793,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/68159b93-59ed-43c9-991e-f719bd3e0bb3",
+    "@id": "https://grandtheatre.qc.ca/temporary/cc5358f5-b442-490e-a6a9-3f08e376cc6d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -22873,7 +22057,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/65c2e342-4439-4739-b493-8cfc54f396fc",
+    "@id": "https://grandtheatre.qc.ca/temporary/d5f78592-eb3e-4745-a038-59c667824ed6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -22936,7 +22120,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e464d3d9-640c-47c7-8af5-95e4e94e8038",
+    "@id": "https://grandtheatre.qc.ca/temporary/60396360-8162-4bf5-8aca-ad277ff8ffd7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23168,7 +22352,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fd99a7fa-b44b-4c8d-9dbf-18388b868691",
+    "@id": "https://grandtheatre.qc.ca/temporary/6b9a6222-2153-483e-b7c0-312f5246e440",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23231,7 +22415,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/75b719c6-3463-4bcd-ae15-542922944a15",
+    "@id": "https://grandtheatre.qc.ca/temporary/9e8143da-1eed-4738-9a74-a82219b4895f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23463,7 +22647,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/335bb074-7604-4636-9ce9-0174a1c19ba3",
+    "@id": "https://grandtheatre.qc.ca/temporary/a6500fe2-24d8-47a2-9c0b-d934052f551d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23526,7 +22710,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6b3b42e7-370a-4e6f-bd2d-1411d69e546f",
+    "@id": "https://grandtheatre.qc.ca/temporary/f715dac9-19cd-43d1-adcd-ae0430b8d49d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -23618,7 +22802,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://grandtheatre.qc.ca/genid/8f6f6b4877ba10f9"
+        "@id": "https://grandtheatre.qc.ca/genid/b5f8610a974cfcc3"
       }
     ],
     "http://schema.org/organizer": [
@@ -23717,7 +22901,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/8f6f6b4877ba10f9",
+    "@id": "https://grandtheatre.qc.ca/genid/b5f8610a974cfcc3",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -23729,7 +22913,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "InStock"
+        "@value": "OutOfStock"
       }
     ],
     "http://schema.org/price": [
@@ -23758,7 +22942,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/456b0d00-ea0e-4862-8b3b-eaddcb46841a",
+    "@id": "https://grandtheatre.qc.ca/temporary/ff43b904-f495-4340-a296-d38ea68c10d2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -23821,7 +23005,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/554b3537-538c-49d4-9e05-45577e456076",
+    "@id": "https://grandtheatre.qc.ca/temporary/8a0b58f0-2718-403f-ab1f-bc6cfa6745a0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24085,7 +23269,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/49616d2d-4bdd-4198-be4a-d554b913ca83",
+    "@id": "https://grandtheatre.qc.ca/temporary/1ec08e27-7c1e-4310-b3e8-b86b155867b1",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -24148,7 +23332,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/17bb6e0c-162e-4a32-b2d2-4741fa73cb30",
+    "@id": "https://grandtheatre.qc.ca/temporary/985fe79c-c3a3-48e3-b18d-060bc5de1bcd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -24676,6 +23860,86 @@
       {
         "@language": "fr",
         "@value": "Orphée et Eurydice de Christoph Willibald Gluck"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/459d56590a38387f",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/availableLanguage": [
+      {
+        "@language": "fr",
+        "@value": "FR"
+      },
+      {
+        "@language": "fr",
+        "@value": "EN"
+      }
+    ],
+    "http://schema.org/areaServed": [
+      {
+        "@language": "fr",
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@language": "fr",
+        "@value": "customer support"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "418 529-0688"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/773x443-faust.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/773x443-faust.jpg"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://schema.org/Distance",
+        "@value": "443 px"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/773x443-faust.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://schema.org/Distance",
+        "@value": "773 px"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "90400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "773x443-faust"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/773x443-faust.max-200x200.jpg"
       }
     ]
   },
@@ -25760,7 +25024,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a93ee4a2-9704-412e-b530-b5bc3244129d",
+    "@id": "https://grandtheatre.qc.ca/temporary/7f3910ba-8bbe-43b1-b4b5-7810687ecbb0",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -25823,7 +25087,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a22901bf-6ac6-40aa-bce8-35d0f924ef16",
+    "@id": "https://grandtheatre.qc.ca/temporary/be6ac35e-9f53-460b-9ee4-c134803dc277",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -26119,7 +25383,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/85e4ca93-81d9-4bfd-96ca-9cb003e9559f",
+    "@id": "https://grandtheatre.qc.ca/temporary/a0e4316b-5b59-4797-8efc-1b71efa337ee",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -26182,7 +25446,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b72d0da5-e277-4aaa-8a61-ea950dd98db6",
+    "@id": "https://grandtheatre.qc.ca/temporary/e911c44d-b0ed-44c5-a26c-ff2e1e1277e7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -26306,7 +25570,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Un traité sur la mémoire, la maladie, ces gens qu’on aime et qui nous quittent.Mais je fais aussi des faces comiques!Pour ce nouvel effort, je ne vous ferai pas le coup du « un spectacle plus personnel… »Ça, je l’ai déjà fait.Je me tourne ici vers les autres – vers une autre en particulier – et vers une maladie incurable qui nous soutire, à ma famille et moi, notre mère : une inimitable iconoclaste, libre penseuse ouverte sur le monde et sa beauté; une amoureuse de la vie laissant un impact colossal sur la mienne.Notre aventure familiale à travers le système de santé, ses failles, ses réussites (oui, oui…), notre rôle de proches aidants et notre rapport collectif bien curieux avec le vieillissement et le sort des ainés.J’ai écrit ce spectacle sur une période de sept ans. À travers l’accompagnement dans la maladie, la perte d’autonomie, la colère et les petits rayons de lumière. Un journal intime devenu public.Ma sœur Marie y est très présente. Elle est mon équipière, la capitaine de notre navire familial. Voici, en ses mots, ce que je tente d’exprimer depuis tantôt :« C’est ça que ça laisse la maladie : la beauté. Quand la frénésie des obligations et des plans de vie s’éteint, il reste la beauté. Pas celle formatée et criarde imposée par le monde extérieur, mais celle qui se cache dans les intersites de la vie. Ceux qu’on passera la majeure partie de notre vie à ne pas voir, parce qu’on est occupé à autre chose. Les moments suspendus au cœur même du temps. Les petites blagues, la douceur d’une caresse, d’un regard complice, un air fredonné. Quand la maladie efface tout de la vie utile, il reste la beauté. »Une présentation du Groupe Phaneuf"
+        "@value": "PRÉVENTE EN COURS Mise en vente pour les supplémentaires des 14 et 20 novembre : 7 août à 10 hPour être informés des prochaines préventes abonnez-vous à l'infolettre!Un traité sur la mémoire, la maladie, ces gens qu’on aime et qui nous quittent.Mais je fais aussi des faces comiques!Pour ce nouvel effort, je ne vous ferai pas le coup du « un spectacle plus personnel… »Ça, je l’ai déjà fait.Je me tourne ici vers les autres – vers une autre en particulier – et vers une maladie incurable qui nous soutire, à ma famille et moi, notre mère : une inimitable iconoclaste, libre penseuse ouverte sur le monde et sa beauté; une amoureuse de la vie laissant un impact colossal sur la mienne.Notre aventure familiale à travers le système de santé, ses failles, ses réussites (oui, oui…), notre rôle de proches aidants et notre rapport collectif bien curieux avec le vieillissement et le sort des ainés.J’ai écrit ce spectacle sur une période de sept ans. À travers l’accompagnement dans la maladie, la perte d’autonomie, la colère et les petits rayons de lumière. Un journal intime devenu public.Ma sœur Marie y est très présente. Elle est mon équipière, la capitaine de notre navire familial. Voici, en ses mots, ce que je tente d’exprimer depuis tantôt :« C’est ça que ça laisse la maladie : la beauté. Quand la frénésie des obligations et des plans de vie s’éteint, il reste la beauté. Pas celle formatée et criarde imposée par le monde extérieur, mais celle qui se cache dans les intersites de la vie. Ceux qu’on passera la majeure partie de notre vie à ne pas voir, parce qu’on est occupé à autre chose. Les moments suspendus au cœur même du temps. Les petites blagues, la douceur d’une caresse, d’un regard complice, un air fredonné. Quand la maladie efface tout de la vie utile, il reste la beauté. »Une présentation du Groupe Phaneuf"
       }
     ],
     "http://schema.org/name": [
@@ -26414,7 +25678,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/37902143-1f2a-4b58-9caa-cf89c620ccf7",
+    "@id": "https://grandtheatre.qc.ca/temporary/61adc91d-f1a4-45d4-bc92-213db784b4c5",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -26477,7 +25741,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/eedd87e5-c46d-4462-9810-de114914070a",
+    "@id": "https://grandtheatre.qc.ca/temporary/cbfbc5d4-8ee0-4224-89ee-78e2fb0f0fad",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -30637,7 +29901,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6fa4ac99-7df3-40a8-b0f7-db7488a0081b",
+    "@id": "https://grandtheatre.qc.ca/temporary/dd28560a-0e61-4a7d-8c7a-b3bb0e0d0fa6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -30700,7 +29964,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e255a221-4474-4c64-a01f-db6c8d390dc1",
+    "@id": "https://grandtheatre.qc.ca/temporary/614e3cae-43e4-4e99-ad36-d45b9611fea9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -31028,7 +30292,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1546ef2a-77fe-433f-9548-05ca962e910c",
+    "@id": "https://grandtheatre.qc.ca/temporary/16144d79-2e94-413d-b59b-3e2bcf2af0a4",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31091,7 +30355,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c50c10e9-e0a1-403b-b1c2-a6cd515a5e3e",
+    "@id": "https://grandtheatre.qc.ca/temporary/8b6b8425-5547-4e33-b41c-415d90589476",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -31387,7 +30651,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f2df90ad-7974-4ee2-b6ca-c43952559a03",
+    "@id": "https://grandtheatre.qc.ca/temporary/de53f44d-360f-42bf-9d15-49d7817787f1",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -31450,7 +30714,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/abb821ab-a93e-4134-9593-a37f8a279815",
+    "@id": "https://grandtheatre.qc.ca/temporary/c3c10ca9-a9f2-4fa9-9e4b-a3a5eec38cbd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -32354,7 +31618,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5cf5bb75-0fd7-4189-87a2-6392f173e1a0",
+    "@id": "https://grandtheatre.qc.ca/temporary/a2d8269d-8b4a-4f2a-96b3-60d3bf7be2a6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32417,7 +31681,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a3803b86-d0cb-435d-b5f9-dc2df0d2dad6",
+    "@id": "https://grandtheatre.qc.ca/temporary/55fa036f-f15e-488f-8c9f-3b8f6d00f150",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -32713,7 +31977,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b53d677b-f55a-4fd6-b47b-641c8092ae90",
+    "@id": "https://grandtheatre.qc.ca/temporary/97687b6e-2215-41c1-9bc2-285666a0e03e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -32776,7 +32040,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9f04a952-306e-498b-8ce0-1819a049bbbd",
+    "@id": "https://grandtheatre.qc.ca/temporary/0e8836b9-41c3-4169-a61e-c7450381303d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -33680,7 +32944,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/eed97e23-1eb8-49af-a1bc-ce3d264f1872",
+    "@id": "https://grandtheatre.qc.ca/temporary/b53034fa-ead5-4efd-9ad8-ad6f8f453a56",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -33743,7 +33007,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/16feee6c-dd32-48af-bceb-5f7cfc80aea8",
+    "@id": "https://grandtheatre.qc.ca/temporary/26bbef5d-b75f-475a-938c-04912fd00d46",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34007,7 +33271,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a2ce3cff-3196-4b27-9931-4eeae3c0dbbc",
+    "@id": "https://grandtheatre.qc.ca/temporary/0f93594f-b879-42d5-8d51-c39efd271e3d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -34070,7 +33334,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6245c68e-a9ce-402e-9a07-858a7857c6e3",
+    "@id": "https://grandtheatre.qc.ca/temporary/063dc7ce-c877-4530-affa-0d63e0936393",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34398,7 +33662,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/550a0cdd-f3ec-4085-8e71-d152f58b6fd5",
+    "@id": "https://grandtheatre.qc.ca/temporary/b71b9268-0aef-4daf-b0c0-dc6672d947de",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -34461,7 +33725,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2790a7aa-ca57-457c-aa19-c35f983af00a",
+    "@id": "https://grandtheatre.qc.ca/temporary/dfaf0bec-6422-4659-8a78-f58c044be2d5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35700,7 +34964,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7df7eb4b-8f87-43de-99b5-d3238800e705",
+    "@id": "https://grandtheatre.qc.ca/temporary/c17a4e08-b924-4605-9937-d64d7ee84930",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -35763,7 +35027,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/77696892-63ba-4142-b2f7-63462f4ff12c",
+    "@id": "https://grandtheatre.qc.ca/temporary/64058327-4376-4284-9367-b23361453b21",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35995,7 +35259,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7e2e0d4b-0309-424f-ac33-ff9e52dfb717",
+    "@id": "https://grandtheatre.qc.ca/temporary/094be98e-eef3-47f2-844c-0cab3ae5345f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -36058,7 +35322,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0bfd8395-3ddc-468a-93a0-d4f423b5f619",
+    "@id": "https://grandtheatre.qc.ca/temporary/c1951b4e-9766-49a1-834b-41455fe58630",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -37706,7 +36970,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/010bfb1e-4768-48c4-b969-998be72d2a3b",
+    "@id": "https://grandtheatre.qc.ca/temporary/ec5b770b-9d40-44a3-a077-0b251eb242d9",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -37769,7 +37033,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/89f848f1-c58d-4e84-b131-e88f2dd71973",
+    "@id": "https://grandtheatre.qc.ca/temporary/89018acc-d83d-48da-b022-3090e344ee31",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -38033,7 +37297,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cc99f632-c0b3-49ec-8197-766c11696576",
+    "@id": "https://grandtheatre.qc.ca/temporary/98fab5da-3143-4bc1-8557-84d5255e73b0",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -38096,7 +37360,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a893d471-f79b-4bb7-b1fb-97582a5731fe",
+    "@id": "https://grandtheatre.qc.ca/temporary/01f24c73-bc71-40aa-8b11-d28aa0b888f7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -38323,7 +37587,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/643f8cb9-d513-4fb7-bb0f-a8c1162a1676",
+    "@id": "https://grandtheatre.qc.ca/temporary/7f8d475a-53ac-4a62-91bb-fcac43e47fbb",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -38386,7 +37650,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/207a1d1f-9b70-4664-90da-15766662cb8b",
+    "@id": "https://grandtheatre.qc.ca/temporary/777fad17-f380-4e91-8183-117ba05a2a67",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39834,7 +39098,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3efbbffa-8228-4cd0-a745-7bf917b1c262",
+    "@id": "https://grandtheatre.qc.ca/temporary/b53c006d-31df-463b-978a-f37cabd7ae11",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -39897,7 +39161,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/265be7a3-2998-492c-aee8-6a803d064796",
+    "@id": "https://grandtheatre.qc.ca/temporary/fe700616-6c8f-467b-89e8-0aecee499d90",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -40129,7 +39393,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c2ed58c4-fd2b-4d99-a2a1-154e3d4ecca7",
+    "@id": "https://grandtheatre.qc.ca/temporary/f87eb316-a503-40a9-b75f-a955f65901de",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -40192,7 +39456,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9ea22e57-25c2-4b7c-9dea-83cebb8a89d0",
+    "@id": "https://grandtheatre.qc.ca/temporary/8f4d2423-5c18-49df-997b-a4bd7a3a65ef",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -40440,7 +39704,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/52cbe861-edf0-473c-8ca0-989483dd8ae2",
+    "@id": "https://grandtheatre.qc.ca/temporary/e7a0926e-08c0-40f7-a82e-b3087eee1a0e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -40503,7 +39767,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7ecd03a3-db86-42a0-8653-52b1f711263f",
+    "@id": "https://grandtheatre.qc.ca/temporary/da386e67-9838-4238-b875-1f45c6758f0a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -40903,7 +40167,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b81e53ab-bfc6-4e53-9e6b-c48e6854901b",
+    "@id": "https://grandtheatre.qc.ca/temporary/46e15fbb-f4bb-4c5e-a043-128fd1c79222",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -40966,7 +40230,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0c2ef492-c6e4-4fbf-92a6-2904d649e346",
+    "@id": "https://grandtheatre.qc.ca/temporary/dbd02cb1-5244-48c5-8965-fb0dca1ff6c6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41230,7 +40494,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7915ab51-c1cc-411e-a6ca-1e28203d7c93",
+    "@id": "https://grandtheatre.qc.ca/temporary/0f0e4a45-3d11-4bc9-bb1b-28d352802231",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41293,7 +40557,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/345543a6-e310-4051-9860-76cee5b42c40",
+    "@id": "https://grandtheatre.qc.ca/temporary/89835929-8457-4089-b4a7-99275e2517bf",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41557,7 +40821,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4135f770-97d4-4173-9686-df044c81ba1f",
+    "@id": "https://grandtheatre.qc.ca/temporary/160ea742-ae74-4804-a536-f746d82e3c6b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41620,7 +40884,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ab706de6-63b0-405e-8a6d-ec8305514dd3",
+    "@id": "https://grandtheatre.qc.ca/temporary/8baeb1c1-2097-4d72-992e-c17268f6e8e4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41884,7 +41148,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/024bff86-681e-4ff6-a720-d8bd2cd9d706",
+    "@id": "https://grandtheatre.qc.ca/temporary/6952c403-5134-4115-9a7e-84ef0ed084ba",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -41947,7 +41211,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/86862723-d530-4d9a-b21a-4f9d0f9df361",
+    "@id": "https://grandtheatre.qc.ca/temporary/83897bb3-fba4-49b6-a644-23fba5347912",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -43659,7 +42923,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e4727205-a291-4c99-9388-be6fd0757c97",
+    "@id": "https://grandtheatre.qc.ca/temporary/1d7c66db-adfe-453a-b7f6-fa0880b2afc1",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -43722,7 +42986,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/58034512-9037-45b0-8282-edc270465129",
+    "@id": "https://grandtheatre.qc.ca/temporary/a518ac87-9917-4485-aea2-9a9b4bccba11",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -43814,13 +43078,13 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://grandtheatre.qc.ca/genid/ebe7c1cdb9f8f76f"
+        "@id": "https://grandtheatre.qc.ca/genid/789e7997d606e64a"
       },
       {
-        "@id": "https://grandtheatre.qc.ca/genid/1907b79cffe17e56"
+        "@id": "https://grandtheatre.qc.ca/genid/1d453111caf3548a"
       },
       {
-        "@id": "https://grandtheatre.qc.ca/genid/f8a36d9d03ecb928"
+        "@id": "https://grandtheatre.qc.ca/genid/670a8b1be140d0a9"
       }
     ],
     "http://schema.org/organizer": [
@@ -43919,7 +43183,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/ebe7c1cdb9f8f76f",
+    "@id": "https://grandtheatre.qc.ca/genid/789e7997d606e64a",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -43931,7 +43195,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "InStock"
+        "@value": "OutOfStock"
       }
     ],
     "http://schema.org/price": [
@@ -43948,7 +43212,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/1907b79cffe17e56",
+    "@id": "https://grandtheatre.qc.ca/genid/1d453111caf3548a",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -43960,7 +43224,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "InStock"
+        "@value": "OutOfStock"
       }
     ],
     "http://schema.org/price": [
@@ -43977,7 +43241,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/f8a36d9d03ecb928",
+    "@id": "https://grandtheatre.qc.ca/genid/670a8b1be140d0a9",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -43989,7 +43253,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "InStock"
+        "@value": "OutOfStock"
       }
     ],
     "http://schema.org/price": [
@@ -44018,7 +43282,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2c8a00d6-8985-48f7-9a99-d7a4cdca4743",
+    "@id": "https://grandtheatre.qc.ca/temporary/0506038e-0f01-4794-abf9-e8968601099b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -44081,7 +43345,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/81b781ed-1b6b-40da-be01-7a9661d7686a",
+    "@id": "https://grandtheatre.qc.ca/temporary/d5e81133-aa70-4d27-9f1b-93621b45732f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -44341,7 +43605,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d6de5db0-21b2-4b61-94f1-8f584bec23fd",
+    "@id": "https://grandtheatre.qc.ca/temporary/834ce2f0-8638-402d-922d-7961b1693301",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -44404,7 +43668,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9829f00b-b760-445d-83ae-d9a3e041b4be",
+    "@id": "https://grandtheatre.qc.ca/temporary/0d8e5f04-a285-446b-9bb5-6d86687dcf1f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -45708,7 +44972,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/49db766d-c355-4b71-8f14-03251fb14de2",
+    "@id": "https://grandtheatre.qc.ca/temporary/c17ed3ae-fbc6-4a18-b519-e2cf67bd580d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -45771,7 +45035,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4dd589de-b1ec-4bca-b8e7-5a59ce2923b9",
+    "@id": "https://grandtheatre.qc.ca/temporary/4999c22f-1520-4a7e-853c-ce0dec4619d2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -46035,7 +45299,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d6a46f88-a2a0-45e5-88f0-40c2bd78a7c6",
+    "@id": "https://grandtheatre.qc.ca/temporary/13d42524-1f7f-4f38-999f-bf6dc1219ace",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -46098,7 +45362,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6575be69-7eaf-49dc-ab8a-a25a5b6f32a0",
+    "@id": "https://grandtheatre.qc.ca/temporary/d094a579-f284-46ad-9faa-0f058360f37a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -46330,7 +45594,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/edaa414c-c8a1-4942-a156-51e93e229691",
+    "@id": "https://grandtheatre.qc.ca/temporary/caf5dda3-608a-4f5d-ac1d-b70838ab516d",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -46393,7 +45657,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/308a451d-7888-4097-887b-c6c9cfaff0e0",
+    "@id": "https://grandtheatre.qc.ca/temporary/4b058e8b-1790-42c8-a48c-2a07be49c75c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -46625,7 +45889,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0481f5d3-e4d1-48cd-a3ba-ecec6eda920a",
+    "@id": "https://grandtheatre.qc.ca/temporary/beea30fc-fa94-40b7-91ad-fceec46e6d00",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -46688,7 +45952,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/06504634-5316-4cbe-b1e3-1b08f7fdbfd1",
+    "@id": "https://grandtheatre.qc.ca/temporary/44bff1d2-b309-44e7-ab58-3481024d4455",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -47088,7 +46352,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/de278298-a787-4a05-bef0-a4c379838bef",
+    "@id": "https://grandtheatre.qc.ca/temporary/d2134afc-8635-4f07-899b-144ff4fba866",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47151,7 +46415,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d9828411-fd72-45ca-8073-c8f345eb8862",
+    "@id": "https://grandtheatre.qc.ca/temporary/fff50e80-7e3c-438e-aecb-ce042c7a3415",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -47252,13 +46516,13 @@
         "@id": "https://grandtheatre.qc.ca/genid/43198f2d5ab1cf96"
       },
       {
-        "@id": "https://grandtheatre.qc.ca/genid/b46e373cc246b428"
-      },
-      {
         "@id": "https://grandtheatre.qc.ca/genid/240eaa1336980b64"
       },
       {
         "@id": "https://grandtheatre.qc.ca/genid/19b9034eb773f962"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/b46e373cc246b428"
       }
     ],
     "http://schema.org/organizer": [
@@ -47444,35 +46708,6 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/b46e373cc246b428",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDMyNjIwMDE%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "140.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
     "@id": "https://grandtheatre.qc.ca/genid/240eaa1336980b64",
     "@type": [
       "http://schema.org/Offer"
@@ -47521,6 +46756,35 @@
       {
         "@language": "fr",
         "@value": "99.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/b46e373cc246b428",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDMyNjIwMDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "140.00"
       }
     ],
     "http://schema.org/priceCurrency": [
@@ -47606,13 +46870,13 @@
         "@id": "https://grandtheatre.qc.ca/genid/7eddab77827a647f"
       },
       {
-        "@id": "https://grandtheatre.qc.ca/genid/bc93e17a536fecb9"
-      },
-      {
         "@id": "https://grandtheatre.qc.ca/genid/f7d2d3925696c8f4"
       },
       {
         "@id": "https://grandtheatre.qc.ca/genid/d14bad9441f33a73"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/bc93e17a536fecb9"
       }
     ],
     "http://schema.org/organizer": [
@@ -47752,35 +47016,6 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/bc93e17a536fecb9",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDMyNjIwMDI%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "140.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
     "@id": "https://grandtheatre.qc.ca/genid/f7d2d3925696c8f4",
     "@type": [
       "http://schema.org/Offer"
@@ -47839,7 +47074,36 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8ff94ef5-4e49-401b-bd43-cdcd58030993",
+    "@id": "https://grandtheatre.qc.ca/genid/bc93e17a536fecb9",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDMyNjIwMDI%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "140.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/temporary/e19d7625-8fd4-48a1-b8d3-f0042c79f103",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -47902,7 +47166,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a09b47b0-5efc-4e35-a806-411645084357",
+    "@id": "https://grandtheatre.qc.ca/temporary/d29fe1ac-3ea9-4cb9-bee0-97297da45ae2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -48260,7 +47524,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6ebc44b7-7051-48cc-a41d-221be781f642",
+    "@id": "https://grandtheatre.qc.ca/temporary/bc21c4f1-fe38-4b80-9bbe-0c85ade23b70",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -48323,7 +47587,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5b23790d-73a2-4db4-908f-610246d9b4b7",
+    "@id": "https://grandtheatre.qc.ca/temporary/316a9cd0-6398-4d79-a6af-2ebaab242c89",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -48683,7 +47947,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b3e239f1-b160-4eac-8dcb-2b5500136972",
+    "@id": "https://grandtheatre.qc.ca/temporary/2959d7de-2879-4f6f-a308-59f21e5492bd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -48746,7 +48010,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e6f26950-f0c7-45cb-a26e-3fc0ccc58dde",
+    "@id": "https://grandtheatre.qc.ca/temporary/5c27be89-b00e-4408-b771-8a34dec6e35b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -49594,7 +48858,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/276f1927-a0a2-46a1-a61b-1b3175a28f41",
+    "@id": "https://grandtheatre.qc.ca/temporary/85632f1e-952f-4700-baf2-f6524577800a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -49657,7 +48921,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e61303b8-8440-4108-8158-e7da8ddbe829",
+    "@id": "https://grandtheatre.qc.ca/temporary/b8ee9a08-ded4-4a50-90d7-3987bddfb5ea",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -50185,7 +49449,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ca8bfece-7173-49bf-be13-f62285cc05d3",
+    "@id": "https://grandtheatre.qc.ca/temporary/13e88cae-03c6-429d-8d92-9be97d4f2fcc",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -50248,7 +49512,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b9cd07c2-26b0-4e39-af78-f6ad8a0ed6d3",
+    "@id": "https://grandtheatre.qc.ca/temporary/351f9405-8f1d-4d6d-a9c9-23f6c65fb8c4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -50688,7 +49952,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/833e4cfc-fccc-4765-a6bb-f9f553366d88",
+    "@id": "https://grandtheatre.qc.ca/temporary/2056cc24-3923-4dc4-9363-a5223bc0b31c",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -50751,7 +50015,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/697e3a6b-fd1e-416d-991d-849c1b065ff0",
+    "@id": "https://grandtheatre.qc.ca/temporary/60294068-b318-443c-bd0e-4e425a7fce04",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51111,7 +50375,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/240ac427-660a-4d19-9067-58f99c22b55f",
+    "@id": "https://grandtheatre.qc.ca/temporary/7bdb0271-f53a-4b3d-8688-6de551dd1710",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -51174,7 +50438,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/44a60a3e-0cc6-4044-af28-522ca42b8b5e",
+    "@id": "https://grandtheatre.qc.ca/temporary/877aa00c-ac28-468a-a51b-7b4d81787bbc",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51406,7 +50670,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/859bf6c9-c60c-4edb-80a9-c28b47027cff",
+    "@id": "https://grandtheatre.qc.ca/temporary/100fc09e-bfaa-402e-a2b2-542500129d5f",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -51469,7 +50733,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0d26e1ec-0bb5-48d9-b57e-e1752c2e0705",
+    "@id": "https://grandtheatre.qc.ca/temporary/fc2917d4-f082-4278-8798-eacb9d511dc6",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -55629,7 +54893,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/32bd248f-aaf8-4da2-bbc5-f8b0c03ad240",
+    "@id": "https://grandtheatre.qc.ca/temporary/f0216e78-75b7-42c6-9162-eeaa4ad92f39",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -55692,7 +54956,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d2957e2b-d910-44d3-b5fb-548d69c6b6e5",
+    "@id": "https://grandtheatre.qc.ca/temporary/0001ff81-5ce5-4ed8-afd5-e3acc1e09ed2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -57404,7 +56668,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3f66d6cf-b9f0-4143-8f1d-66114b1fdf2c",
+    "@id": "https://grandtheatre.qc.ca/temporary/2b4f71de-54a0-42c8-a1c5-5cf8b946f481",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -57467,7 +56731,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/36f8374c-b7fc-4687-b220-67eff11f925d",
+    "@id": "https://grandtheatre.qc.ca/temporary/32580970-9d94-4a49-81d5-617d7792b6db",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -57763,7 +57027,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/54f83759-a74b-464f-bcf3-97a93acaa6f2",
+    "@id": "https://grandtheatre.qc.ca/temporary/d47cbd8d-ae27-4073-8334-cff6b8cdaa99",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -57826,7 +57090,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ffc72e9c-4ae2-458d-84a1-084cfb12f9ae",
+    "@id": "https://grandtheatre.qc.ca/temporary/a0aa9e7d-6cc0-4844-b939-52553023f7fc",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -58570,7 +57834,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3c302610-49ab-4fc9-8ac1-9199fe1f884b",
+    "@id": "https://grandtheatre.qc.ca/temporary/e76ab44f-0015-41a2-9114-21bff31a88af",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -58633,7 +57897,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/17aee23c-9724-42c5-98f4-3044e0e97070",
+    "@id": "https://grandtheatre.qc.ca/temporary/00302a70-ad24-439a-a0da-3b39a24be4e1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -58961,7 +58225,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f9823cfa-ddc9-4af5-9360-6a26253cb43c",
+    "@id": "https://grandtheatre.qc.ca/temporary/3ee307ed-71aa-45ba-9439-f072655fd0f4",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -59024,7 +58288,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/cdd16b92-da62-4e65-9f43-2abcb6d92bde",
+    "@id": "https://grandtheatre.qc.ca/temporary/a721e7bf-9a87-4ba0-9a27-c905318494ac",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -59288,7 +58552,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fc278429-7998-45ee-bcbd-3dab1e42b5f4",
+    "@id": "https://grandtheatre.qc.ca/temporary/575b463d-6d81-43e0-bdc2-5ffdf19ea508",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -59351,7 +58615,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/810c8704-8907-4d79-89b7-6b3c2d990610",
+    "@id": "https://grandtheatre.qc.ca/temporary/5c19a16e-a869-4d7a-b9ec-ff9fff1f9a6a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -60255,7 +59519,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b24a8e6a-dd46-4935-bb84-99ce82f40023",
+    "@id": "https://grandtheatre.qc.ca/temporary/82d2723d-cca6-4413-af55-38ac8e66a9d6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60318,7 +59582,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8f40d3a8-6e0a-48eb-b388-9b4021413a3b",
+    "@id": "https://grandtheatre.qc.ca/temporary/0ff6ff5e-65e6-4fc9-82f1-1b2a54700c4a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -60550,7 +59814,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4d3e512b-8861-4a75-ba26-fef23bbb8e55",
+    "@id": "https://grandtheatre.qc.ca/temporary/67e485fc-b67f-4621-87f8-5dc4a8fbcfcc",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -60613,7 +59877,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5ab7a4bf-c086-446d-ba99-afe37b7faab5",
+    "@id": "https://grandtheatre.qc.ca/temporary/d04fb3e0-8572-41a0-bdf8-1555d56af11c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -62271,7 +61535,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/5691cfe5-674e-4c6f-8ede-5bde411dae71",
+    "@id": "https://grandtheatre.qc.ca/temporary/ed5984ae-5872-4b4a-a42c-ed05150f2904",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -62334,7 +61598,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d7ae7244-e1cd-48be-aa66-ef0ce33fbdc9",
+    "@id": "https://grandtheatre.qc.ca/temporary/39643e9c-7a51-4e20-940a-81ee2315dad7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -66506,7 +65770,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0177cddd-4cf6-4d9b-8788-bc4863f214b0",
+    "@id": "https://grandtheatre.qc.ca/temporary/f1f9812b-3163-4252-82fa-cd3996b9b72e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -66569,7 +65833,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d31133ef-889c-49b3-8076-578679d62319",
+    "@id": "https://grandtheatre.qc.ca/temporary/229bf13d-171e-4887-9396-e07ac85981da",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -66897,7 +66161,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/f61dd1f6-261e-4803-adde-27014f812ada",
+    "@id": "https://grandtheatre.qc.ca/temporary/c5dd4236-787f-4fe5-8c84-6b0e8da29d89",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -66960,7 +66224,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/47f34c24-14c3-4f1f-8eac-c751014f5623",
+    "@id": "https://grandtheatre.qc.ca/temporary/8dd7d3ac-10ff-48c1-9312-e47797755713",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -67519,7 +66783,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/df7fe056-2911-49c9-b507-fa9bf987bbe7",
+    "@id": "https://grandtheatre.qc.ca/temporary/06e56f74-8f21-4d27-85b5-dddae59b5fed",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -67582,7 +66846,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0957772f-4307-4668-b601-9f996f96f1cf",
+    "@id": "https://grandtheatre.qc.ca/temporary/5ef0d3c4-14c2-4c69-814c-a47d31426b2b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -68486,7 +67750,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0ffcd13d-529c-4a6b-b6a2-1de1a9a43efb",
+    "@id": "https://grandtheatre.qc.ca/temporary/04aabcc6-721d-445c-9f1a-a0f6b1d08128",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -68549,7 +67813,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9947b0ee-5f49-4192-8176-f49f7979366b",
+    "@id": "https://grandtheatre.qc.ca/temporary/e8f7a77b-7851-4d53-9d91-dc20c2780306",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -68845,7 +68109,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/45d28141-d899-4d9d-aabb-d68446043f63",
+    "@id": "https://grandtheatre.qc.ca/temporary/a152cdc7-250a-4bd4-a2ab-6a192cd64f03",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -68908,7 +68172,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a3a4ab34-33b4-404e-b3a3-251c8122c756",
+    "@id": "https://grandtheatre.qc.ca/temporary/815cb047-fed5-411a-a280-6998e44792c3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69204,7 +68468,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/33014799-0b78-461e-ae03-b5fbfaf981f2",
+    "@id": "https://grandtheatre.qc.ca/temporary/f83c6ec5-9f06-491c-92e5-910f80fbfd75",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -69267,7 +68531,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8ff822b6-9506-4b15-8ee2-9177ba964797",
+    "@id": "https://grandtheatre.qc.ca/temporary/632d9c32-0982-4094-bcfa-0763c049a5e0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69563,7 +68827,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e032374b-35ca-4fb2-afd8-cb5f40c4ce98",
+    "@id": "https://grandtheatre.qc.ca/temporary/cd616bd1-c91a-4fe1-9db7-be809f95e128",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -69626,7 +68890,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8bd1e9ed-497a-4697-a484-cde9d3370771",
+    "@id": "https://grandtheatre.qc.ca/temporary/eea0de54-7c7e-4838-8429-e9defad99f5b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69954,7 +69218,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/8d6cdb1d-7d87-48b4-a0a7-ccd1b3dcded6",
+    "@id": "https://grandtheatre.qc.ca/temporary/6fa91dae-de96-45d3-b1c0-1dd711d4daea",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -70017,7 +69281,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/2dc894ae-5ea8-486b-a146-615b7c2f7ae0",
+    "@id": "https://grandtheatre.qc.ca/temporary/9ab4d77b-e25e-4e0b-b178-dc279395216d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70409,7 +69673,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4f89971c-ae74-4df7-ba72-2b6961907dd9",
+    "@id": "https://grandtheatre.qc.ca/temporary/baf646e0-de34-418c-97b7-9336fbf8db74",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -70472,7 +69736,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b0201f6a-5b8d-4035-afb4-b9489232c52e",
+    "@id": "https://grandtheatre.qc.ca/temporary/0574c7e7-c672-42e8-bcd1-957730cf68b7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70768,7 +70032,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ffb57af6-cc61-4c91-b690-b15b02f3245e",
+    "@id": "https://grandtheatre.qc.ca/temporary/4c30e69f-ad2e-48c7-a68c-069885f6217a",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -70831,7 +70095,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7a99bb9c-55f0-4a41-a6e0-3c9932b5ddeb",
+    "@id": "https://grandtheatre.qc.ca/temporary/596c7297-4539-4265-a2f2-5fa9252ea7fb",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -71063,7 +70327,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ab6b51cd-96df-45d7-9570-02e8f326bd09",
+    "@id": "https://grandtheatre.qc.ca/temporary/c2dd5903-3311-4cbf-8cc3-4ac194361d59",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -71126,7 +70390,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/a89c7618-c8ca-4eac-a521-4fe85041f490",
+    "@id": "https://grandtheatre.qc.ca/temporary/c5c25386-8172-4449-9ae2-3ba36bc203b1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72030,7 +71294,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/96f0864a-1dc0-4bc9-bf52-2e2c7a9b78aa",
+    "@id": "https://grandtheatre.qc.ca/temporary/fcb195d5-ee2f-4ff0-97ac-ef785f15d75e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -72093,7 +71357,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7bc66887-aadc-444b-a2e9-33562e357b81",
+    "@id": "https://grandtheatre.qc.ca/temporary/e1de7786-f90d-4467-a788-074f4c59f5a1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72325,7 +71589,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7979b80a-103d-4881-887c-d1559acd3b92",
+    "@id": "https://grandtheatre.qc.ca/temporary/f76113e1-d518-4c88-be9b-7c5ca9e46b62",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -72388,7 +71652,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7180048a-022f-41b5-b2d8-ab72466559e6",
+    "@id": "https://grandtheatre.qc.ca/temporary/9ddb9c90-9e2d-4f7d-9a31-866f65cca8b9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72666,7 +71930,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/271bb824-7b44-4a73-ad66-d32a25792bc6",
+    "@id": "https://grandtheatre.qc.ca/temporary/8093a8f7-0b0d-47b8-8334-ffe989338951",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -72729,7 +71993,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/1d278278-4c54-4c73-9c4d-61ca554b335f",
+    "@id": "https://grandtheatre.qc.ca/temporary/310b8241-56fa-4b29-9979-3519f236f498",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72993,7 +72257,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/fb29d124-5a84-481b-ac06-b0ede6fdc872",
+    "@id": "https://grandtheatre.qc.ca/temporary/6979efbf-6ce5-40ee-ae75-925e36e6d6dd",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -73056,7 +72320,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e663e217-ce26-49ce-b39f-86ce94e32216",
+    "@id": "https://grandtheatre.qc.ca/temporary/410e0bfe-f190-4a10-befc-b5fb1bbcfa53",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -77216,7 +76480,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/dab4c2b1-e29f-4935-b593-e65007a6142a",
+    "@id": "https://grandtheatre.qc.ca/temporary/ffbc5980-66b2-4343-8ee3-2249618ac840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -77279,7 +76543,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/607c4533-082e-4493-a733-fa4b47440819",
+    "@id": "https://grandtheatre.qc.ca/temporary/48640335-b402-4123-a10b-a303742ff1d1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78183,7 +77447,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/ccf915ed-b3fa-4a0b-9c5e-136c3475cdc9",
+    "@id": "https://grandtheatre.qc.ca/temporary/0084cfbb-bc43-4650-b11a-782990d34a6b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -78246,7 +77510,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/82e35f40-f0f1-4a08-95a6-5af6d0317992",
+    "@id": "https://grandtheatre.qc.ca/temporary/161713f9-0623-4ffc-a8c2-8ffc427af3d9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78542,7 +77806,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/b2f2f5bb-caa6-46ba-a051-3877e5dcf84b",
+    "@id": "https://grandtheatre.qc.ca/temporary/bf60d61d-2bc3-4444-b00a-a5d79069a86b",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -78605,7 +77869,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/aa396f1d-6b6d-485c-ab50-6e5966a2f13e",
+    "@id": "https://grandtheatre.qc.ca/temporary/fd620ecb-7879-4164-a5e2-09866f7a16fd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -80317,7 +79581,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/7fa09998-f29c-4e4a-8ae8-c9e59efd6c66",
+    "@id": "https://grandtheatre.qc.ca/temporary/a7fc9d11-db0a-4298-9cd7-234a53e9d880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -80380,7 +79644,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d6174519-0ab2-420f-a1c9-4d181605f37e",
+    "@id": "https://grandtheatre.qc.ca/temporary/71073de8-fd83-400d-89e6-95095927c5f9",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -81012,7 +80276,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d68fb2f9-85db-433b-8e25-2dfadbd54c6a",
+    "@id": "https://grandtheatre.qc.ca/temporary/166330e2-770d-4162-bac6-5db709f27915",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -81075,7 +80339,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/45edf963-8fb2-4760-9d27-5b7b387a0d02",
+    "@id": "https://grandtheatre.qc.ca/temporary/df915b00-1563-4e99-bd6f-21a0ff8058d7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -81317,7 +80581,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/c89dc880-8c41-406d-b3fe-f6d316f9ef35",
+    "@id": "https://grandtheatre.qc.ca/temporary/02486707-a3ae-405e-8a44-2a28e80d1e94",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -81380,7 +80644,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3d747f0d-fb5f-478e-841a-d2dac381dd78",
+    "@id": "https://grandtheatre.qc.ca/temporary/764d34c5-d68f-4323-871e-dcd222f4320f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -82992,7 +82256,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/6429e4a8-4140-4f50-b362-38234fdd82e2",
+    "@id": "https://grandtheatre.qc.ca/temporary/bca56028-73e2-4cf5-a8fa-f24002e0e291",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -83055,7 +82319,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/eeededfb-d1ef-49c0-b2fc-4ec8633c38be",
+    "@id": "https://grandtheatre.qc.ca/temporary/ab015b55-bced-40f4-9035-b2d4e38dd596",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -83591,7 +82855,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/840cbe2e-63f1-49b9-9e6e-278e0233879e",
+    "@id": "https://grandtheatre.qc.ca/temporary/bb560d73-e825-46e4-b746-0bb69ec79bef",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -83654,7 +82918,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4a1761a1-9cf1-4ac1-aaf1-33e03ee534af",
+    "@id": "https://grandtheatre.qc.ca/temporary/8e25a29d-cd88-4fba-9fb2-eefc6da13111",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -85302,7 +84566,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e040a4f3-0100-489f-abe2-87bc2484228f",
+    "@id": "https://grandtheatre.qc.ca/temporary/53db2a53-19d7-4123-821a-9882d60e1666",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -85365,7 +84629,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/072fbada-e201-47a5-ac15-f6dd97e87541",
+    "@id": "https://grandtheatre.qc.ca/temporary/eb89d6e5-b586-4de6-90b4-5a2a421a7768",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -85629,7 +84893,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/3df2710b-ce7f-476f-a33e-f6b882a831fd",
+    "@id": "https://grandtheatre.qc.ca/temporary/f12db6c3-257e-4723-89fc-33dfc4bfa84e",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -85692,7 +84956,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/d795e045-f974-4715-ba70-f645dcf782fb",
+    "@id": "https://grandtheatre.qc.ca/temporary/46ea8b86-8e77-4cd5-b26f-fb7cf45e6c98",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -85988,7 +85252,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/9d100a55-b3b8-4a55-9ef1-3a94c4127884",
+    "@id": "https://grandtheatre.qc.ca/temporary/a2daddcd-3167-4698-b3f0-552f49be85ba",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -86051,7 +85315,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/905c2086-9779-4a40-8bce-42b64a684a94",
+    "@id": "https://grandtheatre.qc.ca/temporary/b0288574-8ea6-412c-8e8b-6833591abaaa",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -86851,7 +86115,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/bf7a2db3-a9ed-41eb-8734-a83ae93c8f04",
+    "@id": "https://grandtheatre.qc.ca/temporary/125d5e22-f01a-44a9-a2eb-7016ff5405a6",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -86914,7 +86178,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/4e225bcc-855b-4ce4-9bd7-20852e0338b5",
+    "@id": "https://grandtheatre.qc.ca/temporary/f59dde02-e07d-49dc-bd9e-cc88881b0ba7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -87146,7 +86410,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/65372318-41e2-4229-a8e6-854efc20f08d",
+    "@id": "https://grandtheatre.qc.ca/temporary/db531ab2-13bb-4158-95a6-cc6c1d89e001",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -87209,7 +86473,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/75ae6098-ac13-4c07-b4d3-1c1cab9989a1",
+    "@id": "https://grandtheatre.qc.ca/temporary/a98f3406-c519-44b9-bcc0-776b28bf58e0",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -87473,7 +86737,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/0699eb21-075d-4450-8afa-2d8f0db1f1a9",
+    "@id": "https://grandtheatre.qc.ca/temporary/b4bb37d2-9575-4db2-945a-43c1682ecc60",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -87536,7 +86800,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/da510347-83d9-4ec6-8daf-96b159e8c4b9",
+    "@id": "https://grandtheatre.qc.ca/temporary/0e71700d-ebf6-4a77-8207-9beed1db727a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -88508,7 +87772,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/e77b69a7-73dd-484f-8cf5-5f6e5676205a",
+    "@id": "https://grandtheatre.qc.ca/temporary/4b3f0e73-c12b-48f2-893a-1d62751fbde2",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -88571,7 +87835,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/temporary/71183994-f923-469b-9d2d-2ab2eb65c54b",
+    "@id": "https://grandtheatre.qc.ca/temporary/6f62bdce-5411-414d-97d4-6a1302ae88df",
     "@type": [
       "http://schema.org/WebSite"
     ],
