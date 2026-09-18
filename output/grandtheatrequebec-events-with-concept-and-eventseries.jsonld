@@ -155,7 +155,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/243329e556a8e922",
+    "@id": "https://grandtheatre.qc.ca/genid/4f019c280beab46e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -303,1120 +303,6 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-05-00-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-05T04:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/ee9afd22260aa97f"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/560457cc34ea3ff8"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/58793de88b57f2a1"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/2f2c1c2f4b47f81b"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/595fff7b205080a1"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/8a4e542ea8a07c0d"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-05T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "la plus grande histoire d'amour d'Amérique du Nord"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
-      }
-    ],
-    "http://schema.org/contentSize": [
-      {
-        "@language": "fr",
-        "@value": "49026"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@language": "fr",
-        "@value": "599 px"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Evangeline-2025_GrandTheatreQC_428x599"
-      }
-    ],
-    "http://schema.org/thumbnail": [
-      {
-        "@language": "fr",
-        "@value": "/uploads/images/Evangeline-2025_GrandTheatreQC_428x599.max-200x200.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@language": "fr",
-        "@value": "428 px"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/ee9afd22260aa97f",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDI="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "96.73"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/560457cc34ea3ff8",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDI="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "66.74"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/58793de88b57f2a1",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDI="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "155.72"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/2f2c1c2f4b47f81b",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDI="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "85.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/595fff7b205080a1",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDI="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "121.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/8a4e542ea8a07c0d",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDI="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "77.39"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Évangéline - Le spectacle musical"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-05-19-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-05T23:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/04732b5f6d33f088"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/702b5d31a2681357"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/ede14a118e34d762"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/7bd2a90388802d2c"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/0c4fe140efe3cae2"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/5807ef23773497fb"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-05T19:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "la plus grande histoire d'amour d'Amérique du Nord"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/04732b5f6d33f088",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "96.73"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/702b5d31a2681357",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "66.74"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/ede14a118e34d762",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "155.72"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/7bd2a90388802d2c",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "85.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/0c4fe140efe3cae2",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "121.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/5807ef23773497fb",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDM="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "77.39"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-06-00-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-06T04:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f98a77e919755876"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/482c58acc71bcdac"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/bd5d6a110bc59e59"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a856a5be83549018"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/043e15d2694ec770"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/292867f0a559341c"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-06T00:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "la plus grande histoire d'amour d'Amérique du Nord"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/f98a77e919755876",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDQ="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "96.73"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/482c58acc71bcdac",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDQ="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "66.74"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/bd5d6a110bc59e59",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDQ="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "155.72"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/a856a5be83549018",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDQ="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "85.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/043e15d2694ec770",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDQ="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "121.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/292867f0a559341c",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDQ="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "77.39"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-06-19-00",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-06T23:00:00+00:00"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/7e57515017c69d6b"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/3285809e5e31ba3c"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e47c21f6bc2e67b6"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/3655995830dcc86e"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/82f300889bd26ea2"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/a98b4322de6ea953"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2026-09-06T19:00:00+00:00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Mettant en vedette Maude Cyr-Deschênes, Olivier Dion, Matthieu Lévesque, Nathalie Simard, Océane Kitura Bohémier-Tootoo et Laurent Lucas, Évangéline est une fresque historique musicale empreinte de modernisme. Une vision cinématographique d'une épopée qui prend racine en terre autochtone, en Nouvelle-Écosse.1755, les acadiens sont déportés... Une cicatrice que le fil du temps peine à effacer. Une fresque épique qui porte l'histoire d'amoureux légendaires. Un amour déporté que celui des révolutionnaires Évangéline et Gabriel, alors qu’en eux brûle le cœur de L’Acadie. Encore aujourd’hui, une mémoire troublée nous habite, tandis que nous gardons à l’esprit les liens tissés entre le peuple Français et la Nation Mi’Kmaq. Évangéline et Gabriel nous mèneront sur les sentiers d’une quête empreinte d’espoir et guérison.Une présentation de GestevCrédits :Distribution Maude Cyr-Deschênes – Évangéline BellefontaineOlivier Dion – Gabriel LajeunesseOcéane Kitura Bohémier Tootoo – HanoahMatthieu Lévesque – Baptiste LeblancRaphaël Butler – BeausoleilNathalie Simard – Soeur MargueriteLaurent Lucas – Père FélixFrayne McCarthy – John WinslowDominique Côté – Benoît BellefontaineGuillaume Rodrigues – FrançoisNoémie Durand – JeanneEloi Archambaudoin – Rôles multiplesCyndie Forget Gravel – Membre ensembleMerryn Kritzinger - Membre ensemble Roxane Duchesne-Roy - Membre ensemble Evelynn Yan - Membre ensembleJake Poloz - Membre ensemble Zachary Bastille - Membre ensemble Yelda Del Carmen Leyva Espinosa - Membre ensembleFrançois Richard - Membre ensemble Andrew Mikhaiel - Membre ensemble Aroussen Gros-Louis – Danseuse et chorégraphe de danse des Premières nationsProductionGestev - Production / DiffusionJean-Jacques Pillet - Mise en scène et direction de créationCaroline Cloutier - Auteure du livret et dialoguisteFrédérick Baron - Co-auteur du livret et parolierSteve Marin - CompositionAnne Vivien - Direction artistique musicale - Musicor et direction de castingYannick Bocquet - Producteur délégué, direction de production et techniqueYvan Cassar - Réalisation, arrangements et direction d’orchestreEmilie Josset - Direction vocale, consultation artistique et productionMarilène Bastien - ScénographieNormal Studio - Conception vidéoLaurent Routhier - ÉclairagesLiz Vandal - CostumesVéronique Giasson - ChorégraphiesStephane Scotto Di Cesare - Perruques et coiffuresVéronique St-Germain - MaquillageAlexis Vigneault - Direction photo et tournage vidéoJulie Measroch - AccessoiresVoir les crédits complets"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "la plus grande histoire d'amour d'Amérique du Nord"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/7e57515017c69d6b",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDU="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "96.73"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/3285809e5e31ba3c",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDU="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "66.74"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/e47c21f6bc2e67b6",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDU="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "155.72"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/3655995830dcc86e",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDU="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "85.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/82f300889bd26ea2",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDU="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "121.23"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/a98b4322de6ea953",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNjA4MDU="
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "77.39"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
     "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-12-00-00",
     "@type": [
       "http://schema.org/Event"
@@ -1503,6 +389,52 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/Evangeline-2025_GrandTheatreQC_428x599.jpg"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "49026"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Evangeline-2025_GrandTheatreQC_428x599"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/Evangeline-2025_GrandTheatreQC_428x599.max-200x200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
       }
     ]
   },
@@ -1677,6 +609,18 @@
       {
         "@language": "fr",
         "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Évangéline - Le spectacle musical"
       }
     ]
   },
@@ -2505,7 +1449,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/4f5b2c5fa5f97437",
+    "@id": "https://grandtheatre.qc.ca/genid/6a229fd4be3b3cc5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -6857,7 +5801,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/30fd72b14e42f9f6",
+    "@id": "https://grandtheatre.qc.ca/genid/70e1fedc9b104241",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -7029,11 +5973,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
       }
     ]
   },
@@ -7993,11 +6932,6 @@
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
-      }
     ]
   },
   {
@@ -8671,7 +7605,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/3ef81fb358799248",
+    "@id": "https://grandtheatre.qc.ca/genid/4af02131afbb8dc1",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -8788,7 +7722,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/Musique"
+        "@id": "https://grandtheatre.qc.ca/ontologie/ChansonFrancophone"
       }
     ]
   },
@@ -8999,7 +7933,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/16c158942793cb52",
+    "@id": "https://grandtheatre.qc.ca/genid/6a63c4e15d5c0580",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -9460,7 +8394,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/e9bf2b73b2f3a43f",
+    "@id": "https://grandtheatre.qc.ca/genid/47b3a6287c022961",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -10369,7 +9303,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/298a3d0b11dc0a4a",
+    "@id": "https://grandtheatre.qc.ca/genid/b9d17e05650dadfb",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -10606,7 +9540,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/edc65093eec16aac",
+    "@id": "https://grandtheatre.qc.ca/genid/c7691fe339a23d89",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -10838,7 +9772,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/c7b6b497914ade52",
+    "@id": "https://grandtheatre.qc.ca/genid/23f0174810aea402",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -11170,7 +10104,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/a9b332242fd3819b",
+    "@id": "https://grandtheatre.qc.ca/genid/c889256a39122b66",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -11471,7 +10405,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/f4de9b89811a6c25",
+    "@id": "https://grandtheatre.qc.ca/genid/aff359e42282ec95",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -11572,7 +10506,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © &amp; ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
+        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © & ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
       }
     ],
     "http://schema.org/name": [
@@ -11867,7 +10801,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © &amp; ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
+        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © & ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
       }
     ],
     "http://schema.org/name": [
@@ -12072,7 +11006,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © &amp; ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
+        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © & ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
       }
     ],
     "http://schema.org/name": [
@@ -12246,7 +11180,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/88e9cb5e80339da4",
+    "@id": "https://grandtheatre.qc.ca/genid/c4dd8f2e1e33e26f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -12483,7 +11417,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/d2e3c777f4dd5bd9",
+    "@id": "https://grandtheatre.qc.ca/genid/01192b939c4e4b7f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -12944,7 +11878,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/9b56e827c540c84a",
+    "@id": "https://grandtheatre.qc.ca/genid/a28ba92443743187",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -13004,13 +11938,13 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://grandtheatre.qc.ca/genid/fd540eac78639812"
+        "@id": "https://grandtheatre.qc.ca/genid/bf2598caad25891a"
       },
       {
-        "@id": "https://grandtheatre.qc.ca/genid/3ce8e93eca5938c2"
+        "@id": "https://grandtheatre.qc.ca/genid/50e723011ccd9f56"
       },
       {
-        "@id": "https://grandtheatre.qc.ca/genid/4bd4c0c727d34fc8"
+        "@id": "https://grandtheatre.qc.ca/genid/4ed7ca7b52d970ae"
       }
     ],
     "http://schema.org/organizer": [
@@ -13114,7 +12048,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/fd540eac78639812",
+    "@id": "https://grandtheatre.qc.ca/genid/bf2598caad25891a",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13126,7 +12060,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "OutOfStock"
+        "@value": "InStock"
       }
     ],
     "http://schema.org/price": [
@@ -13143,7 +12077,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/3ce8e93eca5938c2",
+    "@id": "https://grandtheatre.qc.ca/genid/50e723011ccd9f56",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13155,7 +12089,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "OutOfStock"
+        "@value": "InStock"
       }
     ],
     "http://schema.org/price": [
@@ -13172,7 +12106,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/4bd4c0c727d34fc8",
+    "@id": "https://grandtheatre.qc.ca/genid/4ed7ca7b52d970ae",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -13184,7 +12118,7 @@
     "http://schema.org/availability": [
       {
         "@language": "fr",
-        "@value": "OutOfStock"
+        "@value": "InStock"
       }
     ],
     "http://schema.org/price": [
@@ -13591,7 +12525,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/22139a4c1ff0b103",
+    "@id": "https://grandtheatre.qc.ca/genid/f079978802967a7e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -13892,7 +12826,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/169d8b1d31adb0ff",
+    "@id": "https://grandtheatre.qc.ca/genid/f1058c086ac58c99",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -14622,7 +13556,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/6ee3bae0f58b667f",
+    "@id": "https://grandtheatre.qc.ca/genid/58e9923b8953c8f8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -14672,7 +13606,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/AD_RENAUD_428_x_599.png"
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/RENAUD-SYMPHONIQUE-SANS-TEXTE_428x599.png"
       }
     ],
     "http://schema.org/location": [
@@ -14726,7 +13660,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "À l’occasion de ses 50 ans de carrière, Renaud fera l’objet d’un hommage symphonique exceptionnel le 11 octobre 2026 au Grand Théâtre de Québec. Pour célébrer son parcours unique, plusieurs grandes voix de la scène francophone québécoise se réuniront afin de revisiter les chansons les plus marquantes de son répertoire et seront accompagnées d’un orchestre symphonique de 35 musiciens.La présence exceptionnelle de Renaud dans la salle viendra marquer cette célébration de cinq décennies d’une carrière qui a marqué plusieurs générations. Entre émotion, souvenirs et rencontres artistiques, cette soirée mettra en lumière l’immense héritage musical de Renaud à travers le regard et la voix d’artistes venus lui rendre hommage.Une présentation des Agents Doubles Productions"
+        "@value": "Le dimanche 11 octobre 2026, Renaud sera à Québec pour célébrer ses 50 ans de carrière lors d’une grande soirée hommage au Grand Théâtre de Québec.Pour l’occasion, une distribution aussi éclectique qu’audacieuse d’artistes québécois se réunira pour saluer Renaud et son immense parcours, accompagnée de l’Orchestre national de jazz et de ses 35 musiciens, sous la direction musicale d’Antoine Gratton.Des voix, des générations et des univers différents, réunis autour d’une même envie : célébrer Renaud et faire résonner, à leur manière, 50 ans de chansons.Émile Bourgault, Betty Bonifassi, Daniel Boucher, Édith Butler, France Castel, Antoine Gratton, Luc De Larochellière, Marie-Jo Thério, Mara Tremblay, Édouard Tremblay-Grenier et Yann Perreau revisiteront les chansons qui ont marqué l’immense parcours de l’artiste.Mistral gagnant, Morgane de toi, Dès que le vent soufflera, Laisse béton, En cloque, Hexagone… Des chansons qui ont traversé les générations et qui prendront, pour l’occasion, une nouvelle dimension dans des arrangements spécialement conçus pour cette grande célébration.Présent dans la salle, Renaud assistera à cet immense salut que lui feront les artistes et le public québécois. Après 50 ans de chansons, de poésie, d’humour, de révolte et de tendresse, cette soirée sera l’occasion de redécouvrir son univers autrement et de célébrer les chansons qui font désormais partie de notre mémoire collective.Une présentation des Agents Doubles Productions"
       }
     ],
     "http://schema.org/name": [
@@ -14752,42 +13686,42 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/uploads/original_images/AD_RENAUD_428_x_599.png",
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/RENAUD-SYMPHONIQUE-SANS-TEXTE_428x599.png",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/AD_RENAUD_428_x_599.png"
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/RENAUD-SYMPHONIQUE-SANS-TEXTE_428x599.png"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://grandtheatre.qc.ca/uploads/original_images/AD_RENAUD_428_x_599.png"
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/RENAUD-SYMPHONIQUE-SANS-TEXTE_428x599.png"
       }
     ],
     "http://schema.org/contentSize": [
       {
         "@language": "fr",
-        "@value": "557332"
+        "@value": "506381"
       }
     ],
     "http://schema.org/height": [
       {
         "@language": "fr",
-        "@value": "599 px"
+        "@value": "600 px"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "AD_RENAUD_428 x 599"
+        "@value": "RENAUD-SYMPHONIQUE-SANS-TEXTE_428x599"
       }
     ],
     "http://schema.org/thumbnail": [
       {
         "@language": "fr",
-        "@value": "/uploads/images/AD_RENAUD_428_x_599.max-200x200.png"
+        "@value": "/uploads/images/RENAUD-SYMPHONIQUE-SANS-TEXTE_428x599.max-200x200.png"
       }
     ],
     "http://schema.org/width": [
@@ -14987,7 +13921,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/7376996bc0cc6aed",
+    "@id": "https://grandtheatre.qc.ca/genid/7a4858ffc2ca567a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -15346,7 +14280,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/43a7d5d6cefb5bdd",
+    "@id": "https://grandtheatre.qc.ca/genid/af70f3ea8936aff2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -15756,7 +14690,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/951b69ba180698aa",
+    "@id": "https://grandtheatre.qc.ca/genid/70603879726cbb25",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16025,7 +14959,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/7ed4a4c821c99259",
+    "@id": "https://grandtheatre.qc.ca/genid/aae11187aa0289cc",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16262,7 +15196,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/acd89de434ee7869",
+    "@id": "https://grandtheatre.qc.ca/genid/8ca7ca7879d2b58f",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16531,7 +15465,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/a5158079785388d7",
+    "@id": "https://grandtheatre.qc.ca/genid/c63a111fd5e4d966",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16739,7 +15673,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/034f3e196d321934",
+    "@id": "https://grandtheatre.qc.ca/genid/ffeb08aac159da77",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -16976,7 +15910,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/b9ad8f75b554440e",
+    "@id": "https://grandtheatre.qc.ca/genid/938ce38896749421",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17245,7 +16179,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/f02ceabfb18cfa67",
+    "@id": "https://grandtheatre.qc.ca/genid/61fac1ee35924f35",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17482,7 +16416,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/d065f04d009d14c8",
+    "@id": "https://grandtheatre.qc.ca/genid/9bc61de5d5eede43",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -17719,7 +16653,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/948b9449baebd225",
+    "@id": "https://grandtheatre.qc.ca/genid/3157b53d52747bee",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -18065,7 +16999,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/12ae3e0a44d74df0",
+    "@id": "https://grandtheatre.qc.ca/genid/b38efc1eddf695df",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -18334,7 +17268,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/b5c3b0fbdbe7449c",
+    "@id": "https://grandtheatre.qc.ca/genid/b4573073ef91d654",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20174,7 +19108,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/d0235e7a7b11c7fa",
+    "@id": "https://grandtheatre.qc.ca/genid/a9e8175c26091b0b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20475,7 +19409,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/f982a2cf6f97b2f7",
+    "@id": "https://grandtheatre.qc.ca/genid/9e9070de5be973f8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -20930,7 +19864,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/adebb441da37fbc3",
+    "@id": "https://grandtheatre.qc.ca/genid/4a11e1ddad1419db",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -25190,7 +24124,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/90e61a08f9b3edcb",
+    "@id": "https://grandtheatre.qc.ca/genid/46e47a8268a8b1dd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -25312,7 +24246,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/Folk"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Musique"
       }
     ]
   },
@@ -25523,7 +24457,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/e89fa8ce5deaf40e",
+    "@id": "https://grandtheatre.qc.ca/genid/4296d95d5d2dac3c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -25824,7 +24758,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/93c59f57ddc93cd0",
+    "@id": "https://grandtheatre.qc.ca/genid/c2d58f1ef0b22c4d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -26733,7 +25667,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/893bbac2701f46a3",
+    "@id": "https://grandtheatre.qc.ca/genid/d1b8128d4638188c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -26941,7 +25875,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/bdb3c71d8fccb958",
+    "@id": "https://grandtheatre.qc.ca/genid/f460e13be837a3a4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -27242,7 +26176,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/78657e925511e6bf",
+    "@id": "https://grandtheatre.qc.ca/genid/606c52dc15fcb35a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -28151,7 +27085,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/94a220b99f68a42c",
+    "@id": "https://grandtheatre.qc.ca/genid/64c90178732a5824",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -28420,7 +27354,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/e3cf1fc271d6a3c0",
+    "@id": "https://grandtheatre.qc.ca/genid/479e67fc9bb9681d",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -28753,7 +27687,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/1188f15e50b2cda4",
+    "@id": "https://grandtheatre.qc.ca/genid/aa22454319e487e3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -28869,7 +27803,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run &amp; l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
+        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run & l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
       }
     ],
     "http://schema.org/name": [
@@ -28890,7 +27824,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/ChansonAnglophone"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Musique"
       }
     ]
   },
@@ -29323,7 +28257,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run &amp; l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
+        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run & l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
       }
     ],
     "http://schema.org/name": [
@@ -29344,7 +28278,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/ChansonAnglophone"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Musique"
       }
     ]
   },
@@ -29688,7 +28622,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run &amp; l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
+        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run & l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
       }
     ],
     "http://schema.org/name": [
@@ -29709,7 +28643,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/ChansonAnglophone"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Musique"
       }
     ]
   },
@@ -30007,7 +28941,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/11badd2cdbe9d4c7",
+    "@id": "https://grandtheatre.qc.ca/genid/c7ea714724d3ea32",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -30244,7 +29178,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/a739ff8a8fdd25a1",
+    "@id": "https://grandtheatre.qc.ca/genid/69dc5ec559a722ca",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -31902,7 +30836,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/063d63dc8d6da7cc",
+    "@id": "https://grandtheatre.qc.ca/genid/923eac3c2d4766e7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -31997,7 +30931,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "V!TAL surgit comme un manifeste viscéral et nécessaire. Une urgence s’y fait entendre : faire de la joie un acte de résistance.Entre danses urbaines et contemporaines, les corps vibrant des interprètes incarnent cette tension fertile entre combat et célébration. Le souffle et la jubilation des corps deviennent une arme de construction massive, rappelant que la joie n’est pas une fuite, mais une force de transformation sociale. Ici, on oppose le rythme au chaos, le plaisir à la peur, le geste à l’effondrement.V!TAL puise sa force dans une généalogie de résistants ardents. De Joséphine Baker, qui transformait la scène en tribune politique sans perdre son sourire, à Ahmad Joudeh, dont la danse déﬁe les ruines de Palmyre. V!TAL transmet l'héritage d'une tradition où la danse transcende le divertissement pour devenir acte de résistance civile. Elle érige une architecture de joie au diapason de notre époque. Une joie partagée, vitale, qui nous accompagne dans cette quête d’une félicité collective.Une coprésentation de La Rotonde et du Grand Théâtre de QuébecCRÉDITSChorégraphie : Ismaël MouarakiDirection des répétitions et conseils artistiques : Annie GagnonInterprétation : Yassine Khyar, Etienne Léonard-Benoit, Erismel Mejias, Laura Perron, Marie-Maxime Ross et Zack Van GilsCompositeur et musicien (synthétiseur, voix, guitare et basse) : Olivier Landry-GagnonMusicien (batterie) : Olivier CousineauConception costumes et scénographie : Marilène BastienConception éclairage : Tiffanie BoffaCoproduction : Agora de la danseDiffusion : Maison VersoRemerciements et soutien : Le projet a bénéficié du soutien financier du Conseil des arts du Canada, Conseil des arts et des lettres du Québec et Conseil des arts de Montréal. Il a également bénéficié de résidences de création à la Maison de la culture Notre-Dame-de-Grâce et à l’Agora de la danse.Série DanseCe spectacle fait partie de notre série Danse 2026-2027. Nous vous invitons à consulter la programmation complète.Voir la programmation"
+        "@value": "V!TAL surgit comme un manifeste viscéral et nécessaire. Une urgence s’y fait entendre : faire de la joie un acte de résistance.Entre danses urbaines et contemporaines, les corps vibrant des interprètes incarnent cette tension fertile entre combat et célébration. Le souffle et la jubilation des corps deviennent une arme de construction massive, rappelant que la joie n’est pas une fuite, mais une force de transformation sociale. Ici, on oppose le rythme au chaos, le plaisir à la peur, le geste à l’effondrement.V!TAL puise sa force dans une généalogie de résistants ardents. De Joséphine Baker, qui transformait la scène en tribune politique sans perdre son sourire, à Ahmad Joudeh, dont la danse déﬁe les ruines de Palmyre. V!TAL transmet l'héritage d'une tradition où la danse transcende le divertissement pour devenir acte de résistance civile. Elle érige une architecture de joie au diapason de notre époque. Une joie partagée, vitale, qui nous accompagne dans cette quête d’une félicité collective.Une coprésentation de La Rotonde et du Grand Théâtre de Québec« Je ne cherche pas que le public comprenne tout de manière intellectuelle. Je cherche d'abord ce qu'il ressent. Les danseur·se·s ne jouent pas l'épuisement, ils le vivent. Et c'est ça qui entre dans le corps du spectateur : la véracité du surpassement, la preuve que le potentiel humain est là, réel, débarrassé de tout le construit social. » - Ismaël MouarakiLire l'entrevue avec Ismaël MouarakiCRÉDITSChorégraphie : Ismaël MouarakiDirection des répétitions et conseils artistiques : Annie GagnonInterprétation : Yassine Khyar, Etienne Léonard-Benoit, Erismel Mejias, Laura Perron, Marie-Maxime Ross et Zack Van GilsCompositeur et musicien (synthétiseur, voix, guitare et basse) : Olivier Landry-GagnonMusicien (batterie) : Olivier CousineauConception costumes et scénographie : Marilène BastienConception éclairage : Tiffanie BoffaCoproduction : Agora de la danseDiffusion : Maison VersoRemerciements et soutien : Le projet a bénéficié du soutien financier du Conseil des arts du Canada, Conseil des arts et des lettres du Québec et Conseil des arts de Montréal. Il a également bénéficié de résidences de création à la Maison de la culture Notre-Dame-de-Grâce et à l’Agora de la danse.Série DanseCe spectacle fait partie de notre série Danse 2026-2027. Nous vous invitons à consulter la programmation complète.Voir la programmation"
       }
     ],
     "http://schema.org/name": [
@@ -32171,7 +31105,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/46971b78fcb20889",
+    "@id": "https://grandtheatre.qc.ca/genid/0e6bf4904fe2c148",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -32403,7 +31337,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/3734f3a83d393528",
+    "@id": "https://grandtheatre.qc.ca/genid/f618d7cd10b2c4a2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -33851,7 +32785,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/12d0963a48216238",
+    "@id": "https://grandtheatre.qc.ca/genid/d7ae3e2f64a7a547",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34088,7 +33022,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/b736f8c352ca9404",
+    "@id": "https://grandtheatre.qc.ca/genid/d109d9de7e7efc50",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34341,7 +33275,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/932886ff4ef2c780",
+    "@id": "https://grandtheatre.qc.ca/genid/f59cb853155e5a22",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -34751,7 +33685,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/e7663daf74445a79",
+    "@id": "https://grandtheatre.qc.ca/genid/1f016197cef031c2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35020,7 +33954,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/9f98e498319ba958",
+    "@id": "https://grandtheatre.qc.ca/genid/404ca8dd099f8fee",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35289,7 +34223,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/f5b7ffac3101a32a",
+    "@id": "https://grandtheatre.qc.ca/genid/f81c2fb5eed29033",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -35558,7 +34492,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/7fffa887947d5707",
+    "@id": "https://grandtheatre.qc.ca/genid/c1e3bf92b5aed50b",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -37280,7 +36214,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/045d700c0f92bb76",
+    "@id": "https://grandtheatre.qc.ca/genid/ffb81a2c2c26524c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -37581,7 +36515,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/9942bd16dd53a0f5",
+    "@id": "https://grandtheatre.qc.ca/genid/562027baecb96481",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -37846,7 +36780,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/43c9e22674cf73f7",
+    "@id": "https://grandtheatre.qc.ca/genid/4b30544166294138",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39185,7 +38119,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/97abd7d5948ee9d0",
+    "@id": "https://grandtheatre.qc.ca/genid/87cc684b516b9e77",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39454,7 +38388,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/2531ff696ef53976",
+    "@id": "https://grandtheatre.qc.ca/genid/8c56b54637e777b5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39567,7 +38501,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/Musique"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
       }
     ]
   },
@@ -39691,7 +38625,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/6f6ba40137e684dc",
+    "@id": "https://grandtheatre.qc.ca/genid/11af3466740a4993",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -39928,7 +38862,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/7cdb82706653ca8b",
+    "@id": "https://grandtheatre.qc.ca/genid/92ea764269fb0081",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -40338,7 +39272,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/1cd697ae7f1989a1",
+    "@id": "https://grandtheatre.qc.ca/genid/8235e7841274ae9e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41036,7 +39970,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/2bc8ee31c1a2b8be",
+    "@id": "https://grandtheatre.qc.ca/genid/445dbce0419cc66a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41404,7 +40338,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/323221b7bd97c98a",
+    "@id": "https://grandtheatre.qc.ca/genid/2f0f67f714324af4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41769,7 +40703,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/e4aa6703b85ad539",
+    "@id": "https://grandtheatre.qc.ca/genid/4c59594c2b90055a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -41885,7 +40819,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Fort du succès de sa première édition, Les Choristes en ciné-concert revient au Grand Théâtre!Le film culte qui a touché plus de 15 millions de spectateurs reprend vie sur scène dans une expérience musicale unique où l’émotion du cinéma rencontre la puissance d’un orchestre symphonique.Poussez à nouveau les portes de l’internat Fond de l’Étang et laissez-vous porter par un orchestre symphonique et de jeunes chanteurs sous la direction de Nicolas Simon. Ensemble, ils interpréteront la célèbre bande originale du film, en parfaite synchronisation avec sa projection sur écran géant.Retrouvez la musique bouleversante de Bruno Coulais, nominé aux Oscars et récompensé du César de la meilleure musique de film, à travers des œuvres devenues incontournables comme Vois sur ton chemin et Caresse sur l’océan.Une occasion unique de revivre toute la magie du film Les Choristes et de redécouvrir cette histoire intemporelle qui continue de faire vibrer toutes les générations.Synopsis du filmEn 1948, Clément Mathieu, professeur de musique sans emploi accepte un poste de surveillant dans un internat de rééducation pour mineurs. Le système répressif appliqué par le directeur, Rachin, bouleverse Mathieu. En initiant ces enfants difficiles à la musique et au chant choral, Mathieu parviendra à transformer leur quotidien.ProductionLes Agents Doubles ProductionsCréditsLes Choristes - En ciné-concert : coproduit et sous licence par uGo&amp;Play et TF1 Spectacle, en accord avec Galatée Films et Pathé Films. Représentation mondiale par IMG Artists GmbH Allemagne.Une présentation d’Agents Doubles Productions"
+        "@value": "Fort du succès de sa première édition, Les Choristes en ciné-concert revient au Grand Théâtre!Le film culte qui a touché plus de 15 millions de spectateurs reprend vie sur scène dans une expérience musicale unique où l’émotion du cinéma rencontre la puissance d’un orchestre symphonique.Poussez à nouveau les portes de l’internat Fond de l’Étang et laissez-vous porter par l’Orchestre Filmharmonique et Les Petits Chanteurs du Mont-Royal sous la direction de Nicolas Simon. Ensemble, ils interpréteront la célèbre bande originale du film, en parfaite synchronisation avec sa projection sur écran géant.Retrouvez la musique bouleversante de Bruno Coulais, nominé aux Oscars et récompensé du César de la meilleure musique de film, à travers des œuvres devenues incontournables comme Vois sur ton chemin et Caresse sur l’océan.Une occasion unique de revivre toute la magie du film Les Choristes et de redécouvrir cette histoire intemporelle qui continue de faire vibrer toutes les générations.Synopsis du filmEn 1948, Clément Mathieu, professeur de musique sans emploi accepte un poste de surveillant dans un internat de rééducation pour mineurs. Le système répressif appliqué par le directeur, Rachin, bouleverse Mathieu. En initiant ces enfants difficiles à la musique et au chant choral, Mathieu parviendra à transformer leur quotidien.ProductionLes Agents Doubles ProductionsCréditsLes Choristes - En ciné-concert : coproduit et sous licence par uGo&Play et TF1 Spectacle, en accord avec Galatée Films et Pathé Films. Représentation mondiale par IMG Artists GmbH Allemagne.Une présentation d’Agents Doubles Productions"
       }
     ],
     "http://schema.org/name": [
@@ -42308,7 +41242,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Fort du succès de sa première édition, Les Choristes en ciné-concert revient au Grand Théâtre!Le film culte qui a touché plus de 15 millions de spectateurs reprend vie sur scène dans une expérience musicale unique où l’émotion du cinéma rencontre la puissance d’un orchestre symphonique.Poussez à nouveau les portes de l’internat Fond de l’Étang et laissez-vous porter par un orchestre symphonique et de jeunes chanteurs sous la direction de Nicolas Simon. Ensemble, ils interpréteront la célèbre bande originale du film, en parfaite synchronisation avec sa projection sur écran géant.Retrouvez la musique bouleversante de Bruno Coulais, nominé aux Oscars et récompensé du César de la meilleure musique de film, à travers des œuvres devenues incontournables comme Vois sur ton chemin et Caresse sur l’océan.Une occasion unique de revivre toute la magie du film Les Choristes et de redécouvrir cette histoire intemporelle qui continue de faire vibrer toutes les générations.Synopsis du filmEn 1948, Clément Mathieu, professeur de musique sans emploi accepte un poste de surveillant dans un internat de rééducation pour mineurs. Le système répressif appliqué par le directeur, Rachin, bouleverse Mathieu. En initiant ces enfants difficiles à la musique et au chant choral, Mathieu parviendra à transformer leur quotidien.ProductionLes Agents Doubles ProductionsCréditsLes Choristes - En ciné-concert : coproduit et sous licence par uGo&amp;Play et TF1 Spectacle, en accord avec Galatée Films et Pathé Films. Représentation mondiale par IMG Artists GmbH Allemagne.Une présentation d’Agents Doubles Productions"
+        "@value": "Fort du succès de sa première édition, Les Choristes en ciné-concert revient au Grand Théâtre!Le film culte qui a touché plus de 15 millions de spectateurs reprend vie sur scène dans une expérience musicale unique où l’émotion du cinéma rencontre la puissance d’un orchestre symphonique.Poussez à nouveau les portes de l’internat Fond de l’Étang et laissez-vous porter par l’Orchestre Filmharmonique et Les Petits Chanteurs du Mont-Royal sous la direction de Nicolas Simon. Ensemble, ils interpréteront la célèbre bande originale du film, en parfaite synchronisation avec sa projection sur écran géant.Retrouvez la musique bouleversante de Bruno Coulais, nominé aux Oscars et récompensé du César de la meilleure musique de film, à travers des œuvres devenues incontournables comme Vois sur ton chemin et Caresse sur l’océan.Une occasion unique de revivre toute la magie du film Les Choristes et de redécouvrir cette histoire intemporelle qui continue de faire vibrer toutes les générations.Synopsis du filmEn 1948, Clément Mathieu, professeur de musique sans emploi accepte un poste de surveillant dans un internat de rééducation pour mineurs. Le système répressif appliqué par le directeur, Rachin, bouleverse Mathieu. En initiant ces enfants difficiles à la musique et au chant choral, Mathieu parviendra à transformer leur quotidien.ProductionLes Agents Doubles ProductionsCréditsLes Choristes - En ciné-concert : coproduit et sous licence par uGo&Play et TF1 Spectacle, en accord avec Galatée Films et Pathé Films. Représentation mondiale par IMG Artists GmbH Allemagne.Une présentation d’Agents Doubles Productions"
       }
     ],
     "http://schema.org/name": [
@@ -42627,7 +41561,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/e92a0c599bb0c199",
+    "@id": "https://grandtheatre.qc.ca/genid/74a7a2f2635465f5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -43165,7 +42099,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/eefa0a1b7fcbe6d2",
+    "@id": "https://grandtheatre.qc.ca/genid/fb8484c92917a53c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -43620,7 +42554,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/01b6bb6e7778ae83",
+    "@id": "https://grandtheatre.qc.ca/genid/7f031404cda911b5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -43985,7 +42919,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/8a64c1d8c47b879f",
+    "@id": "https://grandtheatre.qc.ca/genid/f74ebc27ae9ec326",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -44222,7 +43156,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/0014f000a1c70566",
+    "@id": "https://grandtheatre.qc.ca/genid/e10dc7eb09f13d9a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -48482,7 +47416,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/0cb058042ab09a05",
+    "@id": "https://grandtheatre.qc.ca/genid/ddad80700b9a40e8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -50204,7 +49138,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/96f50b7bff32b5fb",
+    "@id": "https://grandtheatre.qc.ca/genid/3338b69aaa58b7aa",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -50505,7 +49439,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/8f4a29069f9443dd",
+    "@id": "https://grandtheatre.qc.ca/genid/1bcce58fe84a9ecb",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51264,7 +50198,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/d39483b1f32a3430",
+    "@id": "https://grandtheatre.qc.ca/genid/809598a09b68fe13",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51597,7 +50531,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/97bdb79b33b74a3c",
+    "@id": "https://grandtheatre.qc.ca/genid/3dc0e406ca0dd5f7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -51866,7 +50800,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/731d4d89c8ec7a3a",
+    "@id": "https://grandtheatre.qc.ca/genid/2a4a465dc241af06",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -52775,7 +51709,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/4d890b1f64d16ba9",
+    "@id": "https://grandtheatre.qc.ca/genid/6d963391b9fd1ebe",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -53012,7 +51946,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/c03ac3e5f4e126df",
+    "@id": "https://grandtheatre.qc.ca/genid/30eb7d9fecb3c1cb",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -54680,7 +53614,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/0095711ebc95e23d",
+    "@id": "https://grandtheatre.qc.ca/genid/c900e541457ecf9c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -58110,18 +57044,6 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "https://grandtheatre.qc.ca/genid/4d7680e7a154ec35"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/8ed71cc3267c9a07"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/e1eb2befe9c39227"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/genid/de1b5b2c33e1e51f"
-      },
-      {
         "@id": "https://grandtheatre.qc.ca/genid/725ce7b04b90d33a"
       },
       {
@@ -58132,6 +57054,18 @@
       },
       {
         "@id": "https://grandtheatre.qc.ca/genid/3850c1db2ddd2159"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/4d7680e7a154ec35"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/8ed71cc3267c9a07"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e1eb2befe9c39227"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/de1b5b2c33e1e51f"
       }
     ],
     "http://schema.org/organizer": [
@@ -58185,122 +57119,6 @@
     "http://schema.org/additionalType": [
       {
         "@id": "https://grandtheatre.qc.ca/ontologie/Théâtre"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/4d7680e7a154ec35",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "60.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/8ed71cc3267c9a07",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "30.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/e1eb2befe9c39227",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "55.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ]
-  },
-  {
-    "@id": "https://grandtheatre.qc.ca/genid/de1b5b2c33e1e51f",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@language": "fr",
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "45.00"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
       }
     ]
   },
@@ -58399,6 +57217,122 @@
     "http://schema.org/url": [
       {
         "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTc%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "45.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/4d7680e7a154ec35",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "60.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/8ed71cc3267c9a07",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "30.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/e1eb2befe9c39227",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "55.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/de1b5b2c33e1e51f",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TzUyNzMzMTg%3D"
       }
     ],
     "http://schema.org/availability": [
@@ -58952,7 +57886,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/063a0ea2c2dadb83",
+    "@id": "https://grandtheatre.qc.ca/genid/e864612d965d0a2a",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -59285,7 +58219,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/409b556bab5ffb30",
+    "@id": "https://grandtheatre.qc.ca/genid/d06aa7929e33aa34",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -59854,7 +58788,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/4d51ffe2758afd80",
+    "@id": "https://grandtheatre.qc.ca/genid/693af6acee147788",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -60763,7 +59697,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/85268745c929cd38",
+    "@id": "https://grandtheatre.qc.ca/genid/74b009bf84b5a938",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -61064,7 +59998,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/85c9fb3d437ac877",
+    "@id": "https://grandtheatre.qc.ca/genid/41ab0b2ed6f0d018",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -61365,7 +60299,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/a3e1f753fb90a6eb",
+    "@id": "https://grandtheatre.qc.ca/genid/cc748c9f4cac63c8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -61629,6 +60563,307 @@
     ]
   },
   {
+    "@id": "https://grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/fredz-on-s-enverra-fleurs/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Fredz - On s'enverra des fleurs"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Soyez des nôtres pour Fredz au Grand Théâtre de Québec. Billets en vente maintenant!"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/8ff45c65a55ddf38",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/fredz-on-s-enverra-fleurs-2027-03-21-00-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-03-21T04:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Fredz-Credit-Philippe-Richelet.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/abe6b8c7695022c3"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/1b72330faf60829d"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/0dc49dda3089c31f"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/fredz"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-03-21T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Avec son spectacle On s’enverra des fleurs, Fredz transforme la scène en un journal intime vivant. Entre fragilité et puissance, il dépose ses doutes, ses rêves et ses blessures dans des morceaux qui touchent droit au cœur. Chaque chanson devient un miroir où chacun peut retrouver un fragment de sa propre histoire. Porté par une mise en scène à la fois brute et poétique, ce spectacle allie émotion pure et énergie débordante, offrant une expérience intense, sensible et universelle.Dans la jeune vingtaine, Fredz s’impose déjà comme l’une des voix les plus singulières de la nouvelle scène francophone, ici comme à l’international. Déjà fort de plus de 200 millions de streams et de 3 singles d’or, l’artiste québécois s’est forgé une identité unique : un rap suave, sensible et sans compromis. On s’enverra des fleurs marque une étape décisive : un projet scénique, fédérateur et profondément sincère, qui ouvre un nouveau chapitre dans son ascension fulgurante.0.50$ par billet sera attribué à l'initiative EFFET RASSEMBLEUR de BLEUFEUUne coprésentation de BLEUFEU et du Grand Théâtre de Québec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "On s'enverra des fleurs"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Fredz-Credit-Philippe-Richelet.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Fredz-Credit-Philippe-Richelet.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Fredz-Credit-Philippe-Richelet.jpg"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "33392"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "428x599-Fredz-Crédit-Philippe-Richelet"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/428x599-Fredz-Credit-Philippe-Richelet.max-200x200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/abe6b8c7695022c3",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDEyNzA2MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "66.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/1b72330faf60829d",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDEyNzA2MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "61.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/0dc49dda3089c31f",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/ism/TDEyNzA2MDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "51.25"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/fredz-on-s-enverra-fleurs/fredz",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Fredz"
+      }
+    ]
+  },
+  {
     "@id": "https://grandtheatre.qc.ca/programmation/arthur-laventurier-symphonique/",
     "http://ogp.me/ns#url": [
       {
@@ -61661,7 +60896,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/158fbd99a163a2bc",
+    "@id": "https://grandtheatre.qc.ca/genid/4bf851e7d46403b3",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -61994,7 +61229,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/f7d0c6b59d94903d",
+    "@id": "https://grandtheatre.qc.ca/genid/9b50eebaeacef92c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -62391,7 +61626,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/98e2dcf0cc869b71",
+    "@id": "https://grandtheatre.qc.ca/genid/f06df61f59639cf5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -62692,7 +61927,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/56e265c078b6452d",
+    "@id": "https://grandtheatre.qc.ca/genid/2274e4a9afcf2b4c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -62929,7 +62164,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/4331ac8c70ce8e9f",
+    "@id": "https://grandtheatre.qc.ca/genid/064636e7c1e64fcf",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -63838,7 +63073,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/f64acbc5c587a1ae",
+    "@id": "https://grandtheatre.qc.ca/genid/3037f3019110ddd7",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -64043,6 +63278,749 @@
     ]
   },
   {
+    "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Notre-Dame de Paris symphonique"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Venez redécouvrir le grand classique Notre-Dame de Paris, en version symphonique au Grand Théâtre de Québec."
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/0f8e7ee3cf80c82c",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique-2027-04-03-23-30",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-04T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/NotreDamedeParis_428X599.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/58675bb241b2fe69"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/4b6a4e7437ccfa02"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/3fdf7ca9a11565b5"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e22b10e7f1a7ed97"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-03T23:30:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "PRÉVENTE EN COURSAbonnez-vous à l'infolettre pour être informés des prochaines préventes.Plus de 25 ans après avoir marqué toute une génération, Notre-Dame de Paris se déploie avec une puissance orchestrale dans une adaptation symphonique de Simon Leclerc et porté par l’Orchestre FILMharmonique sous la direction de Francis Choinière.Pour donner vie à cet univers, le spectacle réunit Pierre Lapointe (Gringoire), Marc Hervieux (Quasimodo), Marie-Eve Janvier (Esmeralda), Christian Marc Gendron (Frollo), Sam Champagne (Phoebus), Josiane (Fleur-de-Lys) et Gardy Fury (Clopin).Redécouvrez les chansons qui ont marqué toute une génération telles que Belle, Le Temps des cathédrales, Vivre, Danse mon Esmeralda dans toute leur ampleur orchestrale grâce à ce grand concert symphonique.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre : Francis ChoinièreInterprété par : Pierre Lapointe, Marc Hervieux, Marie-Eve Janvier, Christian Marc Gendron, Sam Champagne, Josiane, Gardy Fury et l’Orchestre FILMharmoniqueDurée : 2 h avec entracteNotre-Dame de Paris symphonique est un concert symphonique présentant les œuvres musicales de Notre-Dame de Paris.Une reproduction du concert originalement présenté par l’Orchestre symphonique de Montréal en 2001."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "avec l’Orchestre FILMharmonique"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "https://grandtheatre.qc.ca/ontologie/ChansonFrancophone"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/NotreDamedeParis_428X599.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/NotreDamedeParis_428X599.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/NotreDamedeParis_428X599.jpg"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "150452"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "NotreDamedeParis_428X599"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/NotreDamedeParis_428X599.max-200x200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/58675bb241b2fe69",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "89.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/4b6a4e7437ccfa02",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "129.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/3fdf7ca9a11565b5",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "109.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/e22b10e7f1a7ed97",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDE%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "99.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Notre-Dame de Paris symphonique"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique-2027-04-04-18-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-04T22:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/NotreDamedeParis_428X599.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/1cac673a525f19fa"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/c8f931ce28f1ccb1"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f58e496d8a0a2f19"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/2699ee4a151811a0"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-04T18:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "PRÉVENTE EN COURSAbonnez-vous à l'infolettre pour être informés des prochaines préventes.Plus de 25 ans après avoir marqué toute une génération, Notre-Dame de Paris se déploie avec une puissance orchestrale dans une adaptation symphonique de Simon Leclerc et porté par l’Orchestre FILMharmonique sous la direction de Francis Choinière.Pour donner vie à cet univers, le spectacle réunit Pierre Lapointe (Gringoire), Marc Hervieux (Quasimodo), Marie-Eve Janvier (Esmeralda), Christian Marc Gendron (Frollo), Sam Champagne (Phoebus), Josiane (Fleur-de-Lys) et Gardy Fury (Clopin).Redécouvrez les chansons qui ont marqué toute une génération telles que Belle, Le Temps des cathédrales, Vivre, Danse mon Esmeralda dans toute leur ampleur orchestrale grâce à ce grand concert symphonique.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre : Francis ChoinièreInterprété par : Pierre Lapointe, Marc Hervieux, Marie-Eve Janvier, Christian Marc Gendron, Sam Champagne, Josiane, Gardy Fury et l’Orchestre FILMharmoniqueDurée : 2 h avec entracteNotre-Dame de Paris symphonique est un concert symphonique présentant les œuvres musicales de Notre-Dame de Paris.Une reproduction du concert originalement présenté par l’Orchestre symphonique de Montréal en 2001."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "avec l’Orchestre FILMharmonique"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "https://grandtheatre.qc.ca/ontologie/ChansonFrancophone"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/1cac673a525f19fa",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDI%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "89.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/c8f931ce28f1ccb1",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDI%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "129.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/f58e496d8a0a2f19",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDI%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "109.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/2699ee4a151811a0",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDI%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "99.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique-2027-04-04-23-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-05T03:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/NotreDamedeParis_428X599.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/3b0b19a973846ae0"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/6965c6c32e800556"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/e89f0f3e2a1b42d0"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/9b0181010868521b"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-04T23:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "PRÉVENTE EN COURSAbonnez-vous à l'infolettre pour être informés des prochaines préventes.Plus de 25 ans après avoir marqué toute une génération, Notre-Dame de Paris se déploie avec une puissance orchestrale dans une adaptation symphonique de Simon Leclerc et porté par l’Orchestre FILMharmonique sous la direction de Francis Choinière.Pour donner vie à cet univers, le spectacle réunit Pierre Lapointe (Gringoire), Marc Hervieux (Quasimodo), Marie-Eve Janvier (Esmeralda), Christian Marc Gendron (Frollo), Sam Champagne (Phoebus), Josiane (Fleur-de-Lys) et Gardy Fury (Clopin).Redécouvrez les chansons qui ont marqué toute une génération telles que Belle, Le Temps des cathédrales, Vivre, Danse mon Esmeralda dans toute leur ampleur orchestrale grâce à ce grand concert symphonique.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre : Francis ChoinièreInterprété par : Pierre Lapointe, Marc Hervieux, Marie-Eve Janvier, Christian Marc Gendron, Sam Champagne, Josiane, Gardy Fury et l’Orchestre FILMharmoniqueDurée : 2 h avec entracteNotre-Dame de Paris symphonique est un concert symphonique présentant les œuvres musicales de Notre-Dame de Paris.Une reproduction du concert originalement présenté par l’Orchestre symphonique de Montréal en 2001."
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "avec l’Orchestre FILMharmonique"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "https://grandtheatre.qc.ca/ontologie/ChansonFrancophone"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/3b0b19a973846ae0",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDM%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "89.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/6965c6c32e800556",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDM%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "129.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/e89f0f3e2a1b42d0",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDM%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "109.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/9b0181010868521b",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDAyNzIxMDM%3D"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "99.99"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
     "@id": "https://grandtheatre.qc.ca/programmation/michel-fugain/",
     "http://ogp.me/ns#url": [
       {
@@ -64075,7 +64053,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/60142876d7a8b7c5",
+    "@id": "https://grandtheatre.qc.ca/genid/1cef29c92569cb67",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -64358,7 +64336,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/7e6ab2957016f810",
+    "@id": "https://grandtheatre.qc.ca/genid/a348eacf891fdbcd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -64453,7 +64431,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Pour cette nouvelle création de Constantinople, Kiya Tabassian et la chanteuse Maliheh Moradi nous entraînent dans un dialogue exceptionnel au cœur de la riche civilisation iranienne. Figure marquante de la nouvelle génération artistique, Maliheh Moradi a quitté l’Iran il y a quelques années pour poursuivre librement son parcours artistique. Héritière d’une tradition vocale parmi les plus raffinées au monde, elle déploie une voix d’une grande beauté, d’une profonde intensité et d’une maîtrise remarquable. Elle s’impose aujourd’hui comme l’une des voix féminines les plus prometteuses de la scène iranienne.La voix de l’aube révèle la richesse, la poésie et la sophistication d’un art musical façonné au fil des siècles et met en lumière les trésors de la musique persane et les créations de Kiya Tabassian. Plus qu’un concert, cette rencontre célèbre la liberté créatrice, la transmission et la résilience. Elle révèle la place essentielle de la voix féminine dans la culture iranienne contemporaine et rappelle la force de l’art lorsqu’il devient espace d’expression, de mémoire et d’espoir.Un voyage musical d’une grande intensité, porté par l’une des plus belles voix de l’Iran d’aujourd’hui.Une coprésentation de Constantinople et du Grand Théâtre de QuébecConsulter les autres concerts de la série Musique du mondeDistribution:Kiya Tabassian : séter &amp; chantMaliheh Moradi : chantHamin Honari : tombak"
+        "@value": "Pour cette nouvelle création de Constantinople, Kiya Tabassian et la chanteuse Maliheh Moradi nous entraînent dans un dialogue exceptionnel au cœur de la riche civilisation iranienne. Figure marquante de la nouvelle génération artistique, Maliheh Moradi a quitté l’Iran il y a quelques années pour poursuivre librement son parcours artistique. Héritière d’une tradition vocale parmi les plus raffinées au monde, elle déploie une voix d’une grande beauté, d’une profonde intensité et d’une maîtrise remarquable. Elle s’impose aujourd’hui comme l’une des voix féminines les plus prometteuses de la scène iranienne.La voix de l’aube révèle la richesse, la poésie et la sophistication d’un art musical façonné au fil des siècles et met en lumière les trésors de la musique persane et les créations de Kiya Tabassian. Plus qu’un concert, cette rencontre célèbre la liberté créatrice, la transmission et la résilience. Elle révèle la place essentielle de la voix féminine dans la culture iranienne contemporaine et rappelle la force de l’art lorsqu’il devient espace d’expression, de mémoire et d’espoir.Un voyage musical d’une grande intensité, porté par l’une des plus belles voix de l’Iran d’aujourd’hui.Une coprésentation de Constantinople et du Grand Théâtre de QuébecConsulter les autres concerts de la série Musique du mondeDistribution:Kiya Tabassian : séter & chantMaliheh Moradi : chantHamin Honari : tombak"
       }
     ],
     "http://schema.org/name": [
@@ -64627,7 +64605,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/5d63ba85b35aac65",
+    "@id": "https://grandtheatre.qc.ca/genid/cff544f369c28adf",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -68887,7 +68865,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/9f61ed0e225a27e4",
+    "@id": "https://grandtheatre.qc.ca/genid/c2872d708dc7be47",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -69796,7 +69774,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/5c6fd028ac694264",
+    "@id": "https://grandtheatre.qc.ca/genid/5313a002649c2916",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70097,7 +70075,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/cccdb0256e1b0280",
+    "@id": "https://grandtheatre.qc.ca/genid/66e2b6478422e6a4",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70699,7 +70677,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/07700c37981e9b48",
+    "@id": "https://grandtheatre.qc.ca/genid/d19adcedeca99b71",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -70812,7 +70790,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Le 4 septembre 2016, le Québec en entier et plus particulièrement les sphères artistiques et sportives, était sous le choc d'apprendre le décès tragique et soudain de l'artiste apprécié de tous, Bob Bissonnette! Malgré que 10 longues années se soient écoulées, l'œuvre musicale et scénique de Roberto « Bob » Bissonnette continue de résonner dans les arénas et complexes sportifs auprès des plus jeunes ainsi que dans les festivals, les bars et dans une foule d'autres événements festifs partout en province et même ailleurs au pays! Il est absolument impossible d'oublier un personnage aussi charismatique que fût cette grande légende musicale québécoise. Québec se souvient!Le vendredi 23 avril 2027, le Grand Théâtre de Québec sera l'hôte du projet commémoratif à la carrière de Bob Bissonnette le plus ambitieux jamais présenté devant public! La formation Big Muff qui réunit des musiciens qui accompagnaient Bob en spectacles et/ou en studio, joindra ses forces à celles de l'Orchestre symphonique de Québec pour livrer un spectacle en formule Pop symphonique arrangé et dirigé par le chef Olivier Hébert. Ce concert inédit relatera la carrière musicale de Bob Bissonnette, bonifié de pièces d'artistes divers que Bob aimait reprendre lors de ses nombreux spectacles!Ce spectacle n'est pas sans rappeler le concert qu’il avait offert en 2014 avec plus de 14 violonistes sur la scène du Palais Montcalm à Québec. Fait encore plus saisissant, ce spectacle de 2014 était présenté, lui aussi, un 23 avril!Les producteurs Patrick Lessard et Jonathan Bélanger, qui sont les instigateurs et créateurs de ce projet, n'en sont pas à leur premier rodéo en fait de spectacles pop/rock symphoniques. En effet, cette adaptation symphonique sera leur quatrième du genre. Après avoir créés et présentés AnesthesiA - Hommage symphonique à Metallica, L'Expérience Nirvana symphonique unplugged, et AC/DC Story symphonique sur les plus grandes scènes partout au Québec et avec différents orchestres renommés, cet ambitieux duo de producteurs est particulièrement fébrile à l'idée d'être associé à ce projet émotif et attendu. Ce sera La plus belle journée de toute leur vie! » comme Bob l'aurait si bien dit!Ce spectacle sera présenté un soir seulement à Québec. Marquez la date du vendredi 23 avril 2027 à votre calendrier car ça ne repassera pas!Une présentation de Pat Lessard &amp; Jonathan Bélanger"
+        "@value": "Le 4 septembre 2016, le Québec en entier et plus particulièrement les sphères artistiques et sportives, était sous le choc d'apprendre le décès tragique et soudain de l'artiste apprécié de tous, Bob Bissonnette! Malgré que 10 longues années se soient écoulées, l'œuvre musicale et scénique de Roberto « Bob » Bissonnette continue de résonner dans les arénas et complexes sportifs auprès des plus jeunes ainsi que dans les festivals, les bars et dans une foule d'autres événements festifs partout en province et même ailleurs au pays! Il est absolument impossible d'oublier un personnage aussi charismatique que fût cette grande légende musicale québécoise. Québec se souvient!Le vendredi 23 avril 2027, le Grand Théâtre de Québec sera l'hôte du projet commémoratif à la carrière de Bob Bissonnette le plus ambitieux jamais présenté devant public! La formation Big Muff qui réunit des musiciens qui accompagnaient Bob en spectacles et/ou en studio, joindra ses forces à celles de l'Orchestre symphonique de Québec pour livrer un spectacle en formule Pop symphonique arrangé et dirigé par le chef Olivier Hébert. Ce concert inédit relatera la carrière musicale de Bob Bissonnette, bonifié de pièces d'artistes divers que Bob aimait reprendre lors de ses nombreux spectacles!Ce spectacle n'est pas sans rappeler le concert qu’il avait offert en 2014 avec plus de 14 violonistes sur la scène du Palais Montcalm à Québec. Fait encore plus saisissant, ce spectacle de 2014 était présenté, lui aussi, un 23 avril!Les producteurs Patrick Lessard et Jonathan Bélanger, qui sont les instigateurs et créateurs de ce projet, n'en sont pas à leur premier rodéo en fait de spectacles pop/rock symphoniques. En effet, cette adaptation symphonique sera leur quatrième du genre. Après avoir créés et présentés AnesthesiA - Hommage symphonique à Metallica, L'Expérience Nirvana symphonique unplugged, et AC/DC Story symphonique sur les plus grandes scènes partout au Québec et avec différents orchestres renommés, cet ambitieux duo de producteurs est particulièrement fébrile à l'idée d'être associé à ce projet émotif et attendu. Ce sera La plus belle journée de toute leur vie! » comme Bob l'aurait si bien dit!Ce spectacle sera présenté un soir seulement à Québec. Marquez la date du vendredi 23 avril 2027 à votre calendrier car ça ne repassera pas!Une présentation de Pat Lessard & Jonathan Bélanger"
       }
     ],
     "http://schema.org/name": [
@@ -70833,7 +70811,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/Musique"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
       }
     ]
   },
@@ -71160,7 +71138,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/2a3c7bbf7a62816d",
+    "@id": "https://grandtheatre.qc.ca/genid/9985a77d1320c656",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -72882,7 +72860,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/8bee7a47747ec9d9",
+    "@id": "https://grandtheatre.qc.ca/genid/a21b6dfe837a05f5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -73497,6 +73475,401 @@
     ]
   },
   {
+    "@id": "https://grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/",
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "/programmation/gilles-vigneault-coeur-pays/"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Célébrer Gilles Vigneault - Au cœur du pays"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr",
+        "@value": "Venez entendre les grands classiques de la chanson dans cette célébration de Gille Vigneault."
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théatre de Québec"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/0d613c2937bbde7e",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/author": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/00dabc1a42f4a400"
+      }
+    ],
+    "http://schema.org/dateCreated": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-07-17"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "fr",
+        "@value": "theatre,théâtre,théatre,musique,pièce,théâtre classique,theatre contemporain,theatre quebec"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/gilles-vigneault-coeur-pays-2027-05-05-00-00",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-05-05T04:00:00+00:00"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Gilles-Vigneault.jpg"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/fd00d8bbeb2daf7c"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/1141d176c8befbfa"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/c1a97eca4eef1f5e"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/cc5f3a3988a17120"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/8547671cc06e2f31"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/gilles-vigneault-coeur-pays"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-05-05T00:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Regroupant les artistes Lou-Adriane Cassidy, Patrice Michaud, Ariane Moffatt, Ariane Roy et plusieurs autres, sous la direction de Louis-Jean Cormier, ce grand spectacle est une célébration de la richesse et de l'influence de l'œuvre de Gilles Vigneault auprès de ses contemporains. Une occasion unique de faire découvrir ou redécouvrir à toutes les générations certaines de ses plus belles chansons dans des habits neufs. Un projet né d'une évidence : celle que les mots de Vigneault continuent de résonner, de traverser les styles et les époques, et de trouver en chaque interprète une voix nouvelle pour les porter.Une présentation du Grand Théâtre de Québec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Artistes variés"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventCancelled"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Gilles-Vigneault.jpg",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Gilles-Vigneault.jpg"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/428x599-Gilles-Vigneault.jpg"
+      }
+    ],
+    "http://schema.org/contentSize": [
+      {
+        "@language": "fr",
+        "@value": "22226"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "599 px"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "428x599-Gilles-Vigneault"
+      }
+    ],
+    "http://schema.org/thumbnail": [
+      {
+        "@language": "fr",
+        "@value": "/uploads/images/428x599-Gilles-Vigneault.max-200x200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "428 px"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/fd00d8bbeb2daf7c",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNzA4MDE%3D"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T13:58:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "63.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/1141d176c8befbfa",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNzA4MDE%3D"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T13:58:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "68.00"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/c1a97eca4eef1f5e",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNzA4MDE%3D"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T13:58:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "79.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/cc5f3a3988a17120",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNzA4MDE%3D"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T13:58:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "89.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/genid/8547671cc06e2f31",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://am.ticketmaster.com/grandtheatre/fr-ca/buy/virtual-venue/TDEyNzA4MDE%3D"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-10T13:58:00+00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@language": "fr",
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "40.50"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "https://grandtheatre.qc.ca/programmation/gilles-vigneault-coeur-pays/gilles-vigneault-coeur-pays",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Célébrer Gilles Vigneault : Au cœur du pays"
+      }
+    ]
+  },
+  {
     "@id": "https://grandtheatre.qc.ca/programmation/dominique-morneau-communiquer-autrement/",
     "http://ogp.me/ns#url": [
       {
@@ -73529,7 +73902,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/41a88c1ade9bf7ba",
+    "@id": "https://grandtheatre.qc.ca/genid/eb44b8c0144c08b2",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -73776,7 +74149,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/88f3d8f9d626e740",
+    "@id": "https://grandtheatre.qc.ca/genid/27325d63e6634de5",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -75408,7 +75781,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/c794eac539d53637",
+    "@id": "https://grandtheatre.qc.ca/genid/59568ee14147349e",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -75677,7 +76050,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/2ddaf1505c1f30ff",
+    "@id": "https://grandtheatre.qc.ca/genid/cffa12f02c7b734c",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -76228,7 +76601,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/e516cf97ffd41af5",
+    "@id": "https://grandtheatre.qc.ca/genid/6e80770cdb762cce",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -76397,11 +76770,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
       }
     ]
   },
@@ -77237,11 +77605,6 @@
       {
         "@id": "http://schema.org/EventScheduled"
       }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
-      }
     ]
   },
   {
@@ -77886,7 +78249,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/31145eb3c04e7657",
+    "@id": "https://grandtheatre.qc.ca/genid/d2293b6a6bfd5fcd",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78155,7 +78518,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/72d339042e89fa84",
+    "@id": "https://grandtheatre.qc.ca/genid/5c1b5496c82a9c63",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78456,7 +78819,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/83b8bd19ddd173c5",
+    "@id": "https://grandtheatre.qc.ca/genid/99df9a7b48792589",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -78569,7 +78932,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Rejoignez l’Orchestre FILMharmonique pour son dernier voyage intergalactique avec une représentation en ciné-concert Star Wars : Le Retour du Jedi. Les dangers sont grands pour l’Alliance rebelle qui tente de détruire l’Étoile de la Mort, tandis que notre héros Luke Skywalker se retrouve face à Dark Vador et à l’Empereur.La partition emblématique du compositeur oscarisé John Williams sera interprétée en direct par 78 musiciens de l’Orchestre FILMharmonique sous la direction de Francis Choinière, tandis que le film de 1983, acclamé par la critique, sera projeté sur grand écran!Le film sera présenté en version originale anglaise avec sous-titres en français.© 1983 &amp; TM LUCASFILM LTD. TOUS DROITS RÉSERVÉS. Présentation autorisée par Disney Concerts en association avec 20th Century Fox, Lucasfilm Ltd. et Warner/Chappell Music. Interprété par l'Orchestre FILMharmoniqueDirigé par Francis Choinière"
+        "@value": "Rejoignez l’Orchestre FILMharmonique pour son dernier voyage intergalactique avec une représentation en ciné-concert Star Wars : Le Retour du Jedi. Les dangers sont grands pour l’Alliance rebelle qui tente de détruire l’Étoile de la Mort, tandis que notre héros Luke Skywalker se retrouve face à Dark Vador et à l’Empereur.La partition emblématique du compositeur oscarisé John Williams sera interprétée en direct par 78 musiciens de l’Orchestre FILMharmonique sous la direction de Francis Choinière, tandis que le film de 1983, acclamé par la critique, sera projeté sur grand écran!Le film sera présenté en version originale anglaise avec sous-titres en français.© 1983 & TM LUCASFILM LTD. TOUS DROITS RÉSERVÉS. Présentation autorisée par Disney Concerts en association avec 20th Century Fox, Lucasfilm Ltd. et Warner/Chappell Music. Interprété par l'Orchestre FILMharmoniqueDirigé par Francis Choinière"
       }
     ],
     "http://schema.org/name": [
@@ -78976,7 +79339,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Rejoignez l’Orchestre FILMharmonique pour son dernier voyage intergalactique avec une représentation en ciné-concert Star Wars : Le Retour du Jedi. Les dangers sont grands pour l’Alliance rebelle qui tente de détruire l’Étoile de la Mort, tandis que notre héros Luke Skywalker se retrouve face à Dark Vador et à l’Empereur.La partition emblématique du compositeur oscarisé John Williams sera interprétée en direct par 78 musiciens de l’Orchestre FILMharmonique sous la direction de Francis Choinière, tandis que le film de 1983, acclamé par la critique, sera projeté sur grand écran!Le film sera présenté en version originale anglaise avec sous-titres en français.© 1983 &amp; TM LUCASFILM LTD. TOUS DROITS RÉSERVÉS. Présentation autorisée par Disney Concerts en association avec 20th Century Fox, Lucasfilm Ltd. et Warner/Chappell Music. Interprété par l'Orchestre FILMharmoniqueDirigé par Francis Choinière"
+        "@value": "Rejoignez l’Orchestre FILMharmonique pour son dernier voyage intergalactique avec une représentation en ciné-concert Star Wars : Le Retour du Jedi. Les dangers sont grands pour l’Alliance rebelle qui tente de détruire l’Étoile de la Mort, tandis que notre héros Luke Skywalker se retrouve face à Dark Vador et à l’Empereur.La partition emblématique du compositeur oscarisé John Williams sera interprétée en direct par 78 musiciens de l’Orchestre FILMharmonique sous la direction de Francis Choinière, tandis que le film de 1983, acclamé par la critique, sera projeté sur grand écran!Le film sera présenté en version originale anglaise avec sous-titres en français.© 1983 & TM LUCASFILM LTD. TOUS DROITS RÉSERVÉS. Présentation autorisée par Disney Concerts en association avec 20th Century Fox, Lucasfilm Ltd. et Warner/Chappell Music. Interprété par l'Orchestre FILMharmoniqueDirigé par Francis Choinière"
       }
     ],
     "http://schema.org/name": [
@@ -79266,7 +79629,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/bd04db560a3d2bff",
+    "@id": "https://grandtheatre.qc.ca/genid/aba3658d3814b560",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -79503,7 +79866,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/0b080391f73716e7",
+    "@id": "https://grandtheatre.qc.ca/genid/012f12fb196ff7fe",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -79598,7 +79961,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Inspiré des expressions musicales les plus anciennes, le concert Aux racines du monde réunit des artistes invités de Corée, des Premières Nations du Canada et d’autres horizons pour célébrer le 25e anniversaire de Constantinople.Les chants, rythmes et traditions transmis de génération en génération révèlent les liens profonds qui unissent les cultures. Des pratiques chamaniques aux grandes traditions musicales d’Asie, du Moyen-Orient et des Amériques, les artistes font émerger des résonances qui traversent les peuples depuis la nuit des temps. Entre héritage et création, mémoire et imaginaire, cette rencontre réunit des voix exceptionnelles dans une ode à l’humanité, où la musique est un langage commun. Une grande fête des cultures vivantes vient ainsi marquer vingt-cinq années de dialogue, de découvertes et de rencontres portées par Constantinople.Une coprésentation de Constantinople et du Grand Théâtre de QuébecConsulter les autres concerts de la série Musique du mondeDistribution:Kiya Tabassian : sétar &amp; chantDidem Basar : kanunKianoush Khalialian : neyPatrick Graham : percussionHamin Honari : tombak &amp; daf&amp; musiciens invités"
+        "@value": "Inspiré des expressions musicales les plus anciennes, le concert Aux racines du monde réunit des artistes invités de Corée, des Premières Nations du Canada et d’autres horizons pour célébrer le 25e anniversaire de Constantinople.Les chants, rythmes et traditions transmis de génération en génération révèlent les liens profonds qui unissent les cultures. Des pratiques chamaniques aux grandes traditions musicales d’Asie, du Moyen-Orient et des Amériques, les artistes font émerger des résonances qui traversent les peuples depuis la nuit des temps. Entre héritage et création, mémoire et imaginaire, cette rencontre réunit des voix exceptionnelles dans une ode à l’humanité, où la musique est un langage commun. Une grande fête des cultures vivantes vient ainsi marquer vingt-cinq années de dialogue, de découvertes et de rencontres portées par Constantinople.Une coprésentation de Constantinople et du Grand Théâtre de QuébecConsulter les autres concerts de la série Musique du mondeDistribution:Kiya Tabassian : sétar & chantDidem Basar : kanunKianoush Khalialian : neyPatrick Graham : percussionHamin Honari : tombak & daf& musiciens invités"
       }
     ],
     "http://schema.org/name": [
@@ -79772,7 +80135,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/d74d1d7f61cd9fbb",
+    "@id": "https://grandtheatre.qc.ca/genid/bd21b92a39a36f91",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -79873,7 +80236,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Dans le cadre de la Série Prestige &amp; Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
+        "@value": "Dans le cadre de la Série Prestige & Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
       }
     ],
     "http://schema.org/name": [
@@ -79894,7 +80257,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
       }
     ]
   },
@@ -80180,7 +80543,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Dans le cadre de la Série Prestige &amp; Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
+        "@value": "Dans le cadre de la Série Prestige & Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
       }
     ],
     "http://schema.org/name": [
@@ -80201,7 +80564,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
       }
     ]
   },
@@ -80385,7 +80748,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Dans le cadre de la Série Prestige &amp; Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
+        "@value": "Dans le cadre de la Série Prestige & Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
       }
     ],
     "http://schema.org/name": [
@@ -80406,7 +80769,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
       }
     ]
   },
@@ -80590,7 +80953,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Dans le cadre de la Série Prestige &amp; Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
+        "@value": "Dans le cadre de la Série Prestige & Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
       }
     ],
     "http://schema.org/name": [
@@ -80611,7 +80974,7 @@
     ],
     "http://schema.org/additionalType": [
       {
-        "@id": "https://grandtheatre.qc.ca/ontologie/MusiqueClassique"
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
       }
     ]
   },
@@ -80732,11 +81095,11 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/",
+    "@id": "https://grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/",
     "http://ogp.me/ns#url": [
       {
         "@language": "fr",
-        "@value": "/programmation/pour-une-autre-histoire-un-soir/"
+        "@value": "/programmation/joe-bocan-marie-carmen-et-marie-denise/"
       }
     ],
     "http://ogp.me/ns#title": [
@@ -80759,12 +81122,12 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/"
+        "@id": "https://grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/"
       }
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/genid/a19fcf6225c34193",
+    "@id": "https://grandtheatre.qc.ca/genid/586458c8084843e8",
     "@type": [
       "http://schema.org/WebSite"
     ],
@@ -80791,7 +81154,7 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/"
+        "@id": "https://grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/"
       }
     ],
     "http://schema.org/keywords": [
@@ -80802,7 +81165,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/pour-une-autre-histoire-un-soir-2027-09-26-00-00",
+    "@id": "https://grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/joe-bocan-marie-carmen-et-marie-denise-2027-09-26-00-00",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -80840,7 +81203,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "https://grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/pour-une-autre-histoire-un-soir"
+        "@id": "https://grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/pour-une-autre-histoire-un-soir"
       }
     ],
     "http://schema.org/startDate": [
@@ -80851,24 +81214,24 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/"
+        "@id": "https://www.grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/"
+        "@id": "https://grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "PRÉVENTE EN COURS Pour recevoir les prochaines préventes, abonnez-vous à l'infolettre! Trois des plus belles voix du Québec, Joe Bocan, Marie Carmen et Marie Denise Pelletier, se retrouveront de nouveau réunies sur scène avec Pour une autre histoire d’un soir, une version revisitée du spectacle qui leur a valu le Félix du Spectacle de l'année – Variétés/Réinterprétations en 2022 et a attiré plus de 50 000 spectateurs.Dans une mise en scène renouvelée de Michel Poirier, voici un spectacle qui n’aura rien perdu de son charme. Un hommage à l’auteur-compositeur-interprète Germain Gauthier, décédé en août dernier, s’inscrira parmi les nouveautés. Et rassurez-vous : la rumeur veut que L’aigle noir, Repartir à zéro et Tous les cris les SOS soient de nouveau au programme !Pour une autre histoire d’un soir offre aux admirateurs de la première heure l'occasion de revivre des moments inoubliables tout en découvrant quelques surprises ; pour les autres, ce sera la chance de comprendre pourquoi ce spectacle a récolté tant d’éloges de la part du public et des critiques.Avec Pour une autre histoire d’un soir, la porte s’ouvre sur une nouvelle aventure où se reflètent le meilleur du passé et des découvertes de grande envergure.Mise en scène : Michel Poirier"
+        "@value": "Trois des plus belles voix du Québec, Joe Bocan, Marie Carmen et Marie Denise Pelletier, se retrouveront de nouveau réunies sur scène avec Pour une autre histoire d’un soir, une version revisitée du spectacle qui leur a valu le Félix du Spectacle de l'année – Variétés/Réinterprétations en 2022 et a attiré plus de 50 000 spectateurs.Dans une mise en scène renouvelée de Michel Poirier, voici un spectacle qui n’aura rien perdu de son charme. Un hommage à l’auteur-compositeur-interprète Germain Gauthier, décédé en août dernier, s’inscrira parmi les nouveautés. Et rassurez-vous : la rumeur veut que L’aigle noir, Repartir à zéro et Tous les cris les SOS soient de nouveau au programme!Pour une autre histoire d’un soir offre aux admirateurs de la première heure l'occasion de revivre des moments inoubliables tout en découvrant quelques surprises ; pour les autres, ce sera la chance de comprendre pourquoi ce spectacle a récolté tant d’éloges de la part du public et des critiques.Avec Pour une autre histoire d’un soir, la porte s’ouvre sur une nouvelle aventure où se reflètent le meilleur du passé et des découvertes de grande envergure.Mise en scène : Michel Poirier"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Joe Bocan, Marie Carmen et Marie Denise"
+        "@value": "Joe Bocan, Marie Carmen et Marie Denise Pelletier"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -80879,6 +81242,11 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "https://grandtheatre.qc.ca/ontologie/Chanson"
       }
     ]
   },
@@ -81016,7 +81384,7 @@
     ]
   },
   {
-    "@id": "https://grandtheatre.qc.ca/programmation/pour-une-autre-histoire-un-soir/pour-une-autre-histoire-un-soir",
+    "@id": "https://grandtheatre.qc.ca/programmation/joe-bocan-marie-carmen-et-marie-denise/pour-une-autre-histoire-un-soir",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -81034,18 +81402,6 @@
     ],
     "http://schema.org/subEvent": [
       {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-05-00-00"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-05-19-00"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-06-00-00"
-      },
-      {
-        "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-06-19-00"
-      },
-      {
         "@id": "https://grandtheatre.qc.ca/programmation/evangeline/evangeline-2026-09-12-00-00"
       },
       {
@@ -81061,7 +81417,7 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2026-09-05T00:00:00+00:00"
+        "@value": "2026-09-12T00:00:00+00:00"
       }
     ],
     "http://schema.org/endDate": [
@@ -81334,7 +81690,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © &amp; ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
+        "@value": "VERSION ORIGINALE ANGLAISE, SOUS-TITRES EN FRANCAIS (V.O.A.S.-F.)Revivez la magie de votre sorcier préféré avec Harry Potter et le Prisonnier d’Azkaban™ en concert. Inspiré du troisième opus de la saga culte, ce récit palpitant est accompagné par la musique d’un orchestre symphonique en direct alors que Harry prend son envol sur grand écran.Lors de leur troisième année à Poudlard™, Harry, Ron et Hermione croisent la route de Sirius Black™, un prisonnier en fuite, et découvrent le monde fascinant des créatures magiques en apprivoisant un hippogriffe, mi-cheval, mi-aigle. Ils apprennent aussi à tenir tête aux épouvantards qui changent d’apparence et s’initient aux mystères de la divination. Mais pour Harry, l’année est surtout marquée par l’épreuve des terrifiants Détraqueurs, par l’affrontement avec un loup-garou redoutable et par la révélation du lien profond qui unit Sirius à son histoire et à celle de ses parents.Ciné-concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).Une présentation de l'Orchestre symphonique de Québec\nBrought to you by CineConcertsAll characters and elements © & ™ Warner Bros.Entertainment Inc. Publishing Rights © JKR.http://HARRYPOTTERINCONCERT.COM#HarryPotterinConcert"
       }
     ],
     "http://schema.org/image": [
@@ -81907,7 +82263,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run &amp; l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
+        "@value": "Mêlant l’intimité brute du rock indépendant à la richesse d’un orchestre symphonique, Half Moon Run & l’Orchestre FILMharmonique plongent le public dans l’univers du groupe comme jamais auparavant, avec une énergie vibrante et des sonorités captivantes.Sous la direction du chef Francis Choinière, les chansons les plus marquantes d’Half Moon Run sont réinterprétées en formes symphoniques grandioses, transformant leur son unique en une expérience immersive et profondément saisissante. Grâce aux arrangements brillants de Blair Thomson, cordes et cuivres s’entrelacent avec percussions et voix envoûtantes, révélant de nouvelles nuances émotionnelles à chaque note.Au centre de tout cela, la complicité instinctive de Devon Portielje, Conner Molander et Dylan Phillips se fait sentir, un lien silencieux qui soutient et répond à la puissance de l’orchestre avec intensité et subtilité.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre: Francis ChoinièreInterprété par : Half Moon Run et l'Orchestre FILMharmonique"
       }
     ],
     "http://schema.org/image": [
@@ -82498,7 +82854,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Fort du succès de sa première édition, Les Choristes en ciné-concert revient au Grand Théâtre!Le film culte qui a touché plus de 15 millions de spectateurs reprend vie sur scène dans une expérience musicale unique où l’émotion du cinéma rencontre la puissance d’un orchestre symphonique.Poussez à nouveau les portes de l’internat Fond de l’Étang et laissez-vous porter par un orchestre symphonique et de jeunes chanteurs sous la direction de Nicolas Simon. Ensemble, ils interpréteront la célèbre bande originale du film, en parfaite synchronisation avec sa projection sur écran géant.Retrouvez la musique bouleversante de Bruno Coulais, nominé aux Oscars et récompensé du César de la meilleure musique de film, à travers des œuvres devenues incontournables comme Vois sur ton chemin et Caresse sur l’océan.Une occasion unique de revivre toute la magie du film Les Choristes et de redécouvrir cette histoire intemporelle qui continue de faire vibrer toutes les générations.Synopsis du filmEn 1948, Clément Mathieu, professeur de musique sans emploi accepte un poste de surveillant dans un internat de rééducation pour mineurs. Le système répressif appliqué par le directeur, Rachin, bouleverse Mathieu. En initiant ces enfants difficiles à la musique et au chant choral, Mathieu parviendra à transformer leur quotidien.ProductionLes Agents Doubles ProductionsCréditsLes Choristes - En ciné-concert : coproduit et sous licence par uGo&amp;Play et TF1 Spectacle, en accord avec Galatée Films et Pathé Films. Représentation mondiale par IMG Artists GmbH Allemagne.Une présentation d’Agents Doubles Productions"
+        "@value": "Fort du succès de sa première édition, Les Choristes en ciné-concert revient au Grand Théâtre!Le film culte qui a touché plus de 15 millions de spectateurs reprend vie sur scène dans une expérience musicale unique où l’émotion du cinéma rencontre la puissance d’un orchestre symphonique.Poussez à nouveau les portes de l’internat Fond de l’Étang et laissez-vous porter par l’Orchestre Filmharmonique et Les Petits Chanteurs du Mont-Royal sous la direction de Nicolas Simon. Ensemble, ils interpréteront la célèbre bande originale du film, en parfaite synchronisation avec sa projection sur écran géant.Retrouvez la musique bouleversante de Bruno Coulais, nominé aux Oscars et récompensé du César de la meilleure musique de film, à travers des œuvres devenues incontournables comme Vois sur ton chemin et Caresse sur l’océan.Une occasion unique de revivre toute la magie du film Les Choristes et de redécouvrir cette histoire intemporelle qui continue de faire vibrer toutes les générations.Synopsis du filmEn 1948, Clément Mathieu, professeur de musique sans emploi accepte un poste de surveillant dans un internat de rééducation pour mineurs. Le système répressif appliqué par le directeur, Rachin, bouleverse Mathieu. En initiant ces enfants difficiles à la musique et au chant choral, Mathieu parviendra à transformer leur quotidien.ProductionLes Agents Doubles ProductionsCréditsLes Choristes - En ciné-concert : coproduit et sous licence par uGo&Play et TF1 Spectacle, en accord avec Galatée Films et Pathé Films. Représentation mondiale par IMG Artists GmbH Allemagne.Une présentation d’Agents Doubles Productions"
       }
     ],
     "http://schema.org/image": [
@@ -83132,6 +83488,72 @@
     ]
   },
   {
+    "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/#EventSeries",
+    "@type": [
+      "http://schema.org/EventSeries"
+    ],
+    "http://schema.org/subEvent": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique-2027-04-03-23-30"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique-2027-04-04-18-00"
+      },
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique-2027-04-04-23-00"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-03T23:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-04-05T03:00:00+00:00"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/notre-dame-paris-symphonique"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/539ae9e357e909ae"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://grandtheatre.qc.ca/genid/f7b3d63b5ecd1116"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "PRÉVENTE EN COURSAbonnez-vous à l'infolettre pour être informés des prochaines préventes.Plus de 25 ans après avoir marqué toute une génération, Notre-Dame de Paris se déploie avec une puissance orchestrale dans une adaptation symphonique de Simon Leclerc et porté par l’Orchestre FILMharmonique sous la direction de Francis Choinière.Pour donner vie à cet univers, le spectacle réunit Pierre Lapointe (Gringoire), Marc Hervieux (Quasimodo), Marie-Eve Janvier (Esmeralda), Christian Marc Gendron (Frollo), Sam Champagne (Phoebus), Josiane (Fleur-de-Lys) et Gardy Fury (Clopin).Redécouvrez les chansons qui ont marqué toute une génération telles que Belle, Le Temps des cathédrales, Vivre, Danse mon Esmeralda dans toute leur ampleur orchestrale grâce à ce grand concert symphonique.Producteur / Diffuseur : GFN Productions et Orchestre FILMharmoniqueChef d’orchestre : Francis ChoinièreInterprété par : Pierre Lapointe, Marc Hervieux, Marie-Eve Janvier, Christian Marc Gendron, Sam Champagne, Josiane, Gardy Fury et l’Orchestre FILMharmoniqueDurée : 2 h avec entracteNotre-Dame de Paris symphonique est un concert symphonique présentant les œuvres musicales de Notre-Dame de Paris.Une reproduction du concert originalement présenté par l’Orchestre symphonique de Montréal en 2001."
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://grandtheatre.qc.ca/uploads/original_images/NotreDamedeParis_428X599.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "avec l’Orchestre FILMharmonique"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.grandtheatre.qc.ca/programmation/notre-dame-paris-symphonique/"
+      }
+    ]
+  },
+  {
     "@id": "https://grandtheatre.qc.ca/programmation/grand-peur-misere-iiie-reich-trident/#EventSeries",
     "@type": [
       "http://schema.org/EventSeries"
@@ -83681,7 +84103,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Rejoignez l’Orchestre FILMharmonique pour son dernier voyage intergalactique avec une représentation en ciné-concert Star Wars : Le Retour du Jedi. Les dangers sont grands pour l’Alliance rebelle qui tente de détruire l’Étoile de la Mort, tandis que notre héros Luke Skywalker se retrouve face à Dark Vador et à l’Empereur.La partition emblématique du compositeur oscarisé John Williams sera interprétée en direct par 78 musiciens de l’Orchestre FILMharmonique sous la direction de Francis Choinière, tandis que le film de 1983, acclamé par la critique, sera projeté sur grand écran!Le film sera présenté en version originale anglaise avec sous-titres en français.© 1983 &amp; TM LUCASFILM LTD. TOUS DROITS RÉSERVÉS. Présentation autorisée par Disney Concerts en association avec 20th Century Fox, Lucasfilm Ltd. et Warner/Chappell Music. Interprété par l'Orchestre FILMharmoniqueDirigé par Francis Choinière"
+        "@value": "Rejoignez l’Orchestre FILMharmonique pour son dernier voyage intergalactique avec une représentation en ciné-concert Star Wars : Le Retour du Jedi. Les dangers sont grands pour l’Alliance rebelle qui tente de détruire l’Étoile de la Mort, tandis que notre héros Luke Skywalker se retrouve face à Dark Vador et à l’Empereur.La partition emblématique du compositeur oscarisé John Williams sera interprétée en direct par 78 musiciens de l’Orchestre FILMharmonique sous la direction de Francis Choinière, tandis que le film de 1983, acclamé par la critique, sera projeté sur grand écran!Le film sera présenté en version originale anglaise avec sous-titres en français.© 1983 & TM LUCASFILM LTD. TOUS DROITS RÉSERVÉS. Présentation autorisée par Disney Concerts en association avec 20th Century Fox, Lucasfilm Ltd. et Warner/Chappell Music. Interprété par l'Orchestre FILMharmoniqueDirigé par Francis Choinière"
       }
     ],
     "http://schema.org/image": [
@@ -83750,7 +84172,7 @@
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Dans le cadre de la Série Prestige &amp; Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
+        "@value": "Dans le cadre de la Série Prestige & Patrimoine, GSI Musique et Oziko présentent Ferland symphonique; un hommage grandiose et vibrant créé sur l’œuvre du Petit Roi, l’unique Jean-Pierre Ferland. Cette grande aventure musicale prendra vie grâce aux arrangements symphoniques de Blair Thomson et sera interprétée par l’Orchestre symphonique de Québec, sous la direction du chef Alain Trudel. Des éléments de scénographie et de mise en scène seront annoncés sous peu… et à l’image de l’artiste qu’il était, ce sera rempli de poésie.Grand poète et bâtisseur, Jean-Pierre Ferland aura tissé des ponts entre la chanson à texte et la culture populaire, d’où l’importance de célébrer son héritage exceptionnel.Une présentation de GSI Musique et Oziko"
       }
     ],
     "http://schema.org/image": [
